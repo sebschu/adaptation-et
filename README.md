@@ -1,2 +1,2 @@
-# adaptationn-et
-Semantic adaptation eye tracking project
+# Adaptation eye-tracking
+Semantic adaptation eye-tracking project

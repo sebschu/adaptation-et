@@ -1,12 +1,13 @@
 var N_TRIALS = 15;
 
 
+var cols = _.shuffle(COLORS);
+
 
 function build_trials() {
     var trials = [];
     var selected_combinations = _.sample(combinations, N_TRIALS);
     for (var i = 0; i < N_TRIALS; i++) {
-        var cols = _.shuffle(COLORS);
         var ps = _.shuffle(selected_combinations[i]);
         trials.push({
             "col1": cols[0],
@@ -165,8 +166,8 @@ function make_slides(f) {
             exp.data = {
                 "trials": exp.data_trials,
                 "system": exp.system,
-                "condition": exp.condition,
-                "misread_instructions": exp.misread_instructions,
+                "condition": null,
+                "misread_instructions": null,
                 "subject_information": exp.subj_data,
                 "time_in_minutes": (Date.now() - exp.startT) / 60000
             };

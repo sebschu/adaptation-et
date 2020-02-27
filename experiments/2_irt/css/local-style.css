@@ -1,0 +1,104 @@
+.slider {
+  /* default is width 400 and margin 10 */
+	width: 400;
+	margin: 10px;
+}
+
+input.button {
+  padding: 10px 40px 10px 40px;
+  margin: 5px;
+  border: 1px solid black;
+  font-size: 14pt;
+  font-weight: bold;
+  background-color: #eee;
+  cursor: pointer;
+}
+
+input.control {
+  padding: 5px 5px 5px 5px;
+  width: 30px;
+}
+
+p.train-instructions {
+  margin: 50px 0 0 0;
+}
+
+.slide {
+  height: 825px;
+}
+
+.test-stimulus {
+  font-size: 2em;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.err {
+	color: red;
+}
+
+.gumball-canvas {
+  background: url('../stimuli/cables.png');
+  background-size: 101% 92%;
+  margin: 0 175px 0;
+  width: 460px;
+}
+
+.gumball-canvas.active img {
+  cursor: pointer;
+}
+
+.gumball-canvas.active img:hover {
+  background: rgba(0,0,0,0.075);
+}
+
+.gumball-canvas.active img.gumball-button {
+  cursor: not-allowed;
+}
+
+.gumball-canvas.active img.gumball-button:hover {
+  background: rgba(0,0,0,0);
+}
+
+#trial-utterance {
+  font-size: 1.2em;
+  font-weight: bold;
+  font-style: italic;
+  height: 1.5em;
+  overflow: hidden;
+  background: #000;
+  margin-right: 100px;
+}
+
+#trial-utterance.white {
+  background: #fff;
+}
+
+#trial-utterance span {
+  padding: 5px 5px 10px 100px;
+  background: #fff;
+  float: left;
+}
+
+p.description {
+  font-size: 1.2em;
+  width: 600px;
+  margin: auto;
+  border: 1px solid #ccc;
+  padding: 30px;
+  line-height: 2em;
+}
+
+input.input-blank {
+    border: 1px solid grey;
+    font-size: 1em;
+    text-align: center;
+    width: 125px;
+}
+
+.bonus {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  display: none;
+}

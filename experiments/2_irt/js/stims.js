@@ -98,7 +98,7 @@ if (CONDITION == "some") {
 
   }, {
     "percentages": [40, 0],
-    "quantifiers": ["some", "many"]
+    "quantifiers": ["some", "none"]
   }];
 }
 

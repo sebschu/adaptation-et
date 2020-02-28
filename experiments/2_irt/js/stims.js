@@ -55,7 +55,7 @@ if (CONDITION == "some") {
     "percentages": [75, 100],
     "quantifiers": ["most", "all"]
   }];
-} else {
+} else if (condition == "most") {
   trials = [{
     "percentages": [60, 90],
     "quantifiers": ["most", "most"]
@@ -70,7 +70,36 @@ if (CONDITION == "some") {
     "percentages": [40, 0],
     "quantifiers": ["some", "none"]
   }];
+} else if (condition == "many_some") {
+  trials = [{
+    "percentages": [25, 60],
+    "quantifiers": ["some", "some"]
+  }, {
+    "percentages": [60, 90],
+    "quantifiers": ["some", "many"]
+  }, {
+    "percentages": [90, 0],
+    "quantifiers": ["many", "none"]
 
+  }, {
+    "percentages": [75, 100],
+    "quantifiers": ["many", "all"]
+  }];
+} else if (condition == "many_many") {
+  trials = [{
+    "percentages": [60, 90],
+    "quantifiers": ["many", "many"]
+  }, {
+    "percentages": [25, 60],
+    "quantifiers": ["some", "many"]
+  }, {
+    "percentages": [25, 100],
+    "quantifiers": ["some", "all"]
+
+  }, {
+    "percentages": [40, 0],
+    "quantifiers": ["some", "many"]
+  }];
 }
 
 var n_trial = 1;

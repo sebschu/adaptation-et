@@ -277,11 +277,11 @@ function init() {
 
     imgs = [];
 
-    for (var i = 0; i < percentages.length; i++) {
-        imgs.push("./stimuli/gumball_blue_" + percentages[i] + ".png")
-        imgs.push("./stimuli/gumball_orange_" + percentages[i] + ".png")
-
-    }
+    //for (var i = 0; i < percentages.length; i++) {
+    //    imgs.push("./stimuli/gumball_blue_" + percentages[i] + ".png")
+    //    imgs.push("./stimuli/gumball_orange_" + percentages[i] + ".png")
+    //
+    //}
 
 
     preload(imgs);

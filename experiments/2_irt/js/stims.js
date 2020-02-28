@@ -55,7 +55,7 @@ if (CONDITION == "some") {
     "percentages": [75, 100],
     "quantifiers": ["most", "all"]
   }];
-} else if (condition == "most") {
+} else if (CONDITION == "most") {
   trials = [{
     "percentages": [60, 90],
     "quantifiers": ["most", "most"]
@@ -70,7 +70,7 @@ if (CONDITION == "some") {
     "percentages": [40, 0],
     "quantifiers": ["some", "none"]
   }];
-} else if (condition == "many_some") {
+} else if (CONDITION == "many_some") {
   trials = [{
     "percentages": [25, 60],
     "quantifiers": ["some", "some"]
@@ -85,7 +85,7 @@ if (CONDITION == "some") {
     "percentages": [75, 100],
     "quantifiers": ["many", "all"]
   }];
-} else if (condition == "many_many") {
+} else if (CONDITION == "many_many") {
   trials = [{
     "percentages": [60, 90],
     "quantifiers": ["many", "many"]

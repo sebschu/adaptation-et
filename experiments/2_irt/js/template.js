@@ -129,8 +129,7 @@ function make_slides(f) {
           bonus++;
         }
         if (this.step == this.stim.utterance_parts.length) {
-          bonus++;
-          bonus++;
+          bonus += 2;
         }
       }
       
@@ -187,7 +186,8 @@ function make_slides(f) {
                 "system": exp.system,
                 "condition": CONDITION,
                 "subject_information": exp.subj_data,
-                "time_in_minutes": (Date.now() - exp.startT) / 60000
+                "time_in_minutes": (Date.now() - exp.startT) / 60000,
+                "bonus": bonus
             };
             setTimeout(function() {
                 turk.submit(exp.data);

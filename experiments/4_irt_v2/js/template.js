@@ -124,12 +124,12 @@ function make_slides(f) {
     var log_response_trial = function() {
       
       if (this.response == "target") {
-        bonus++;
+        bonus += 0.5;
         if (this.step == this.stim.utterance_parts.length - 1) {
-          bonus++;
+          bonus += 0.5;
         }
         if (this.step == this.stim.utterance_parts.length) {
-          bonus += 2;
+          bonus += 1.5;
         }
       }
       

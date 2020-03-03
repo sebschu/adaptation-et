@@ -181,6 +181,13 @@ function make_slides(f) {
     slides.thanks = slide({
         name: "thanks",
         start: function() {
+            
+            if (bonus < 175) {
+              $("#bonus-msg").hide();
+            } else {
+              $("#final-bonus").text(Math.round(bonus)/100);
+            }            
+          
             exp.data = {
                 "trials": exp.data_trials,
                 "system": exp.system,

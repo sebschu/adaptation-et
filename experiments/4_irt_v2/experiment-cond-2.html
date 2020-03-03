@@ -53,7 +53,7 @@
                 InterActive Language Processing Lab at Stanford
             </p>
             <p id="instruct-text">
-                In this experiment, you will see several scenes and you will be asked to play a guessing game. The HIT should take about 10 minutes, and if you pay attention you should <strong>earn a bonus of at least $2.50</strong>! Please pay attention, thanks!
+                In this experiment, you will see several scenes and you will be asked to play a guessing game. The HIT should take about 7-9 minutes, and if you pay attention you should <strong>earn a bonus of at least $1.75</strong>! Please pay attention, thanks!
             </p><input id="start_button" type="button" class="button" value="Start Experiment">
             <p id="legal">
                 <strong>LEGAL INFORMATION:</strong><br>
@@ -133,15 +133,18 @@
                 <p>You will then see a partial description and it is your task to guess which of the two machines the description is referring to.</p>
                 <p>To make a  guess click on one of the two machines. Whenever you make a guess more words of the description will appear.</p>
                 <p>&nbsp;</p>
-                <p>You will get a bonus for correct guesses:</p>
-                <p><strong>6 cents</strong> for correctly guessing on the <strong>first</strong>, <strong>second</strong>, and <strong>third</strong> try</p>
-                <p><strong>5 cents</strong> for correctly guessing only on the <strong>second</strong> and <strong>third</strong> try</p>
-                <p><strong>3 cents</strong> for correctly guessing only on the <strong>third</strong> try</p>
+                <p>You will get a bonus<sup>*</sup> for correct guesses:</p>
+                <p><strong>3.5 cents</strong> for correctly guessing on the <strong>first</strong>, <strong>second</strong>, and <strong>third</strong> try</p>
+                <p><strong>3 cents</strong> for correctly guessing only on the <strong>second</strong> and <strong>third</strong> try</p>
+                <p><strong>2 cents</strong> for correctly guessing only on the <strong>third</strong> try</p>
                 <p>&nbsp;</p>
-                <p><strong>Note</strong>: Sometimes it will be impossible to determine which machine the description is referring to until the second or third try and you will have to make a random guess. Good luck!</p>
+                <p><strong>Note</strong>: Sometimes it will be impossible to determine which machine the description is referring to until the second or third try and you will have to make a random guess. Good luck!</p>                
                 <p>
                     <input type="button" onclick="_s.button()" class="button" value="Continue">
                 </p>
+                <p>&nbsp;</p>
+                <p><sup>*</sup>We reserve the right to withhold the bonus for participants who randomly click through the experiment. If you faithfully complete this HIT, you will get a bonus of at least $1.75!</p>
+                
                 
                 
             </div>
@@ -205,7 +208,7 @@
             <p class="big">
                 Thanks for your time!
             </p>
-            <p>You will receive your bonus in the next couple of days!</p>
+            <p id="bonus-msg">You will receive your bonus of $<span id="final-bonus">{}</span> in the next couple of days!</p>
         </div>
         <div class="progress">
             <span>Progress:</span>

@@ -1,0 +1,241 @@
+color,description,proportion,workerid,Answer.condition,Answer.time_in_minutes,Answer.misread_instructions
+orange,some,25,0,probably,3.40035,undefined
+blue,all,100,0,probably,3.40035,undefined
+blue,all,100,0,probably,3.40035,undefined
+orange,half,50,0,probably,3.40035,undefined
+blue,most,90,0,probably,3.40035,undefined
+orange,half,50,0,probably,3.40035,undefined
+blue,none,0,0,probably,3.40035,undefined
+orange,a few,25,0,probably,3.40035,undefined
+blue,most,75,0,probably,3.40035,undefined
+orange,most,75,0,probably,3.40035,undefined
+blue,half,50,0,probably,3.40035,undefined
+orange,half,50,0,probably,3.40035,undefined
+blue,most,75,0,probably,3.40035,undefined
+orange,all,100,0,probably,3.40035,undefined
+blue,all,100,0,probably,3.40035,undefined
+orange,none,0,0,probably,3.40035,undefined
+blue,all,100,0,probably,3.40035,undefined
+orange,a few,10,0,probably,3.40035,undefined
+orange,most,60,0,probably,3.40035,undefined
+blue,a few,25,0,probably,3.40035,undefined
+orange,all,100,0,probably,3.40035,undefined
+blue,most,90,0,probably,3.40035,undefined
+orange,a few,10,0,probably,3.40035,undefined
+blue,half,50,0,probably,3.40035,undefined
+orange,none,0,0,probably,3.40035,undefined
+blue,most,60,0,probably,3.40035,undefined
+orange,a few,10,0,probably,3.40035,undefined
+blue,a few,10,0,probably,3.40035,undefined
+blue,most,60,0,probably,3.40035,undefined
+orange,half,40,0,probably,3.40035,undefined
+orange,all,25,1,probably,5.7094,undefined
+blue,none,100,1,probably,5.7094,undefined
+blue,all,50,1,probably,5.7094,undefined
+orange,all,25,1,probably,5.7094,undefined
+blue,all,50,1,probably,5.7094,undefined
+orange,all,25,1,probably,5.7094,undefined
+blue,none,100,1,probably,5.7094,undefined
+orange,noe,90,1,probably,5.7094,undefined
+blue,none,90,1,probably,5.7094,undefined
+orange,all,40,1,probably,5.7094,undefined
+blue,all,0,1,probably,5.7094,undefined
+orange,none,75,1,probably,5.7094,undefined
+blue,none,90,1,probably,5.7094,undefined
+orange,none,90,1,probably,5.7094,undefined
+orange,none,50,1,probably,5.7094,undefined
+blue,all,0,1,probably,5.7094,undefined
+blue,all,100,1,probably,5.7094,undefined
+orange,none,75,1,probably,5.7094,undefined
+blue,none,60,1,probably,5.7094,undefined
+orange,none,60,1,probably,5.7094,undefined
+blue,none,75,1,probably,5.7094,undefined
+orange,all,50,1,probably,5.7094,undefined
+blue,none,0,1,probably,5.7094,undefined
+orange,noe,25,1,probably,5.7094,undefined
+blue,none,25,1,probably,5.7094,undefined
+orange,none,25,1,probably,5.7094,undefined
+blue,all,100,1,probably,5.7094,undefined
+orange,none,0,1,probably,5.7094,undefined
+orange,all,100,1,probably,5.7094,undefined
+blue,all,100,1,probably,5.7094,undefined
+orange,some,10,2,probably,5.324966666666667,undefined
+blue,all,100,2,probably,5.324966666666667,undefined
+blue,some,75,2,probably,5.324966666666667,undefined
+orange,some,40,2,probably,5.324966666666667,undefined
+blue,all,100,2,probably,5.324966666666667,undefined
+orange,some,75,2,probably,5.324966666666667,undefined
+orange,some,25,2,probably,5.324966666666667,undefined
+blue,some,0,2,probably,5.324966666666667,undefined
+blue,most,90,2,probably,5.324966666666667,undefined
+orange,most,90,2,probably,5.324966666666667,undefined
+orange,none,0,2,probably,5.324966666666667,undefined
+blue,some,10,2,probably,5.324966666666667,undefined
+blue,none,0,2,probably,5.324966666666667,undefined
+orange,some,40,2,probably,5.324966666666667,undefined
+blue,some,50,2,probably,5.324966666666667,undefined
+orange,some,50,2,probably,5.324966666666667,undefined
+blue,some,60,2,probably,5.324966666666667,undefined
+orange,most,90,2,probably,5.324966666666667,undefined
+orange,most,75,2,probably,5.324966666666667,undefined
+blue,some,60,2,probably,5.324966666666667,undefined
+orange,some,25,2,probably,5.324966666666667,undefined
+blue,all,100,2,probably,5.324966666666667,undefined
+orange,all,100,2,probably,5.324966666666667,undefined
+blue,some,50,2,probably,5.324966666666667,undefined
+blue,some,50,2,probably,5.324966666666667,undefined
+orange,some,25,2,probably,5.324966666666667,undefined
+orange,some,25,2,probably,5.324966666666667,undefined
+blue,some,60,2,probably,5.324966666666667,undefined
+orange,some,60,2,probably,5.324966666666667,undefined
+blue,some,60,2,probably,5.324966666666667,undefined
+blue,none,0,3,probably,9.375966666666667,undefined
+orange,half,60,3,probably,9.375966666666667,undefined
+blue,half,60,3,probably,9.375966666666667,undefined
+orange,few,10,3,probably,9.375966666666667,undefined
+blue,half,50,3,probably,9.375966666666667,undefined
+orange,half,50,3,probably,9.375966666666667,undefined
+orange,all,100,3,probably,9.375966666666667,undefined
+blue,most,75,3,probably,9.375966666666667,undefined
+orange,half,40,3,probably,9.375966666666667,undefined
+blue,half,40,3,probably,9.375966666666667,undefined
+blue,most,90,3,probably,9.375966666666667,undefined
+orange,half,40,3,probably,9.375966666666667,undefined
+orange,few,25,3,probably,9.375966666666667,undefined
+blue,most,60,3,probably,9.375966666666667,undefined
+orange,most,60,3,probably,9.375966666666667,undefined
+blue,most,75,3,probably,9.375966666666667,undefined
+blue,few,10,3,probably,9.375966666666667,undefined
+orange,few,10,3,probably,9.375966666666667,undefined
+blue,half,60,3,probably,9.375966666666667,undefined
+orange,all,100,3,probably,9.375966666666667,undefined
+orange,half,40,3,probably,9.375966666666667,undefined
+blue,half,50,3,probably,9.375966666666667,undefined
+blue,half,50,3,probably,9.375966666666667,undefined
+orange,none,0,3,probably,9.375966666666667,undefined
+blue,all,100,3,probably,9.375966666666667,undefined
+orange,half,50,3,probably,9.375966666666667,undefined
+orange,none,0,3,probably,9.375966666666667,undefined
+blue,few,10,3,probably,9.375966666666667,undefined
+blue,half,40,3,probably,9.375966666666667,undefined
+orange,all,100,3,probably,9.375966666666667,undefined
+orange,none,0,4,probably,2.850216666666667,undefined
+blue,most,90,4,probably,2.850216666666667,undefined
+blue,some,25,4,probably,2.850216666666667,undefined
+orange,most,60,4,probably,2.850216666666667,undefined
+blue,none,0,4,probably,2.850216666666667,undefined
+orange,some,40,4,probably,2.850216666666667,undefined
+orange,half,50,4,probably,2.850216666666667,undefined
+blue,most,90,4,probably,2.850216666666667,undefined
+blue,all,100,4,probably,2.850216666666667,undefined
+orange,some,25,4,probably,2.850216666666667,undefined
+orange,some,25,4,probably,2.850216666666667,undefined
+blue,some,25,4,probably,2.850216666666667,undefined
+orange,most,75,4,probably,2.850216666666667,undefined
+blue,half,40,4,probably,2.850216666666667,undefined
+blue,none,0,4,probably,2.850216666666667,undefined
+orange,most,60,4,probably,2.850216666666667,undefined
+orange,all,100,4,probably,2.850216666666667,undefined
+blue,half,50,4,probably,2.850216666666667,undefined
+blue,most,90,4,probably,2.850216666666667,undefined
+orange,most,90,4,probably,2.850216666666667,undefined
+orange,none,0,4,probably,2.850216666666667,undefined
+blue,most,75,4,probably,2.850216666666667,undefined
+orange,most,60,4,probably,2.850216666666667,undefined
+blue,half,50,4,probably,2.850216666666667,undefined
+orange,most,60,4,probably,2.850216666666667,undefined
+blue,most,60,4,probably,2.850216666666667,undefined
+orange,half,50,4,probably,2.850216666666667,undefined
+blue,most,75,4,probably,2.850216666666667,undefined
+blue,few,10,4,probably,2.850216666666667,undefined
+orange,half,60,4,probably,2.850216666666667,undefined
+orange,some,40,5,probably,4.03565,undefined
+blue,more,60,5,probably,4.03565,undefined
+blue,half,50,5,probably,4.03565,undefined
+orange,none,0,5,probably,4.03565,undefined
+orange,none,0,5,probably,4.03565,undefined
+blue,most,90,5,probably,4.03565,undefined
+orange,two thirds,60,5,probably,4.03565,undefined
+blue,two thirds,60,5,probably,4.03565,undefined
+blue,most,75,5,probably,4.03565,undefined
+orange,half,50,5,probably,4.03565,undefined
+blue,all,100,5,probably,4.03565,undefined
+orange,two thirds,60,5,probably,4.03565,undefined
+orange,half,50,5,probably,4.03565,undefined
+blue,one third,25,5,probably,4.03565,undefined
+blue,three,10,5,probably,4.03565,undefined
+orange,three,10,5,probably,4.03565,undefined
+orange,three,10,5,probably,4.03565,undefined
+blue,thirteen,40,5,probably,4.03565,undefined
+orange,eight,25,5,probably,4.03565,undefined
+blue,nine,25,5,probably,4.03565,undefined
+orange,one third,40,5,probably,4.03565,undefined
+blue,one third,40,5,probably,4.03565,undefined
+blue,all but three,90,5,probably,4.03565,undefined
+orange,an equal amount,90,5,probably,4.03565,undefined
+orange,half,50,5,probably,4.03565,undefined
+blue,nearly all,90,5,probably,4.03565,undefined
+orange,none,0,5,probably,4.03565,undefined
+blue,some,40,5,probably,4.03565,undefined
+orange,none,0,5,probably,4.03565,undefined
+blue,two thirds,60,5,probably,4.03565,undefined
+blue,most,50,6,probably,4.9421,undefined
+orange,some,40,6,probably,4.9421,undefined
+orange,half,50,6,probably,4.9421,undefined
+blue,half,60,6,probably,4.9421,undefined
+blue,some,25,6,probably,4.9421,undefined
+orange,some,25,6,probably,4.9421,undefined
+orange,almost all,90,6,probably,4.9421,undefined
+blue,very few,40,6,probably,4.9421,undefined
+orange,nearly all,90,6,probably,4.9421,undefined
+blue,nearly all,90,6,probably,4.9421,undefined
+blue,all,100,6,probably,4.9421,undefined
+orange,almost all,90,6,probably,4.9421,undefined
+orange,almost all,60,6,probably,4.9421,undefined
+blue,quite a few,40,6,probably,4.9421,undefined
+blue,very little,10,6,probably,4.9421,undefined
+orange,quite a bit,50,6,probably,4.9421,undefined
+orange,half,60,6,probably,4.9421,undefined
+blue,a few,10,6,probably,4.9421,undefined
+blue,very little,10,6,probably,4.9421,undefined
+orange,very little,10,6,probably,4.9421,undefined
+orange,none,0,6,probably,4.9421,undefined
+blue,a couple,10,6,probably,4.9421,undefined
+orange,over half,50,6,probably,4.9421,undefined
+blue,about half,50,6,probably,4.9421,undefined
+blue,nearly all,75,6,probably,4.9421,undefined
+orange,none,0,6,probably,4.9421,undefined
+orange,over half,60,6,probably,4.9421,undefined
+blue,nearly all,75,6,probably,4.9421,undefined
+orange,half,40,6,probably,4.9421,undefined
+blue,almost all,75,6,probably,4.9421,undefined
+blue,some,50,7,,3.4280166666666667,
+orange,some,50,7,,3.4280166666666667,
+blue,some,50,7,,3.4280166666666667,
+orange,some,60,7,,3.4280166666666667,
+blue,some,50,7,,3.4280166666666667,
+orange,few,10,7,,3.4280166666666667,
+blue,some,60,7,,3.4280166666666667,
+orange,some,75,7,,3.4280166666666667,
+blue,some,25,7,,3.4280166666666667,
+orange,none,0,7,,3.4280166666666667,
+blue,some,40,7,,3.4280166666666667,
+orange,some,40,7,,3.4280166666666667,
+blue,all,100,7,,3.4280166666666667,
+orange,all,100,7,,3.4280166666666667,
+blue,few,10,7,,3.4280166666666667,
+orange,few,10,7,,3.4280166666666667,
+blue,some,50,7,,3.4280166666666667,
+orange,most,90,7,,3.4280166666666667,
+blue,some,60,7,,3.4280166666666667,
+orange,most,90,7,,3.4280166666666667,
+blue,most,90,7,,3.4280166666666667,
+orange,some,40,7,,3.4280166666666667,
+blue,all,100,7,,3.4280166666666667,
+orange,few,25,7,,3.4280166666666667,
+blue,some,25,7,,3.4280166666666667,
+orange,some,40,7,,3.4280166666666667,
+blue,all,100,7,,3.4280166666666667,
+orange,few,10,7,,3.4280166666666667,
+blue,some,50,7,,3.4280166666666667,
+orange,some,25,7,,3.4280166666666667,

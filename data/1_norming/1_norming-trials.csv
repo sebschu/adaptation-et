@@ -1,0 +1,2561 @@
+Answer.misread_instructions,proportion,sentence,quantifier,rating,Answer.condition,trial,Answer.time_in_minutes,workerid
+,100,... most of the gumballs.,most,0,,1,4.173233333333333,0
+,100,... some of the gumballs.,some,0,,1,4.173233333333333,0
+,100,... all of the gumballs.,all,1,,1,4.173233333333333,0
+,100,,other,0,,1,4.173233333333333,0
+,75,... most of the gumballs.,most,0.99,,2,4.173233333333333,0
+,75,... some of the gumballs.,some,0.010000000000000009,,2,4.173233333333333,0
+,75,... all of the gumballs.,all,0,,2,4.173233333333333,0
+,75,,other,0,,2,4.173233333333333,0
+,25,... most of the gumballs.,most,0,,3,4.173233333333333,0
+,25,... some of the gumballs.,some,1,,3,4.173233333333333,0
+,25,... all of the gumballs.,all,0,,3,4.173233333333333,0
+,25,,other,0,,3,4.173233333333333,0
+,10,... most of the gumballs.,most,0,,4,4.173233333333333,0
+,10,... some of the gumballs.,some,0.98,,4,4.173233333333333,0
+,10,... all of the gumballs.,all,0,,4,4.173233333333333,0
+,10,,other,0.02000000000000013,,4,4.173233333333333,0
+,40,... most of the gumballs.,most,0,,5,4.173233333333333,0
+,40,... some of the gumballs.,some,1,,5,4.173233333333333,0
+,40,... all of the gumballs.,all,0,,5,4.173233333333333,0
+,40,,other,0,,5,4.173233333333333,0
+,25,... most of the gumballs.,most,0,,6,4.173233333333333,0
+,25,... some of the gumballs.,some,0.85,,6,4.173233333333333,0
+,25,... all of the gumballs.,all,0,,6,4.173233333333333,0
+,25,,other,0.15000000000000013,,6,4.173233333333333,0
+,50,... most of the gumballs.,most,0.01,,7,4.173233333333333,0
+,50,... some of the gumballs.,some,0.99,,7,4.173233333333333,0
+,50,... all of the gumballs.,all,0,,7,4.173233333333333,0
+,50,,other,0,,7,4.173233333333333,0
+,60,... most of the gumballs.,most,0.92,,8,4.173233333333333,0
+,60,... some of the gumballs.,some,0.07999999999999985,,8,4.173233333333333,0
+,60,... all of the gumballs.,all,0,,8,4.173233333333333,0
+,60,,other,0,,8,4.173233333333333,0
+,90,... most of the gumballs.,most,1,,9,4.173233333333333,0
+,90,... some of the gumballs.,some,0,,9,4.173233333333333,0
+,90,... all of the gumballs.,all,0,,9,4.173233333333333,0
+,90,,other,0,,9,4.173233333333333,0
+,10,... most of the gumballs.,most,0,,10,4.173233333333333,0
+,10,... some of the gumballs.,some,0.78,,10,4.173233333333333,0
+,10,... all of the gumballs.,all,0,,10,4.173233333333333,0
+,10,,other,0.21999999999999997,,10,4.173233333333333,0
+,60,... most of the gumballs.,most,0.76,,11,4.173233333333333,0
+,60,... some of the gumballs.,some,0.24,,11,4.173233333333333,0
+,60,... all of the gumballs.,all,0,,11,4.173233333333333,0
+,60,,other,0,,11,4.173233333333333,0
+,50,... most of the gumballs.,most,0.61,,12,4.173233333333333,0
+,50,... some of the gumballs.,some,0.3899999999999999,,12,4.173233333333333,0
+,50,... all of the gumballs.,all,0,,12,4.173233333333333,0
+,50,,other,0,,12,4.173233333333333,0
+,75,... most of the gumballs.,most,1,,13,4.173233333333333,0
+,75,... some of the gumballs.,some,0,,13,4.173233333333333,0
+,75,... all of the gumballs.,all,0,,13,4.173233333333333,0
+,75,,other,0,,13,4.173233333333333,0
+,100,... most of the gumballs.,most,0,,14,4.173233333333333,0
+,100,... some of the gumballs.,some,0,,14,4.173233333333333,0
+,100,... all of the gumballs.,all,1,,14,4.173233333333333,0
+,100,,other,0,,14,4.173233333333333,0
+,90,... most of the gumballs.,most,1,,15,4.173233333333333,0
+,90,... some of the gumballs.,some,0,,15,4.173233333333333,0
+,90,... all of the gumballs.,all,0,,15,4.173233333333333,0
+,90,,other,0,,15,4.173233333333333,0
+,40,... most of the gumballs.,most,0,,16,4.173233333333333,0
+,40,... some of the gumballs.,some,1,,16,4.173233333333333,0
+,40,... all of the gumballs.,all,0,,16,4.173233333333333,0
+,40,,other,0,,16,4.173233333333333,0
+,25,... all of the gumballs.,all,0,,1,7.3968,1
+,25,... most of the gumballs.,most,0,,1,7.3968,1
+,25,... some of the gumballs.,some,1,,1,7.3968,1
+,25,,other,0,,1,7.3968,1
+,100,... all of the gumballs.,all,0.9,,2,7.3968,1
+,100,... most of the gumballs.,most,0,,2,7.3968,1
+,100,... some of the gumballs.,some,0.09999999999999998,,2,7.3968,1
+,100,,other,0,,2,7.3968,1
+,40,... all of the gumballs.,all,0,,3,7.3968,1
+,40,... most of the gumballs.,most,0.11,,3,7.3968,1
+,40,... some of the gumballs.,some,0.8899999999999999,,3,7.3968,1
+,40,,other,0,,3,7.3968,1
+,50,... all of the gumballs.,all,0,,4,7.3968,1
+,50,... most of the gumballs.,most,0.2499999999999999,,4,7.3968,1
+,50,... some of the gumballs.,some,0.75,,4,7.3968,1
+,50,,other,0,,4,7.3968,1
+,25,... all of the gumballs.,all,0,,5,7.3968,1
+,25,... most of the gumballs.,most,0,,5,7.3968,1
+,25,... some of the gumballs.,some,1,,5,7.3968,1
+,25,,other,0,,5,7.3968,1
+,60,... all of the gumballs.,all,0,,6,7.3968,1
+,60,... most of the gumballs.,most,0.79,,6,7.3968,1
+,60,... some of the gumballs.,some,0.20999999999999996,,6,7.3968,1
+,60,,other,0,,6,7.3968,1
+,100,... all of the gumballs.,all,1,,7,7.3968,1
+,100,... most of the gumballs.,most,0,,7,7.3968,1
+,100,... some of the gumballs.,some,0,,7,7.3968,1
+,100,,other,0,,7,7.3968,1
+,90,... all of the gumballs.,all,0.11,,8,7.3968,1
+,90,... most of the gumballs.,most,0.8,,8,7.3968,1
+,90,... some of the gumballs.,some,0.08999999999999986,,8,7.3968,1
+,90,,other,0,,8,7.3968,1
+,75,... all of the gumballs.,all,0.07,,9,7.3968,1
+,75,... most of the gumballs.,most,0.86,,9,7.3968,1
+,75,... some of the gumballs.,some,0.07000000000000006,,9,7.3968,1
+,75,,other,0,,9,7.3968,1
+,10,... all of the gumballs.,all,0,,10,7.3968,1
+,10,... most of the gumballs.,most,0,,10,7.3968,1
+,10,... some of the gumballs.,some,0.38,,10,7.3968,1
+,10,,other,0.6200000000000001,,10,7.3968,1
+,50,... all of the gumballs.,all,0,,11,7.3968,1
+,50,... most of the gumballs.,most,0.21,,11,7.3968,1
+,50,... some of the gumballs.,some,0.79,,11,7.3968,1
+,50,,other,0,,11,7.3968,1
+,90,... all of the gumballs.,all,0.12,,12,7.3968,1
+,90,... most of the gumballs.,most,0.82,,12,7.3968,1
+,90,... some of the gumballs.,some,0.05999999999999994,,12,7.3968,1
+,90,,other,0,,12,7.3968,1
+,75,... all of the gumballs.,all,0.04,,13,7.3968,1
+,75,... most of the gumballs.,most,0.9,,13,7.3968,1
+,75,... some of the gumballs.,some,0.06000000000000005,,13,7.3968,1
+,75,,other,0,,13,7.3968,1
+,10,... all of the gumballs.,all,0,,14,7.3968,1
+,10,... most of the gumballs.,most,0,,14,7.3968,1
+,10,... some of the gumballs.,some,0.35,,14,7.3968,1
+,10,,other,0.6499999999999999,,14,7.3968,1
+,40,... all of the gumballs.,all,0,,15,7.3968,1
+,40,... most of the gumballs.,most,0.06,,15,7.3968,1
+,40,... some of the gumballs.,some,0.94,,15,7.3968,1
+,40,,other,0,,15,7.3968,1
+,60,... all of the gumballs.,all,0,,16,7.3968,1
+,60,... most of the gumballs.,most,0.31999999999999984,,16,7.3968,1
+,60,... some of the gumballs.,some,0.68,,16,7.3968,1
+,60,,other,0,,16,7.3968,1
+,10,... all of the gumballs.,all,0,,1,3.6561833333333333,2
+,10,... most of the gumballs.,most,0,,1,3.6561833333333333,2
+,10,... some of the gumballs.,some,1,,1,3.6561833333333333,2
+,10,,other,0,,1,3.6561833333333333,2
+,90,... all of the gumballs.,all,0,,2,3.6561833333333333,2
+,90,... most of the gumballs.,most,1,,2,3.6561833333333333,2
+,90,... some of the gumballs.,some,0,,2,3.6561833333333333,2
+,90,,other,0,,2,3.6561833333333333,2
+,10,... all of the gumballs.,all,0,,3,3.6561833333333333,2
+,10,... most of the gumballs.,most,0,,3,3.6561833333333333,2
+,10,... some of the gumballs.,some,1,,3,3.6561833333333333,2
+,10,,other,0,,3,3.6561833333333333,2
+,25,... all of the gumballs.,all,0,,4,3.6561833333333333,2
+,25,... most of the gumballs.,most,0,,4,3.6561833333333333,2
+,25,... some of the gumballs.,some,1,,4,3.6561833333333333,2
+,25,,other,0,,4,3.6561833333333333,2
+,60,... all of the gumballs.,all,0,,5,3.6561833333333333,2
+,60,... most of the gumballs.,most,0.5,,5,3.6561833333333333,2
+,60,... some of the gumballs.,some,0.5,,5,3.6561833333333333,2
+,60,,other,0,,5,3.6561833333333333,2
+,50,... all of the gumballs.,all,0,,6,3.6561833333333333,2
+,50,... most of the gumballs.,most,0.53,,6,3.6561833333333333,2
+,50,... some of the gumballs.,some,0.47,,6,3.6561833333333333,2
+,50,,other,0,,6,3.6561833333333333,2
+,40,... all of the gumballs.,all,0,,7,3.6561833333333333,2
+,40,... most of the gumballs.,most,0.2499999999999999,,7,3.6561833333333333,2
+,40,... some of the gumballs.,some,0.75,,7,3.6561833333333333,2
+,40,,other,0,,7,3.6561833333333333,2
+,60,... all of the gumballs.,all,0,,8,3.6561833333333333,2
+,60,... most of the gumballs.,most,1,,8,3.6561833333333333,2
+,60,... some of the gumballs.,some,0,,8,3.6561833333333333,2
+,60,,other,0,,8,3.6561833333333333,2
+,75,... all of the gumballs.,all,0,,9,3.6561833333333333,2
+,75,... most of the gumballs.,most,1,,9,3.6561833333333333,2
+,75,... some of the gumballs.,some,0,,9,3.6561833333333333,2
+,75,,other,0,,9,3.6561833333333333,2
+,25,... all of the gumballs.,all,0,,10,3.6561833333333333,2
+,25,... most of the gumballs.,most,0,,10,3.6561833333333333,2
+,25,... some of the gumballs.,some,1,,10,3.6561833333333333,2
+,25,,other,0,,10,3.6561833333333333,2
+,40,... all of the gumballs.,all,0,,11,3.6561833333333333,2
+,40,... most of the gumballs.,most,0,,11,3.6561833333333333,2
+,40,... some of the gumballs.,some,1,,11,3.6561833333333333,2
+,40,,other,0,,11,3.6561833333333333,2
+,75,... all of the gumballs.,all,0,,12,3.6561833333333333,2
+,75,... most of the gumballs.,most,1,,12,3.6561833333333333,2
+,75,... some of the gumballs.,some,0,,12,3.6561833333333333,2
+,75,,other,0,,12,3.6561833333333333,2
+,100,... all of the gumballs.,all,1,,13,3.6561833333333333,2
+,100,... most of the gumballs.,most,0,,13,3.6561833333333333,2
+,100,... some of the gumballs.,some,0,,13,3.6561833333333333,2
+,100,,other,0,,13,3.6561833333333333,2
+,100,... all of the gumballs.,all,1,,14,3.6561833333333333,2
+,100,... most of the gumballs.,most,0,,14,3.6561833333333333,2
+,100,... some of the gumballs.,some,0,,14,3.6561833333333333,2
+,100,,other,0,,14,3.6561833333333333,2
+,50,... all of the gumballs.,all,0,,15,3.6561833333333333,2
+,50,... most of the gumballs.,most,0,,15,3.6561833333333333,2
+,50,... some of the gumballs.,some,1,,15,3.6561833333333333,2
+,50,,other,0,,15,3.6561833333333333,2
+,90,... all of the gumballs.,all,0,,16,3.6561833333333333,2
+,90,... most of the gumballs.,most,1,,16,3.6561833333333333,2
+,90,... some of the gumballs.,some,0,,16,3.6561833333333333,2
+,90,,other,0,,16,3.6561833333333333,2
+,90,... most of the gumballs.,most,1,,1,4.08145,3
+,90,... some of the gumballs.,some,0,,1,4.08145,3
+,90,... all of the gumballs.,all,0,,1,4.08145,3
+,90,,other,0,,1,4.08145,3
+,100,... most of the gumballs.,most,0,,2,4.08145,3
+,100,... some of the gumballs.,some,0,,2,4.08145,3
+,100,... all of the gumballs.,all,1,,2,4.08145,3
+,100,,other,0,,2,4.08145,3
+,40,... most of the gumballs.,most,0.49,,3,4.08145,3
+,40,... some of the gumballs.,some,0.51,,3,4.08145,3
+,40,... all of the gumballs.,all,0,,3,4.08145,3
+,40,,other,0,,3,4.08145,3
+,75,... most of the gumballs.,most,0,,4,4.08145,3
+,75,... some of the gumballs.,some,1,,4,4.08145,3
+,75,... all of the gumballs.,all,0,,4,4.08145,3
+,75,,other,0,,4,4.08145,3
+,100,... most of the gumballs.,most,0,,5,4.08145,3
+,100,... some of the gumballs.,some,0,,5,4.08145,3
+,100,... all of the gumballs.,all,1,,5,4.08145,3
+,100,,other,0,,5,4.08145,3
+,75,... most of the gumballs.,most,0.71,,6,4.08145,3
+,75,... some of the gumballs.,some,0.29,,6,4.08145,3
+,75,... all of the gumballs.,all,0,,6,4.08145,3
+,75,,other,0,,6,4.08145,3
+,60,... most of the gumballs.,most,0.43,,7,4.08145,3
+,60,... some of the gumballs.,some,0.57,,7,4.08145,3
+,60,... all of the gumballs.,all,0,,7,4.08145,3
+,60,,other,0,,7,4.08145,3
+,25,... most of the gumballs.,most,0,,8,4.08145,3
+,25,... some of the gumballs.,some,1,,8,4.08145,3
+,25,... all of the gumballs.,all,0,,8,4.08145,3
+,25,,other,0,,8,4.08145,3
+,50,... most of the gumballs.,most,0.31000000000000016,,9,4.08145,3
+,50,... some of the gumballs.,some,0.69,,9,4.08145,3
+,50,... all of the gumballs.,all,0,,9,4.08145,3
+,50,,other,0,,9,4.08145,3
+,25,... most of the gumballs.,most,0.08,,10,4.08145,3
+,25,... some of the gumballs.,some,0.9199999999999999,,10,4.08145,3
+,25,... all of the gumballs.,all,0,,10,4.08145,3
+,25,,other,0,,10,4.08145,3
+,40,... most of the gumballs.,most,0.25,,11,4.08145,3
+,40,... some of the gumballs.,some,0.75,,11,4.08145,3
+,40,... all of the gumballs.,all,0,,11,4.08145,3
+,40,,other,0,,11,4.08145,3
+,60,... most of the gumballs.,most,0.55,,12,4.08145,3
+,60,... some of the gumballs.,some,0.44999999999999984,,12,4.08145,3
+,60,... all of the gumballs.,all,0,,12,4.08145,3
+,60,,other,0,,12,4.08145,3
+,10,... most of the gumballs.,most,0,,13,4.08145,3
+,10,... some of the gumballs.,some,1,,13,4.08145,3
+,10,... all of the gumballs.,all,0,,13,4.08145,3
+,10,,other,0,,13,4.08145,3
+,10,... most of the gumballs.,most,0,,14,4.08145,3
+,10,... some of the gumballs.,some,1,,14,4.08145,3
+,10,... all of the gumballs.,all,0,,14,4.08145,3
+,10,,other,0,,14,4.08145,3
+,90,... most of the gumballs.,most,1,,15,4.08145,3
+,90,... some of the gumballs.,some,0,,15,4.08145,3
+,90,... all of the gumballs.,all,0,,15,4.08145,3
+,90,,other,0,,15,4.08145,3
+,50,... most of the gumballs.,most,0.38,,16,4.08145,3
+,50,... some of the gumballs.,some,0.6200000000000001,,16,4.08145,3
+,50,... all of the gumballs.,all,0,,16,4.08145,3
+,50,,other,0,,16,4.08145,3
+,75,... all of the gumballs.,all,0,,1,9.266733333333333,4
+,75,... most of the gumballs.,most,0.95,,1,9.266733333333333,4
+,75,... some of the gumballs.,some,0.050000000000000044,,1,9.266733333333333,4
+,75,,other,0,,1,9.266733333333333,4
+,100,... all of the gumballs.,all,1,,2,9.266733333333333,4
+,100,... most of the gumballs.,most,0,,2,9.266733333333333,4
+,100,... some of the gumballs.,some,0,,2,9.266733333333333,4
+,100,,other,0,,2,9.266733333333333,4
+,50,... all of the gumballs.,all,0.02,,3,9.266733333333333,4
+,50,... most of the gumballs.,most,0,,3,9.266733333333333,4
+,50,... some of the gumballs.,some,0.98,,3,9.266733333333333,4
+,50,,other,1.1102230246251565e-16,,3,9.266733333333333,4
+,10,... all of the gumballs.,all,0.04,,4,9.266733333333333,4
+,10,... most of the gumballs.,most,0.02,,4,9.266733333333333,4
+,10,... some of the gumballs.,some,0.61,,4,9.266733333333333,4
+,10,,other,0.33000000000000007,,4,9.266733333333333,4
+,10,... all of the gumballs.,all,0,,5,9.266733333333333,4
+,10,... most of the gumballs.,most,0,,5,9.266733333333333,4
+,10,... some of the gumballs.,some,1,,5,9.266733333333333,4
+,10,,other,0,,5,9.266733333333333,4
+,40,... all of the gumballs.,all,0,,6,9.266733333333333,4
+,40,... most of the gumballs.,most,0,,6,9.266733333333333,4
+,40,... some of the gumballs.,some,1,,6,9.266733333333333,4
+,40,,other,0,,6,9.266733333333333,4
+,90,... all of the gumballs.,all,0.34,,7,9.266733333333333,4
+,90,... most of the gumballs.,most,0,,7,9.266733333333333,4
+,90,... some of the gumballs.,some,0,,7,9.266733333333333,4
+,90,,other,0.6599999999999999,,7,9.266733333333333,4
+,90,... all of the gumballs.,all,0.7,,8,9.266733333333333,4
+,90,... most of the gumballs.,most,0,,8,9.266733333333333,4
+,90,... some of the gumballs.,some,0,,8,9.266733333333333,4
+,90,,other,0.29999999999999993,,8,9.266733333333333,4
+,75,... all of the gumballs.,all,0,,9,9.266733333333333,4
+,75,... most of the gumballs.,most,1,,9,9.266733333333333,4
+,75,... some of the gumballs.,some,0,,9,9.266733333333333,4
+,75,,other,0,,9,9.266733333333333,4
+,60,... all of the gumballs.,all,0,,10,9.266733333333333,4
+,60,... most of the gumballs.,most,0,,10,9.266733333333333,4
+,60,... some of the gumballs.,some,1,,10,9.266733333333333,4
+,60,,other,0,,10,9.266733333333333,4
+,100,... all of the gumballs.,all,1,,11,9.266733333333333,4
+,100,... most of the gumballs.,most,0,,11,9.266733333333333,4
+,100,... some of the gumballs.,some,0,,11,9.266733333333333,4
+,100,,other,0,,11,9.266733333333333,4
+,50,... all of the gumballs.,all,0,,12,9.266733333333333,4
+,50,... most of the gumballs.,most,0,,12,9.266733333333333,4
+,50,... some of the gumballs.,some,1,,12,9.266733333333333,4
+,50,,other,0,,12,9.266733333333333,4
+,60,... all of the gumballs.,all,0,,13,9.266733333333333,4
+,60,... most of the gumballs.,most,0,,13,9.266733333333333,4
+,60,... some of the gumballs.,some,1,,13,9.266733333333333,4
+,60,,other,0,,13,9.266733333333333,4
+,25,... all of the gumballs.,all,0,,14,9.266733333333333,4
+,25,... most of the gumballs.,most,0,,14,9.266733333333333,4
+,25,... some of the gumballs.,some,1,,14,9.266733333333333,4
+,25,,other,0,,14,9.266733333333333,4
+,25,... all of the gumballs.,all,0,,15,9.266733333333333,4
+,25,... most of the gumballs.,most,0,,15,9.266733333333333,4
+,25,... some of the gumballs.,some,1,,15,9.266733333333333,4
+,25,,other,0,,15,9.266733333333333,4
+,40,... all of the gumballs.,all,0,,16,9.266733333333333,4
+,40,... most of the gumballs.,most,0,,16,9.266733333333333,4
+,40,... some of the gumballs.,some,1,,16,9.266733333333333,4
+,40,,other,0,,16,9.266733333333333,4
+,100,... some of the gumballs.,some,0,,1,8.78965,5
+,100,... all of the gumballs.,all,1,,1,8.78965,5
+,100,... most of the gumballs.,most,0,,1,8.78965,5
+,100,,other,0,,1,8.78965,5
+,90,... some of the gumballs.,some,0.2,,2,8.78965,5
+,90,... all of the gumballs.,all,0,,2,8.78965,5
+,90,... most of the gumballs.,most,0.7999999999999999,,2,8.78965,5
+,90,,other,0,,2,8.78965,5
+,75,... some of the gumballs.,some,0.2,,3,8.78965,5
+,75,... all of the gumballs.,all,0,,3,8.78965,5
+,75,... most of the gumballs.,most,0.7999999999999999,,3,8.78965,5
+,75,,other,0,,3,8.78965,5
+,25,... some of the gumballs.,some,1,,4,8.78965,5
+,25,... all of the gumballs.,all,0,,4,8.78965,5
+,25,... most of the gumballs.,most,0,,4,8.78965,5
+,25,,other,0,,4,8.78965,5
+,10,... some of the gumballs.,some,0.5900000000000001,,5,8.78965,5
+,10,... all of the gumballs.,all,0,,5,8.78965,5
+,10,... most of the gumballs.,most,0,,5,8.78965,5
+,10,,other,0.41,,5,8.78965,5
+,60,... some of the gumballs.,some,0.49,,6,8.78965,5
+,60,... all of the gumballs.,all,0,,6,8.78965,5
+,60,... most of the gumballs.,most,0.3999999999999999,,6,8.78965,5
+,60,,other,0.1100000000000001,,6,8.78965,5
+,10,... some of the gumballs.,some,0.6,,7,8.78965,5
+,10,... all of the gumballs.,all,0,,7,8.78965,5
+,10,... most of the gumballs.,most,0,,7,8.78965,5
+,10,,other,0.3999999999999999,,7,8.78965,5
+,50,... some of the gumballs.,some,1,,8,8.78965,5
+,50,... all of the gumballs.,all,0,,8,8.78965,5
+,50,... most of the gumballs.,most,0,,8,8.78965,5
+,50,,other,0,,8,8.78965,5
+,75,... some of the gumballs.,some,0.02,,9,8.78965,5
+,75,... all of the gumballs.,all,0,,9,8.78965,5
+,75,... most of the gumballs.,most,0.98,,9,8.78965,5
+,75,,other,0,,9,8.78965,5
+,40,... some of the gumballs.,some,1,,10,8.78965,5
+,40,... all of the gumballs.,all,0,,10,8.78965,5
+,40,... most of the gumballs.,most,0,,10,8.78965,5
+,40,,other,0,,10,8.78965,5
+,50,... some of the gumballs.,some,0.85,,11,8.78965,5
+,50,... all of the gumballs.,all,0,,11,8.78965,5
+,50,... most of the gumballs.,most,0,,11,8.78965,5
+,50,,other,0.1499999999999999,,11,8.78965,5
+,40,... some of the gumballs.,some,1,,12,8.78965,5
+,40,... all of the gumballs.,all,0,,12,8.78965,5
+,40,... most of the gumballs.,most,0,,12,8.78965,5
+,40,,other,0,,12,8.78965,5
+,60,... some of the gumballs.,some,0.2,,13,8.78965,5
+,60,... all of the gumballs.,all,0,,13,8.78965,5
+,60,... most of the gumballs.,most,0.7999999999999999,,13,8.78965,5
+,60,,other,0,,13,8.78965,5
+,25,... some of the gumballs.,some,1,,14,8.78965,5
+,25,... all of the gumballs.,all,0,,14,8.78965,5
+,25,... most of the gumballs.,most,0,,14,8.78965,5
+,25,,other,0,,14,8.78965,5
+,90,... some of the gumballs.,some,0,,15,8.78965,5
+,90,... all of the gumballs.,all,0,,15,8.78965,5
+,90,... most of the gumballs.,most,1,,15,8.78965,5
+,90,,other,0,,15,8.78965,5
+,100,... some of the gumballs.,some,0,,16,8.78965,5
+,100,... all of the gumballs.,all,1,,16,8.78965,5
+,100,... most of the gumballs.,most,0,,16,8.78965,5
+,100,,other,0,,16,8.78965,5
+,50,... all of the gumballs.,all,0.3,,1,4.5203,6
+,50,... some of the gumballs.,some,0.4,,1,4.5203,6
+,50,... most of the gumballs.,most,0.30000000000000004,,1,4.5203,6
+,50,,other,0,,1,4.5203,6
+,100,... all of the gumballs.,all,0.79,,2,4.5203,6
+,100,... some of the gumballs.,some,0.10999999999999999,,2,4.5203,6
+,100,... most of the gumballs.,most,0.1,,2,4.5203,6
+,100,,other,0,,2,4.5203,6
+,25,... all of the gumballs.,all,0,,3,4.5203,6
+,25,... some of the gumballs.,some,0.91,,3,4.5203,6
+,25,... most of the gumballs.,most,0.08999999999999997,,3,4.5203,6
+,25,,other,0,,3,4.5203,6
+,90,... all of the gumballs.,all,0,,4,4.5203,6
+,90,... some of the gumballs.,some,0,,4,4.5203,6
+,90,... most of the gumballs.,most,1,,4,4.5203,6
+,90,,other,0,,4,4.5203,6
+,60,... all of the gumballs.,all,0.16,,5,4.5203,6
+,60,... some of the gumballs.,some,0.11,,5,4.5203,6
+,60,... most of the gumballs.,most,0.73,,5,4.5203,6
+,60,,other,0,,5,4.5203,6
+,75,... all of the gumballs.,all,0.3,,6,4.5203,6
+,75,... some of the gumballs.,some,0.6,,6,4.5203,6
+,75,... most of the gumballs.,most,0.10000000000000009,,6,4.5203,6
+,75,,other,0,,6,4.5203,6
+,50,... all of the gumballs.,all,0.19,,7,4.5203,6
+,50,... some of the gumballs.,some,0.37,,7,4.5203,6
+,50,... most of the gumballs.,most,0.43999999999999995,,7,4.5203,6
+,50,,other,0,,7,4.5203,6
+,40,... all of the gumballs.,all,0.21,,8,4.5203,6
+,40,... some of the gumballs.,some,0.55,,8,4.5203,6
+,40,... most of the gumballs.,most,0.2400000000000001,,8,4.5203,6
+,40,,other,0,,8,4.5203,6
+,10,... all of the gumballs.,all,0,,9,4.5203,6
+,10,... some of the gumballs.,some,1,,9,4.5203,6
+,10,... most of the gumballs.,most,0,,9,4.5203,6
+,10,,other,0,,9,4.5203,6
+,100,... all of the gumballs.,all,1,,10,4.5203,6
+,100,... some of the gumballs.,some,0,,10,4.5203,6
+,100,... most of the gumballs.,most,0,,10,4.5203,6
+,100,,other,0,,10,4.5203,6
+,60,... all of the gumballs.,all,0.12,,11,4.5203,6
+,60,... some of the gumballs.,some,0.29,,11,4.5203,6
+,60,... most of the gumballs.,most,0.5900000000000001,,11,4.5203,6
+,60,,other,0,,11,4.5203,6
+,10,... all of the gumballs.,all,0,,12,4.5203,6
+,10,... some of the gumballs.,some,1,,12,4.5203,6
+,10,... most of the gumballs.,most,0,,12,4.5203,6
+,10,,other,0,,12,4.5203,6
+,90,... all of the gumballs.,all,0.35,,13,4.5203,6
+,90,... some of the gumballs.,some,0.01,,13,4.5203,6
+,90,... most of the gumballs.,most,0.6400000000000001,,13,4.5203,6
+,90,,other,0,,13,4.5203,6
+,75,... all of the gumballs.,all,0.06,,14,4.5203,6
+,75,... some of the gumballs.,some,0,,14,4.5203,6
+,75,... most of the gumballs.,most,0.94,,14,4.5203,6
+,75,,other,0,,14,4.5203,6
+,40,... all of the gumballs.,all,0.21,,15,4.5203,6
+,40,... some of the gumballs.,some,0.56,,15,4.5203,6
+,40,... most of the gumballs.,most,0.22999999999999998,,15,4.5203,6
+,40,,other,0,,15,4.5203,6
+,25,... all of the gumballs.,all,0.12,,16,4.5203,6
+,25,... some of the gumballs.,some,0.64,,16,4.5203,6
+,25,... most of the gumballs.,most,0.24,,16,4.5203,6
+,25,,other,0,,16,4.5203,6
+,75,... most of the gumballs.,most,1,,1,3.978683333333333,7
+,75,... all of the gumballs.,all,0,,1,3.978683333333333,7
+,75,... some of the gumballs.,some,0,,1,3.978683333333333,7
+,75,,other,0,,1,3.978683333333333,7
+,25,... most of the gumballs.,most,0,,2,3.978683333333333,7
+,25,... all of the gumballs.,all,0,,2,3.978683333333333,7
+,25,... some of the gumballs.,some,1,,2,3.978683333333333,7
+,25,,other,0,,2,3.978683333333333,7
+,40,... most of the gumballs.,most,0,,3,3.978683333333333,7
+,40,... all of the gumballs.,all,0,,3,3.978683333333333,7
+,40,... some of the gumballs.,some,1,,3,3.978683333333333,7
+,40,,other,0,,3,3.978683333333333,7
+,100,... most of the gumballs.,most,0,,4,3.978683333333333,7
+,100,... all of the gumballs.,all,1,,4,3.978683333333333,7
+,100,... some of the gumballs.,some,0,,4,3.978683333333333,7
+,100,,other,0,,4,3.978683333333333,7
+,10,... most of the gumballs.,most,0,,5,3.978683333333333,7
+,10,... all of the gumballs.,all,0,,5,3.978683333333333,7
+,10,... some of the gumballs.,some,0.49,,5,3.978683333333333,7
+,10,,other,0.51,,5,3.978683333333333,7
+,60,... most of the gumballs.,most,1,,6,3.978683333333333,7
+,60,... all of the gumballs.,all,0,,6,3.978683333333333,7
+,60,... some of the gumballs.,some,0,,6,3.978683333333333,7
+,60,,other,0,,6,3.978683333333333,7
+,50,... most of the gumballs.,most,1,,7,3.978683333333333,7
+,50,... all of the gumballs.,all,0,,7,3.978683333333333,7
+,50,... some of the gumballs.,some,0,,7,3.978683333333333,7
+,50,,other,0,,7,3.978683333333333,7
+,10,... most of the gumballs.,most,0,,8,3.978683333333333,7
+,10,... all of the gumballs.,all,0,,8,3.978683333333333,7
+,10,... some of the gumballs.,some,1,,8,3.978683333333333,7
+,10,,other,0,,8,3.978683333333333,7
+,100,... most of the gumballs.,most,0,,9,3.978683333333333,7
+,100,... all of the gumballs.,all,1,,9,3.978683333333333,7
+,100,... some of the gumballs.,some,0,,9,3.978683333333333,7
+,100,,other,0,,9,3.978683333333333,7
+,90,... most of the gumballs.,most,1,,10,3.978683333333333,7
+,90,... all of the gumballs.,all,0,,10,3.978683333333333,7
+,90,... some of the gumballs.,some,0,,10,3.978683333333333,7
+,90,,other,0,,10,3.978683333333333,7
+,90,... most of the gumballs.,most,1,,11,3.978683333333333,7
+,90,... all of the gumballs.,all,0,,11,3.978683333333333,7
+,90,... some of the gumballs.,some,0,,11,3.978683333333333,7
+,90,,other,0,,11,3.978683333333333,7
+,75,... most of the gumballs.,most,1,,12,3.978683333333333,7
+,75,... all of the gumballs.,all,0,,12,3.978683333333333,7
+,75,... some of the gumballs.,some,0,,12,3.978683333333333,7
+,75,,other,0,,12,3.978683333333333,7
+,40,... most of the gumballs.,most,0,,13,3.978683333333333,7
+,40,... all of the gumballs.,all,0,,13,3.978683333333333,7
+,40,... some of the gumballs.,some,1,,13,3.978683333333333,7
+,40,,other,0,,13,3.978683333333333,7
+,60,... most of the gumballs.,most,1,,14,3.978683333333333,7
+,60,... all of the gumballs.,all,0,,14,3.978683333333333,7
+,60,... some of the gumballs.,some,0,,14,3.978683333333333,7
+,60,,other,0,,14,3.978683333333333,7
+,25,... most of the gumballs.,most,0,,15,3.978683333333333,7
+,25,... all of the gumballs.,all,0,,15,3.978683333333333,7
+,25,... some of the gumballs.,some,1,,15,3.978683333333333,7
+,25,,other,0,,15,3.978683333333333,7
+,50,... most of the gumballs.,most,0,,16,3.978683333333333,7
+,50,... all of the gumballs.,all,0,,16,3.978683333333333,7
+,50,... some of the gumballs.,some,1,,16,3.978683333333333,7
+,50,,other,0,,16,3.978683333333333,7
+,90,... most of the gumballs.,most,0.77,,1,8.3154,8
+,90,... some of the gumballs.,some,0.18999999999999995,,1,8.3154,8
+,90,... all of the gumballs.,all,0.040000000000000036,,1,8.3154,8
+,90,,other,0,,1,8.3154,8
+,75,... most of the gumballs.,most,0.66,,2,8.3154,8
+,75,... some of the gumballs.,some,0.29,,2,8.3154,8
+,75,... all of the gumballs.,all,0.04999999999999993,,2,8.3154,8
+,75,,other,0,,2,8.3154,8
+,40,... most of the gumballs.,most,0.18,,3,8.3154,8
+,40,... some of the gumballs.,some,0.8200000000000001,,3,8.3154,8
+,40,... all of the gumballs.,all,0,,3,8.3154,8
+,40,,other,0,,3,8.3154,8
+,100,... most of the gumballs.,most,0.08,,4,8.3154,8
+,100,... some of the gumballs.,some,0.08,,4,8.3154,8
+,100,... all of the gumballs.,all,0.8400000000000001,,4,8.3154,8
+,100,,other,0,,4,8.3154,8
+,50,... most of the gumballs.,most,0.21000000000000008,,5,8.3154,8
+,50,... some of the gumballs.,some,0.79,,5,8.3154,8
+,50,... all of the gumballs.,all,0,,5,8.3154,8
+,50,,other,0,,5,8.3154,8
+,25,... most of the gumballs.,most,0.03,,6,8.3154,8
+,25,... some of the gumballs.,some,0.97,,6,8.3154,8
+,25,... all of the gumballs.,all,0,,6,8.3154,8
+,25,,other,0,,6,8.3154,8
+,60,... most of the gumballs.,most,0.46,,7,8.3154,8
+,60,... some of the gumballs.,some,0.54,,7,8.3154,8
+,60,... all of the gumballs.,all,0,,7,8.3154,8
+,60,,other,0,,7,8.3154,8
+,40,... most of the gumballs.,most,0.04,,8,8.3154,8
+,40,... some of the gumballs.,some,0.96,,8,8.3154,8
+,40,... all of the gumballs.,all,0,,8,8.3154,8
+,40,,other,0,,8,8.3154,8
+,50,... most of the gumballs.,most,0.11,,9,8.3154,8
+,50,... some of the gumballs.,some,0.8899999999999999,,9,8.3154,8
+,50,... all of the gumballs.,all,1.1102230246251565e-16,,9,8.3154,8
+,50,,other,0,,9,8.3154,8
+,90,... most of the gumballs.,most,0.74,,10,8.3154,8
+,90,... some of the gumballs.,some,0.14,,10,8.3154,8
+,90,... all of the gumballs.,all,0.12,,10,8.3154,8
+,90,,other,0,,10,8.3154,8
+,60,... most of the gumballs.,most,0.42,,11,8.3154,8
+,60,... some of the gumballs.,some,0.5800000000000001,,11,8.3154,8
+,60,... all of the gumballs.,all,0,,11,8.3154,8
+,60,,other,1.1102230246251565e-16,,11,8.3154,8
+,10,... most of the gumballs.,most,0,,12,8.3154,8
+,10,... some of the gumballs.,some,0.68,,12,8.3154,8
+,10,... all of the gumballs.,all,0,,12,8.3154,8
+,10,,other,0.32,,12,8.3154,8
+,75,... most of the gumballs.,most,0.63,,13,8.3154,8
+,75,... some of the gumballs.,some,0.3700000000000001,,13,8.3154,8
+,75,... all of the gumballs.,all,0,,13,8.3154,8
+,75,,other,0,,13,8.3154,8
+,100,... most of the gumballs.,most,0.15,,14,8.3154,8
+,100,... some of the gumballs.,some,0.13,,14,8.3154,8
+,100,... all of the gumballs.,all,0.72,,14,8.3154,8
+,100,,other,0,,14,8.3154,8
+,25,... most of the gumballs.,most,0.020000000000000018,,15,8.3154,8
+,25,... some of the gumballs.,some,0.6500000000000002,,15,8.3154,8
+,25,... all of the gumballs.,all,0,,15,8.3154,8
+,25,,other,0.3299999999999996,,15,8.3154,8
+,10,... most of the gumballs.,most,0.09,,16,8.3154,8
+,10,... some of the gumballs.,some,0.48,,16,8.3154,8
+,10,... all of the gumballs.,all,-2.220446049250313e-16,,16,8.3154,8
+,10,,other,0.43000000000000016,,16,8.3154,8
+,40,... some of the gumballs.,some,0.69,,1,3.7685,9
+,40,... most of the gumballs.,most,0.30999999999999994,,1,3.7685,9
+,40,... all of the gumballs.,all,0,,1,3.7685,9
+,40,,other,0,,1,3.7685,9
+,60,... some of the gumballs.,some,0.19,,2,3.7685,9
+,60,... most of the gumballs.,most,0.79,,2,3.7685,9
+,60,... all of the gumballs.,all,0.019999999999999907,,2,3.7685,9
+,60,,other,0,,2,3.7685,9
+,75,... some of the gumballs.,some,0.19999999999999984,,3,3.7685,9
+,75,... most of the gumballs.,most,0.8,,3,3.7685,9
+,75,... all of the gumballs.,all,0,,3,3.7685,9
+,75,,other,0,,3,3.7685,9
+,10,... some of the gumballs.,some,1,,4,3.7685,9
+,10,... most of the gumballs.,most,0,,4,3.7685,9
+,10,... all of the gumballs.,all,0,,4,3.7685,9
+,10,,other,0,,4,3.7685,9
+,90,... some of the gumballs.,some,0.10999999999999999,,5,3.7685,9
+,90,... most of the gumballs.,most,0.89,,5,3.7685,9
+,90,... all of the gumballs.,all,0,,5,3.7685,9
+,90,,other,0,,5,3.7685,9
+,50,... some of the gumballs.,some,0.79,,6,3.7685,9
+,50,... most of the gumballs.,most,0.20999999999999996,,6,3.7685,9
+,50,... all of the gumballs.,all,0,,6,3.7685,9
+,50,,other,0,,6,3.7685,9
+,10,... some of the gumballs.,some,0.89,,7,3.7685,9
+,10,... most of the gumballs.,most,0.1100000000000001,,7,3.7685,9
+,10,... all of the gumballs.,all,0,,7,3.7685,9
+,10,,other,0,,7,3.7685,9
+,25,... some of the gumballs.,some,0.81,,8,3.7685,9
+,25,... most of the gumballs.,most,0.18999999999999995,,8,3.7685,9
+,25,... all of the gumballs.,all,0,,8,3.7685,9
+,25,,other,0,,8,3.7685,9
+,25,... some of the gumballs.,some,0.81,,9,3.7685,9
+,25,... most of the gumballs.,most,0.19,,9,3.7685,9
+,25,... all of the gumballs.,all,0,,9,3.7685,9
+,25,,other,0,,9,3.7685,9
+,75,... some of the gumballs.,some,0.18999999999999995,,10,3.7685,9
+,75,... most of the gumballs.,most,0.81,,10,3.7685,9
+,75,... all of the gumballs.,all,0,,10,3.7685,9
+,75,,other,0,,10,3.7685,9
+,40,... some of the gumballs.,some,0.83,,11,3.7685,9
+,40,... most of the gumballs.,most,0.16999999999999993,,11,3.7685,9
+,40,... all of the gumballs.,all,0,,11,3.7685,9
+,40,,other,0,,11,3.7685,9
+,100,... some of the gumballs.,some,0,,12,3.7685,9
+,100,... most of the gumballs.,most,0,,12,3.7685,9
+,100,... all of the gumballs.,all,1,,12,3.7685,9
+,100,,other,0,,12,3.7685,9
+,100,... some of the gumballs.,some,0,,13,3.7685,9
+,100,... most of the gumballs.,most,0,,13,3.7685,9
+,100,... all of the gumballs.,all,1,,13,3.7685,9
+,100,,other,0,,13,3.7685,9
+,90,... some of the gumballs.,some,0.09000000000000008,,14,3.7685,9
+,90,... most of the gumballs.,most,0.91,,14,3.7685,9
+,90,... all of the gumballs.,all,0,,14,3.7685,9
+,90,,other,0,,14,3.7685,9
+,50,... some of the gumballs.,some,0.5,,15,3.7685,9
+,50,... most of the gumballs.,most,0.49,,15,3.7685,9
+,50,... all of the gumballs.,all,0,,15,3.7685,9
+,50,,other,0,,15,3.7685,9
+,60,... some of the gumballs.,some,0.76,,16,3.7685,9
+,60,... most of the gumballs.,most,0.24,,16,3.7685,9
+,60,... all of the gumballs.,all,0,,16,3.7685,9
+,60,,other,0,,16,3.7685,9
+,75,... all of the gumballs.,all,0.3,,1,3.99855,10
+,75,... most of the gumballs.,most,0.54,,1,3.99855,10
+,75,... some of the gumballs.,some,0.1599999999999998,,1,3.99855,10
+,75,,other,1.1102230246251565e-16,,1,3.99855,10
+,40,... all of the gumballs.,all,0.09,,2,3.99855,10
+,40,... most of the gumballs.,most,0.31000000000000005,,2,3.99855,10
+,40,... some of the gumballs.,some,0.54,,2,3.99855,10
+,40,,other,0.06,,2,3.99855,10
+,10,... all of the gumballs.,all,0,,3,3.99855,10
+,10,... most of the gumballs.,most,0,,3,3.99855,10
+,10,... some of the gumballs.,some,1,,3,3.99855,10
+,10,,other,0,,3,3.99855,10
+,25,... all of the gumballs.,all,0,,4,3.99855,10
+,25,... most of the gumballs.,most,0,,4,3.99855,10
+,25,... some of the gumballs.,some,1,,4,3.99855,10
+,25,,other,0,,4,3.99855,10
+,60,... all of the gumballs.,all,0,,5,3.99855,10
+,60,... most of the gumballs.,most,0.6,,5,3.99855,10
+,60,... some of the gumballs.,some,0.40000000000000013,,5,3.99855,10
+,60,,other,0,,5,3.99855,10
+,60,... all of the gumballs.,all,0.01,,6,3.99855,10
+,60,... most of the gumballs.,most,0.57,,6,3.99855,10
+,60,... some of the gumballs.,some,0.41999999999999993,,6,3.99855,10
+,60,,other,0,,6,3.99855,10
+,50,... all of the gumballs.,all,0.02,,7,3.99855,10
+,50,... most of the gumballs.,most,0.58,,7,3.99855,10
+,50,... some of the gumballs.,some,0.4,,7,3.99855,10
+,50,,other,0,,7,3.99855,10
+,10,... all of the gumballs.,all,0,,8,3.99855,10
+,10,... most of the gumballs.,most,0,,8,3.99855,10
+,10,... some of the gumballs.,some,0.86,,8,3.99855,10
+,10,,other,0.14000000000000012,,8,3.99855,10
+,90,... all of the gumballs.,all,0,,9,3.99855,10
+,90,... most of the gumballs.,most,1,,9,3.99855,10
+,90,... some of the gumballs.,some,0,,9,3.99855,10
+,90,,other,0,,9,3.99855,10
+,50,... all of the gumballs.,all,0,,10,3.99855,10
+,50,... most of the gumballs.,most,0.42,,10,3.99855,10
+,50,... some of the gumballs.,some,0.5800000000000001,,10,3.99855,10
+,50,,other,0,,10,3.99855,10
+,40,... all of the gumballs.,all,0,,11,3.99855,10
+,40,... most of the gumballs.,most,0,,11,3.99855,10
+,40,... some of the gumballs.,some,1,,11,3.99855,10
+,40,,other,0,,11,3.99855,10
+,100,... all of the gumballs.,all,0,,12,3.99855,10
+,100,... most of the gumballs.,most,0,,12,3.99855,10
+,100,... some of the gumballs.,some,0,,12,3.99855,10
+,100,,other,1,,12,3.99855,10
+,100,... all of the gumballs.,all,1,,13,3.99855,10
+,100,... most of the gumballs.,most,0,,13,3.99855,10
+,100,... some of the gumballs.,some,0,,13,3.99855,10
+,100,,other,0,,13,3.99855,10
+,90,... all of the gumballs.,all,0,,14,3.99855,10
+,90,... most of the gumballs.,most,1,,14,3.99855,10
+,90,... some of the gumballs.,some,0,,14,3.99855,10
+,90,,other,0,,14,3.99855,10
+,25,... all of the gumballs.,all,0,,15,3.99855,10
+,25,... most of the gumballs.,most,0,,15,3.99855,10
+,25,... some of the gumballs.,some,1,,15,3.99855,10
+,25,,other,0,,15,3.99855,10
+,75,... all of the gumballs.,all,0,,16,3.99855,10
+,75,... most of the gumballs.,most,1,,16,3.99855,10
+,75,... some of the gumballs.,some,0,,16,3.99855,10
+,75,,other,0,,16,3.99855,10
+,75,... most of the gumballs.,most,0.89,,1,2.3019166666666666,11
+,75,... some of the gumballs.,some,0.1100000000000001,,1,2.3019166666666666,11
+,75,... all of the gumballs.,all,0,,1,2.3019166666666666,11
+,75,,other,0,,1,2.3019166666666666,11
+,50,... most of the gumballs.,most,0,,2,2.3019166666666666,11
+,50,... some of the gumballs.,some,1,,2,2.3019166666666666,11
+,50,... all of the gumballs.,all,0,,2,2.3019166666666666,11
+,50,,other,0,,2,2.3019166666666666,11
+,25,... most of the gumballs.,most,0,,3,2.3019166666666666,11
+,25,... some of the gumballs.,some,1,,3,2.3019166666666666,11
+,25,... all of the gumballs.,all,0,,3,2.3019166666666666,11
+,25,,other,0,,3,2.3019166666666666,11
+,40,... most of the gumballs.,most,0,,4,2.3019166666666666,11
+,40,... some of the gumballs.,some,1,,4,2.3019166666666666,11
+,40,... all of the gumballs.,all,0,,4,2.3019166666666666,11
+,40,,other,0,,4,2.3019166666666666,11
+,100,... most of the gumballs.,most,0,,5,2.3019166666666666,11
+,100,... some of the gumballs.,some,0,,5,2.3019166666666666,11
+,100,... all of the gumballs.,all,1,,5,2.3019166666666666,11
+,100,,other,0,,5,2.3019166666666666,11
+,25,... most of the gumballs.,most,0,,6,2.3019166666666666,11
+,25,... some of the gumballs.,some,1,,6,2.3019166666666666,11
+,25,... all of the gumballs.,all,0,,6,2.3019166666666666,11
+,25,,other,0,,6,2.3019166666666666,11
+,60,... most of the gumballs.,most,0.83,,7,2.3019166666666666,11
+,60,... some of the gumballs.,some,0.17000000000000015,,7,2.3019166666666666,11
+,60,... all of the gumballs.,all,0,,7,2.3019166666666666,11
+,60,,other,0,,7,2.3019166666666666,11
+,10,... most of the gumballs.,most,0,,8,2.3019166666666666,11
+,10,... some of the gumballs.,some,1,,8,2.3019166666666666,11
+,10,... all of the gumballs.,all,0,,8,2.3019166666666666,11
+,10,,other,0,,8,2.3019166666666666,11
+,40,... most of the gumballs.,most,0,,9,2.3019166666666666,11
+,40,... some of the gumballs.,some,1,,9,2.3019166666666666,11
+,40,... all of the gumballs.,all,0,,9,2.3019166666666666,11
+,40,,other,0,,9,2.3019166666666666,11
+,50,... most of the gumballs.,most,0,,10,2.3019166666666666,11
+,50,... some of the gumballs.,some,1,,10,2.3019166666666666,11
+,50,... all of the gumballs.,all,0,,10,2.3019166666666666,11
+,50,,other,0,,10,2.3019166666666666,11
+,75,... most of the gumballs.,most,1,,11,2.3019166666666666,11
+,75,... some of the gumballs.,some,0,,11,2.3019166666666666,11
+,75,... all of the gumballs.,all,0,,11,2.3019166666666666,11
+,75,,other,0,,11,2.3019166666666666,11
+,90,... most of the gumballs.,most,1,,12,2.3019166666666666,11
+,90,... some of the gumballs.,some,0,,12,2.3019166666666666,11
+,90,... all of the gumballs.,all,0,,12,2.3019166666666666,11
+,90,,other,0,,12,2.3019166666666666,11
+,10,... most of the gumballs.,most,0,,13,2.3019166666666666,11
+,10,... some of the gumballs.,some,1,,13,2.3019166666666666,11
+,10,... all of the gumballs.,all,0,,13,2.3019166666666666,11
+,10,,other,0,,13,2.3019166666666666,11
+,90,... most of the gumballs.,most,1,,14,2.3019166666666666,11
+,90,... some of the gumballs.,some,0,,14,2.3019166666666666,11
+,90,... all of the gumballs.,all,0,,14,2.3019166666666666,11
+,90,,other,0,,14,2.3019166666666666,11
+,60,... most of the gumballs.,most,0.77,,15,2.3019166666666666,11
+,60,... some of the gumballs.,some,0.22999999999999998,,15,2.3019166666666666,11
+,60,... all of the gumballs.,all,0,,15,2.3019166666666666,11
+,60,,other,0,,15,2.3019166666666666,11
+,100,... most of the gumballs.,most,0,,16,2.3019166666666666,11
+,100,... some of the gumballs.,some,0,,16,2.3019166666666666,11
+,100,... all of the gumballs.,all,1,,16,2.3019166666666666,11
+,100,,other,0,,16,2.3019166666666666,11
+,75,... most of the gumballs.,most,0.7,,1,14.7399,12
+,75,... all of the gumballs.,all,0,,1,14.7399,12
+,75,... some of the gumballs.,some,0.30000000000000004,,1,14.7399,12
+,75,,other,0,,1,14.7399,12
+,40,... most of the gumballs.,most,0.04999999999999993,,2,14.7399,12
+,40,... all of the gumballs.,all,0,,2,14.7399,12
+,40,... some of the gumballs.,some,0.79,,2,14.7399,12
+,40,,other,0.16,,2,14.7399,12
+,50,... most of the gumballs.,most,0.12,,3,14.7399,12
+,50,... all of the gumballs.,all,0,,3,14.7399,12
+,50,... some of the gumballs.,some,0.75,,3,14.7399,12
+,50,,other,0.13,,3,14.7399,12
+,100,... most of the gumballs.,most,0.04999999999999993,,4,14.7399,12
+,100,... all of the gumballs.,all,0.86,,4,14.7399,12
+,100,... some of the gumballs.,some,0.09,,4,14.7399,12
+,100,,other,0,,4,14.7399,12
+,10,... most of the gumballs.,most,0,,5,14.7399,12
+,10,... all of the gumballs.,all,0,,5,14.7399,12
+,10,... some of the gumballs.,some,0.74,,5,14.7399,12
+,10,,other,0.26,,5,14.7399,12
+,90,... most of the gumballs.,most,0.87,,6,14.7399,12
+,90,... all of the gumballs.,all,0,,6,14.7399,12
+,90,... some of the gumballs.,some,0.13,,6,14.7399,12
+,90,,other,0,,6,14.7399,12
+,25,... most of the gumballs.,most,0,,7,14.7399,12
+,25,... all of the gumballs.,all,0,,7,14.7399,12
+,25,... some of the gumballs.,some,0.87,,7,14.7399,12
+,25,,other,0.13,,7,14.7399,12
+,50,... most of the gumballs.,most,0.09,,8,14.7399,12
+,50,... all of the gumballs.,all,0,,8,14.7399,12
+,50,... some of the gumballs.,some,0.7899999999999999,,8,14.7399,12
+,50,,other,0.12,,8,14.7399,12
+,60,... most of the gumballs.,most,0.7,,9,14.7399,12
+,60,... all of the gumballs.,all,0,,9,14.7399,12
+,60,... some of the gumballs.,some,0.28,,9,14.7399,12
+,60,,other,0.020000000000000018,,9,14.7399,12
+,100,... most of the gumballs.,most,0.1,,10,14.7399,12
+,100,... all of the gumballs.,all,0.89,,10,14.7399,12
+,100,... some of the gumballs.,some,0,,10,14.7399,12
+,100,,other,0.009999999999999898,,10,14.7399,12
+,40,... most of the gumballs.,most,0.05,,11,14.7399,12
+,40,... all of the gumballs.,all,0,,11,14.7399,12
+,40,... some of the gumballs.,some,0.76,,11,14.7399,12
+,40,,other,0.18999999999999995,,11,14.7399,12
+,10,... most of the gumballs.,most,0,,12,14.7399,12
+,10,... all of the gumballs.,all,0,,12,14.7399,12
+,10,... some of the gumballs.,some,0.66,,12,14.7399,12
+,10,,other,0.34,,12,14.7399,12
+,25,... most of the gumballs.,most,0.05,,13,14.7399,12
+,25,... all of the gumballs.,all,0,,13,14.7399,12
+,25,... some of the gumballs.,some,0.75,,13,14.7399,12
+,25,,other,0.19999999999999996,,13,14.7399,12
+,75,... most of the gumballs.,most,0.68,,14,14.7399,12
+,75,... all of the gumballs.,all,0,,14,14.7399,12
+,75,... some of the gumballs.,some,0.32000000000000006,,14,14.7399,12
+,75,,other,0,,14,14.7399,12
+,60,... most of the gumballs.,most,0.75,,15,14.7399,12
+,60,... all of the gumballs.,all,0,,15,14.7399,12
+,60,... some of the gumballs.,some,0.25,,15,14.7399,12
+,60,,other,0,,15,14.7399,12
+,90,... most of the gumballs.,most,0.83,,16,14.7399,12
+,90,... all of the gumballs.,all,0,,16,14.7399,12
+,90,... some of the gumballs.,some,0.16999999999999993,,16,14.7399,12
+,90,,other,1.1102230246251565e-16,,16,14.7399,12
+,40,... some of the gumballs.,some,0.9,,1,11.207366666666667,13
+,40,... most of the gumballs.,most,0.09999999999999998,,1,11.207366666666667,13
+,40,... all of the gumballs.,all,0,,1,11.207366666666667,13
+,40,,other,0,,1,11.207366666666667,13
+,25,... some of the gumballs.,some,1,,2,11.207366666666667,13
+,25,... most of the gumballs.,most,0,,2,11.207366666666667,13
+,25,... all of the gumballs.,all,0,,2,11.207366666666667,13
+,25,,other,0,,2,11.207366666666667,13
+,10,... some of the gumballs.,some,1,,3,11.207366666666667,13
+,10,... most of the gumballs.,most,0,,3,11.207366666666667,13
+,10,... all of the gumballs.,all,0,,3,11.207366666666667,13
+,10,,other,0,,3,11.207366666666667,13
+,100,... some of the gumballs.,some,0,,4,11.207366666666667,13
+,100,... most of the gumballs.,most,0,,4,11.207366666666667,13
+,100,... all of the gumballs.,all,1,,4,11.207366666666667,13
+,100,,other,0,,4,11.207366666666667,13
+,10,... some of the gumballs.,some,1,,5,11.207366666666667,13
+,10,... most of the gumballs.,most,0,,5,11.207366666666667,13
+,10,... all of the gumballs.,all,0,,5,11.207366666666667,13
+,10,,other,0,,5,11.207366666666667,13
+,90,... some of the gumballs.,some,0,,6,11.207366666666667,13
+,90,... most of the gumballs.,most,1,,6,11.207366666666667,13
+,90,... all of the gumballs.,all,0,,6,11.207366666666667,13
+,90,,other,0,,6,11.207366666666667,13
+,60,... some of the gumballs.,some,0.09999999999999998,,7,11.207366666666667,13
+,60,... most of the gumballs.,most,0.9,,7,11.207366666666667,13
+,60,... all of the gumballs.,all,0,,7,11.207366666666667,13
+,60,,other,0,,7,11.207366666666667,13
+,50,... some of the gumballs.,some,0.08999999999999986,,8,11.207366666666667,13
+,50,... most of the gumballs.,most,0.91,,8,11.207366666666667,13
+,50,... all of the gumballs.,all,0,,8,11.207366666666667,13
+,50,,other,0,,8,11.207366666666667,13
+,50,... some of the gumballs.,some,0,,9,11.207366666666667,13
+,50,... most of the gumballs.,most,1,,9,11.207366666666667,13
+,50,... all of the gumballs.,all,0,,9,11.207366666666667,13
+,50,,other,0,,9,11.207366666666667,13
+,75,... some of the gumballs.,some,0,,10,11.207366666666667,13
+,75,... most of the gumballs.,most,1,,10,11.207366666666667,13
+,75,... all of the gumballs.,all,0,,10,11.207366666666667,13
+,75,,other,0,,10,11.207366666666667,13
+,40,... some of the gumballs.,some,0.54,,11,11.207366666666667,13
+,40,... most of the gumballs.,most,0.45999999999999996,,11,11.207366666666667,13
+,40,... all of the gumballs.,all,0,,11,11.207366666666667,13
+,40,,other,0,,11,11.207366666666667,13
+,25,... some of the gumballs.,some,1,,12,11.207366666666667,13
+,25,... most of the gumballs.,most,0,,12,11.207366666666667,13
+,25,... all of the gumballs.,all,0,,12,11.207366666666667,13
+,25,,other,0,,12,11.207366666666667,13
+,90,... some of the gumballs.,some,0,,13,11.207366666666667,13
+,90,... most of the gumballs.,most,1,,13,11.207366666666667,13
+,90,... all of the gumballs.,all,0,,13,11.207366666666667,13
+,90,,other,0,,13,11.207366666666667,13
+,75,... some of the gumballs.,some,0,,14,11.207366666666667,13
+,75,... most of the gumballs.,most,1,,14,11.207366666666667,13
+,75,... all of the gumballs.,all,0,,14,11.207366666666667,13
+,75,,other,0,,14,11.207366666666667,13
+,100,... some of the gumballs.,some,0,,15,11.207366666666667,13
+,100,... most of the gumballs.,most,0,,15,11.207366666666667,13
+,100,... all of the gumballs.,all,1,,15,11.207366666666667,13
+,100,,other,0,,15,11.207366666666667,13
+,60,... some of the gumballs.,some,0.10999999999999999,,16,11.207366666666667,13
+,60,... most of the gumballs.,most,0.89,,16,11.207366666666667,13
+,60,... all of the gumballs.,all,0,,16,11.207366666666667,13
+,60,,other,0,,16,11.207366666666667,13
+,100,... all of the gumballs.,all,1,,1,3.2777666666666665,14
+,100,... most of the gumballs.,most,0,,1,3.2777666666666665,14
+,100,... some of the gumballs.,some,0,,1,3.2777666666666665,14
+,100,,other,0,,1,3.2777666666666665,14
+,75,... all of the gumballs.,all,0,,2,3.2777666666666665,14
+,75,... most of the gumballs.,most,1,,2,3.2777666666666665,14
+,75,... some of the gumballs.,some,0,,2,3.2777666666666665,14
+,75,,other,0,,2,3.2777666666666665,14
+,10,... all of the gumballs.,all,0,,3,3.2777666666666665,14
+,10,... most of the gumballs.,most,0,,3,3.2777666666666665,14
+,10,... some of the gumballs.,some,1,,3,3.2777666666666665,14
+,10,,other,0,,3,3.2777666666666665,14
+,40,... all of the gumballs.,all,0,,4,3.2777666666666665,14
+,40,... most of the gumballs.,most,0,,4,3.2777666666666665,14
+,40,... some of the gumballs.,some,1,,4,3.2777666666666665,14
+,40,,other,0,,4,3.2777666666666665,14
+,100,... all of the gumballs.,all,1,,5,3.2777666666666665,14
+,100,... most of the gumballs.,most,0,,5,3.2777666666666665,14
+,100,... some of the gumballs.,some,0,,5,3.2777666666666665,14
+,100,,other,0,,5,3.2777666666666665,14
+,60,... all of the gumballs.,all,0,,6,3.2777666666666665,14
+,60,... most of the gumballs.,most,1,,6,3.2777666666666665,14
+,60,... some of the gumballs.,some,0,,6,3.2777666666666665,14
+,60,,other,0,,6,3.2777666666666665,14
+,25,... all of the gumballs.,all,0,,7,3.2777666666666665,14
+,25,... most of the gumballs.,most,0,,7,3.2777666666666665,14
+,25,... some of the gumballs.,some,1,,7,3.2777666666666665,14
+,25,,other,0,,7,3.2777666666666665,14
+,75,... all of the gumballs.,all,0,,8,3.2777666666666665,14
+,75,... most of the gumballs.,most,0,,8,3.2777666666666665,14
+,75,... some of the gumballs.,some,1,,8,3.2777666666666665,14
+,75,,other,0,,8,3.2777666666666665,14
+,50,... all of the gumballs.,all,0,,9,3.2777666666666665,14
+,50,... most of the gumballs.,most,0.88,,9,3.2777666666666665,14
+,50,... some of the gumballs.,some,0.12,,9,3.2777666666666665,14
+,50,,other,0,,9,3.2777666666666665,14
+,90,... all of the gumballs.,all,0,,10,3.2777666666666665,14
+,90,... most of the gumballs.,most,1,,10,3.2777666666666665,14
+,90,... some of the gumballs.,some,0,,10,3.2777666666666665,14
+,90,,other,0,,10,3.2777666666666665,14
+,90,... all of the gumballs.,all,0,,11,3.2777666666666665,14
+,90,... most of the gumballs.,most,1,,11,3.2777666666666665,14
+,90,... some of the gumballs.,some,0,,11,3.2777666666666665,14
+,90,,other,0,,11,3.2777666666666665,14
+,50,... all of the gumballs.,all,0,,12,3.2777666666666665,14
+,50,... most of the gumballs.,most,0.69,,12,3.2777666666666665,14
+,50,... some of the gumballs.,some,0.31000000000000016,,12,3.2777666666666665,14
+,50,,other,0,,12,3.2777666666666665,14
+,40,... all of the gumballs.,all,0,,13,3.2777666666666665,14
+,40,... most of the gumballs.,most,0.57,,13,3.2777666666666665,14
+,40,... some of the gumballs.,some,0.43000000000000016,,13,3.2777666666666665,14
+,40,,other,0,,13,3.2777666666666665,14
+,60,... all of the gumballs.,all,0,,14,3.2777666666666665,14
+,60,... most of the gumballs.,most,1,,14,3.2777666666666665,14
+,60,... some of the gumballs.,some,0,,14,3.2777666666666665,14
+,60,,other,0,,14,3.2777666666666665,14
+,10,... all of the gumballs.,all,0,,15,3.2777666666666665,14
+,10,... most of the gumballs.,most,0,,15,3.2777666666666665,14
+,10,... some of the gumballs.,some,1,,15,3.2777666666666665,14
+,10,,other,0,,15,3.2777666666666665,14
+,25,... all of the gumballs.,all,0,,16,3.2777666666666665,14
+,25,... most of the gumballs.,most,0,,16,3.2777666666666665,14
+,25,... some of the gumballs.,some,1,,16,3.2777666666666665,14
+,25,,other,0,,16,3.2777666666666665,14
+,75,... some of the gumballs.,some,0.17999999999999994,,1,4.98885,15
+,75,... most of the gumballs.,most,0.76,,1,4.98885,15
+,75,... all of the gumballs.,all,0.06,,1,4.98885,15
+,75,,other,0,,1,4.98885,15
+,100,... some of the gumballs.,some,0,,2,4.98885,15
+,100,... most of the gumballs.,most,0,,2,4.98885,15
+,100,... all of the gumballs.,all,1,,2,4.98885,15
+,100,,other,0,,2,4.98885,15
+,25,... some of the gumballs.,some,0.84,,3,4.98885,15
+,25,... most of the gumballs.,most,0,,3,4.98885,15
+,25,... all of the gumballs.,all,0,,3,4.98885,15
+,25,,other,0.15999999999999992,,3,4.98885,15
+,25,... some of the gumballs.,some,0.91,,4,4.98885,15
+,25,... most of the gumballs.,most,0,,4,4.98885,15
+,25,... all of the gumballs.,all,0,,4,4.98885,15
+,25,,other,0.09,,4,4.98885,15
+,10,... some of the gumballs.,some,0.07999999999999996,,5,4.98885,15
+,10,... most of the gumballs.,most,0,,5,4.98885,15
+,10,... all of the gumballs.,all,0,,5,4.98885,15
+,10,,other,0.92,,5,4.98885,15
+,90,... some of the gumballs.,some,0,,6,4.98885,15
+,90,... most of the gumballs.,most,0.8099999999999999,,6,4.98885,15
+,90,... all of the gumballs.,all,0.19,,6,4.98885,15
+,90,,other,0,,6,4.98885,15
+,90,... some of the gumballs.,some,0,,7,4.98885,15
+,90,... most of the gumballs.,most,0.93,,7,4.98885,15
+,90,... all of the gumballs.,all,0,,7,4.98885,15
+,90,,other,0.06999999999999995,,7,4.98885,15
+,60,... some of the gumballs.,some,0,,8,4.98885,15
+,60,... most of the gumballs.,most,0.8,,8,4.98885,15
+,60,... all of the gumballs.,all,0,,8,4.98885,15
+,60,,other,0.19999999999999996,,8,4.98885,15
+,50,... some of the gumballs.,some,0.3799999999999999,,9,4.98885,15
+,50,... most of the gumballs.,most,0.62,,9,4.98885,15
+,50,... all of the gumballs.,all,0,,9,4.98885,15
+,50,,other,0,,9,4.98885,15
+,40,... some of the gumballs.,some,0.62,,10,4.98885,15
+,40,... most of the gumballs.,most,0,,10,4.98885,15
+,40,... all of the gumballs.,all,0,,10,4.98885,15
+,40,,other,0.3799999999999999,,10,4.98885,15
+,100,... some of the gumballs.,some,0,,11,4.98885,15
+,100,... most of the gumballs.,most,0,,11,4.98885,15
+,100,... all of the gumballs.,all,1,,11,4.98885,15
+,100,,other,0,,11,4.98885,15
+,10,... some of the gumballs.,some,0.15000000000000013,,12,4.98885,15
+,10,... most of the gumballs.,most,0,,12,4.98885,15
+,10,... all of the gumballs.,all,0,,12,4.98885,15
+,10,,other,0.85,,12,4.98885,15
+,75,... some of the gumballs.,some,0,,13,4.98885,15
+,75,... most of the gumballs.,most,0.84,,13,4.98885,15
+,75,... all of the gumballs.,all,0,,13,4.98885,15
+,75,,other,0.16000000000000003,,13,4.98885,15
+,40,... some of the gumballs.,some,0.20999999999999996,,14,4.98885,15
+,40,... most of the gumballs.,most,0.79,,14,4.98885,15
+,40,... all of the gumballs.,all,0,,14,4.98885,15
+,40,,other,0,,14,4.98885,15
+,50,... some of the gumballs.,some,0.18000000000000005,,15,4.98885,15
+,50,... most of the gumballs.,most,0.82,,15,4.98885,15
+,50,... all of the gumballs.,all,0,,15,4.98885,15
+,50,,other,0,,15,4.98885,15
+,60,... some of the gumballs.,some,0,,16,4.98885,15
+,60,... most of the gumballs.,most,0.75,,16,4.98885,15
+,60,... all of the gumballs.,all,0,,16,4.98885,15
+,60,,other,0.25,,16,4.98885,15
+,10,... most of the gumballs.,most,0.08,,1,7.00305,16
+,10,... all of the gumballs.,all,0.05,,1,7.00305,16
+,10,... some of the gumballs.,some,0.41,,1,7.00305,16
+,10,,other,0.4600000000000001,,1,7.00305,16
+,90,... most of the gumballs.,most,1,,2,7.00305,16
+,90,... all of the gumballs.,all,0,,2,7.00305,16
+,90,... some of the gumballs.,some,0,,2,7.00305,16
+,90,,other,0,,2,7.00305,16
+,10,... most of the gumballs.,most,0,,3,7.00305,16
+,10,... all of the gumballs.,all,0,,3,7.00305,16
+,10,... some of the gumballs.,some,0.33,,3,7.00305,16
+,10,,other,0.6699999999999999,,3,7.00305,16
+,60,... most of the gumballs.,most,0,,4,7.00305,16
+,60,... all of the gumballs.,all,0,,4,7.00305,16
+,60,... some of the gumballs.,some,1,,4,7.00305,16
+,60,,other,0,,4,7.00305,16
+,50,... most of the gumballs.,most,0,,5,7.00305,16
+,50,... all of the gumballs.,all,0,,5,7.00305,16
+,50,... some of the gumballs.,some,1,,5,7.00305,16
+,50,,other,0,,5,7.00305,16
+,60,... most of the gumballs.,most,0.7,,6,7.00305,16
+,60,... all of the gumballs.,all,0,,6,7.00305,16
+,60,... some of the gumballs.,some,0.3,,6,7.00305,16
+,60,,other,0,,6,7.00305,16
+,100,... most of the gumballs.,most,0,,7,7.00305,16
+,100,... all of the gumballs.,all,1,,7,7.00305,16
+,100,... some of the gumballs.,some,0,,7,7.00305,16
+,100,,other,0,,7,7.00305,16
+,40,... most of the gumballs.,most,0.09,,8,7.00305,16
+,40,... all of the gumballs.,all,0,,8,7.00305,16
+,40,... some of the gumballs.,some,0.9099999999999999,,8,7.00305,16
+,40,,other,0,,8,7.00305,16
+,25,... most of the gumballs.,most,0,,9,7.00305,16
+,25,... all of the gumballs.,all,0,,9,7.00305,16
+,25,... some of the gumballs.,some,1,,9,7.00305,16
+,25,,other,0,,9,7.00305,16
+,100,... most of the gumballs.,most,0,,10,7.00305,16
+,100,... all of the gumballs.,all,1,,10,7.00305,16
+,100,... some of the gumballs.,some,0,,10,7.00305,16
+,100,,other,0,,10,7.00305,16
+,90,... most of the gumballs.,most,1,,11,7.00305,16
+,90,... all of the gumballs.,all,0,,11,7.00305,16
+,90,... some of the gumballs.,some,0,,11,7.00305,16
+,90,,other,0,,11,7.00305,16
+,40,... most of the gumballs.,most,0,,12,7.00305,16
+,40,... all of the gumballs.,all,0,,12,7.00305,16
+,40,... some of the gumballs.,some,1,,12,7.00305,16
+,40,,other,0,,12,7.00305,16
+,75,... most of the gumballs.,most,1,,13,7.00305,16
+,75,... all of the gumballs.,all,0,,13,7.00305,16
+,75,... some of the gumballs.,some,0,,13,7.00305,16
+,75,,other,0,,13,7.00305,16
+,25,... most of the gumballs.,most,0,,14,7.00305,16
+,25,... all of the gumballs.,all,0,,14,7.00305,16
+,25,... some of the gumballs.,some,1,,14,7.00305,16
+,25,,other,0,,14,7.00305,16
+,50,... most of the gumballs.,most,0,,15,7.00305,16
+,50,... all of the gumballs.,all,0,,15,7.00305,16
+,50,... some of the gumballs.,some,0.64,,15,7.00305,16
+,50,,other,0.3599999999999999,,15,7.00305,16
+,75,... most of the gumballs.,most,1,,16,7.00305,16
+,75,... all of the gumballs.,all,0,,16,7.00305,16
+,75,... some of the gumballs.,some,0,,16,7.00305,16
+,75,,other,0,,16,7.00305,16
+,100,... all of the gumballs.,all,1,,1,3.5543,17
+,100,... most of the gumballs.,most,0,,1,3.5543,17
+,100,... some of the gumballs.,some,0,,1,3.5543,17
+,100,,other,0,,1,3.5543,17
+,90,... all of the gumballs.,all,0,,2,3.5543,17
+,90,... most of the gumballs.,most,1,,2,3.5543,17
+,90,... some of the gumballs.,some,0,,2,3.5543,17
+,90,,other,0,,2,3.5543,17
+,60,... all of the gumballs.,all,0,,3,3.5543,17
+,60,... most of the gumballs.,most,0.51,,3,3.5543,17
+,60,... some of the gumballs.,some,0.49,,3,3.5543,17
+,60,,other,0,,3,3.5543,17
+,50,... all of the gumballs.,all,0,,4,3.5543,17
+,50,... most of the gumballs.,most,0,,4,3.5543,17
+,50,... some of the gumballs.,some,1,,4,3.5543,17
+,50,,other,0,,4,3.5543,17
+,40,... all of the gumballs.,all,0,,5,3.5543,17
+,40,... most of the gumballs.,most,0,,5,3.5543,17
+,40,... some of the gumballs.,some,1,,5,3.5543,17
+,40,,other,0,,5,3.5543,17
+,60,... all of the gumballs.,all,0,,6,3.5543,17
+,60,... most of the gumballs.,most,0.38,,6,3.5543,17
+,60,... some of the gumballs.,some,0.62,,6,3.5543,17
+,60,,other,0,,6,3.5543,17
+,10,... all of the gumballs.,all,0,,7,3.5543,17
+,10,... most of the gumballs.,most,0,,7,3.5543,17
+,10,... some of the gumballs.,some,1,,7,3.5543,17
+,10,,other,0,,7,3.5543,17
+,25,... all of the gumballs.,all,0,,8,3.5543,17
+,25,... most of the gumballs.,most,0,,8,3.5543,17
+,25,... some of the gumballs.,some,1,,8,3.5543,17
+,25,,other,0,,8,3.5543,17
+,100,... all of the gumballs.,all,1,,9,3.5543,17
+,100,... most of the gumballs.,most,0,,9,3.5543,17
+,100,... some of the gumballs.,some,0,,9,3.5543,17
+,100,,other,0,,9,3.5543,17
+,90,... all of the gumballs.,all,0,,10,3.5543,17
+,90,... most of the gumballs.,most,1,,10,3.5543,17
+,90,... some of the gumballs.,some,0,,10,3.5543,17
+,90,,other,0,,10,3.5543,17
+,10,... all of the gumballs.,all,0,,11,3.5543,17
+,10,... most of the gumballs.,most,0,,11,3.5543,17
+,10,... some of the gumballs.,some,1,,11,3.5543,17
+,10,,other,0,,11,3.5543,17
+,75,... all of the gumballs.,all,0,,12,3.5543,17
+,75,... most of the gumballs.,most,1,,12,3.5543,17
+,75,... some of the gumballs.,some,0,,12,3.5543,17
+,75,,other,0,,12,3.5543,17
+,75,... all of the gumballs.,all,0,,13,3.5543,17
+,75,... most of the gumballs.,most,1,,13,3.5543,17
+,75,... some of the gumballs.,some,0,,13,3.5543,17
+,75,,other,0,,13,3.5543,17
+,25,... all of the gumballs.,all,0,,14,3.5543,17
+,25,... most of the gumballs.,most,0,,14,3.5543,17
+,25,... some of the gumballs.,some,1,,14,3.5543,17
+,25,,other,0,,14,3.5543,17
+,40,... all of the gumballs.,all,0,,15,3.5543,17
+,40,... most of the gumballs.,most,0,,15,3.5543,17
+,40,... some of the gumballs.,some,1,,15,3.5543,17
+,40,,other,1.1102230246251565e-16,,15,3.5543,17
+,50,... all of the gumballs.,all,0,,16,3.5543,17
+,50,... most of the gumballs.,most,0.23,,16,3.5543,17
+,50,... some of the gumballs.,some,0.77,,16,3.5543,17
+,50,,other,0,,16,3.5543,17
+,100,... all of the gumballs.,all,1,,1,3.4953166666666666,18
+,100,... most of the gumballs.,most,0,,1,3.4953166666666666,18
+,100,... some of the gumballs.,some,0,,1,3.4953166666666666,18
+,100,,other,0,,1,3.4953166666666666,18
+,60,... all of the gumballs.,all,0,,2,3.4953166666666666,18
+,60,... most of the gumballs.,most,0.33,,2,3.4953166666666666,18
+,60,... some of the gumballs.,some,0.6699999999999999,,2,3.4953166666666666,18
+,60,,other,0,,2,3.4953166666666666,18
+,75,... all of the gumballs.,all,0,,3,3.4953166666666666,18
+,75,... most of the gumballs.,most,0.94,,3,3.4953166666666666,18
+,75,... some of the gumballs.,some,0.06,,3,3.4953166666666666,18
+,75,,other,0,,3,3.4953166666666666,18
+,90,... all of the gumballs.,all,0,,4,3.4953166666666666,18
+,90,... most of the gumballs.,most,1,,4,3.4953166666666666,18
+,90,... some of the gumballs.,some,0,,4,3.4953166666666666,18
+,90,,other,0,,4,3.4953166666666666,18
+,75,... all of the gumballs.,all,0,,5,3.4953166666666666,18
+,75,... most of the gumballs.,most,0.85,,5,3.4953166666666666,18
+,75,... some of the gumballs.,some,0.15000000000000013,,5,3.4953166666666666,18
+,75,,other,0,,5,3.4953166666666666,18
+,90,... all of the gumballs.,all,0,,6,3.4953166666666666,18
+,90,... most of the gumballs.,most,1,,6,3.4953166666666666,18
+,90,... some of the gumballs.,some,0,,6,3.4953166666666666,18
+,90,,other,0,,6,3.4953166666666666,18
+,40,... all of the gumballs.,all,0,,7,3.4953166666666666,18
+,40,... most of the gumballs.,most,0.11999999999999988,,7,3.4953166666666666,18
+,40,... some of the gumballs.,some,0.88,,7,3.4953166666666666,18
+,40,,other,0,,7,3.4953166666666666,18
+,50,... all of the gumballs.,all,0,,8,3.4953166666666666,18
+,50,... most of the gumballs.,most,0.43999999999999995,,8,3.4953166666666666,18
+,50,... some of the gumballs.,some,0.56,,8,3.4953166666666666,18
+,50,,other,0,,8,3.4953166666666666,18
+,60,... all of the gumballs.,all,0,,9,3.4953166666666666,18
+,60,... most of the gumballs.,most,0.64,,9,3.4953166666666666,18
+,60,... some of the gumballs.,some,0.36,,9,3.4953166666666666,18
+,60,,other,0,,9,3.4953166666666666,18
+,50,... all of the gumballs.,all,0,,10,3.4953166666666666,18
+,50,... most of the gumballs.,most,0.5,,10,3.4953166666666666,18
+,50,... some of the gumballs.,some,0.5,,10,3.4953166666666666,18
+,50,,other,0,,10,3.4953166666666666,18
+,10,... all of the gumballs.,all,0,,11,3.4953166666666666,18
+,10,... most of the gumballs.,most,0,,11,3.4953166666666666,18
+,10,... some of the gumballs.,some,1,,11,3.4953166666666666,18
+,10,,other,0,,11,3.4953166666666666,18
+,100,... all of the gumballs.,all,1,,12,3.4953166666666666,18
+,100,... most of the gumballs.,most,0,,12,3.4953166666666666,18
+,100,... some of the gumballs.,some,0,,12,3.4953166666666666,18
+,100,,other,0,,12,3.4953166666666666,18
+,40,... all of the gumballs.,all,0,,13,3.4953166666666666,18
+,40,... most of the gumballs.,most,0.25,,13,3.4953166666666666,18
+,40,... some of the gumballs.,some,0.7499999999999999,,13,3.4953166666666666,18
+,40,,other,0,,13,3.4953166666666666,18
+,10,... all of the gumballs.,all,0,,14,3.4953166666666666,18
+,10,... most of the gumballs.,most,0,,14,3.4953166666666666,18
+,10,... some of the gumballs.,some,1,,14,3.4953166666666666,18
+,10,,other,0,,14,3.4953166666666666,18
+,25,... all of the gumballs.,all,0,,15,3.4953166666666666,18
+,25,... most of the gumballs.,most,0,,15,3.4953166666666666,18
+,25,... some of the gumballs.,some,1,,15,3.4953166666666666,18
+,25,,other,0,,15,3.4953166666666666,18
+,25,... all of the gumballs.,all,0,,16,3.4953166666666666,18
+,25,... most of the gumballs.,most,0,,16,3.4953166666666666,18
+,25,... some of the gumballs.,some,1,,16,3.4953166666666666,18
+,25,,other,0,,16,3.4953166666666666,18
+,10,... most of the gumballs.,most,0,,1,4.865883333333334,19
+,10,... some of the gumballs.,some,1,,1,4.865883333333334,19
+,10,... all of the gumballs.,all,0,,1,4.865883333333334,19
+,10,,other,0,,1,4.865883333333334,19
+,50,... most of the gumballs.,most,0.5,,2,4.865883333333334,19
+,50,... some of the gumballs.,some,0.5,,2,4.865883333333334,19
+,50,... all of the gumballs.,all,0,,2,4.865883333333334,19
+,50,,other,0,,2,4.865883333333334,19
+,50,... most of the gumballs.,most,0.5099999999999999,,3,4.865883333333334,19
+,50,... some of the gumballs.,some,0.4900000000000001,,3,4.865883333333334,19
+,50,... all of the gumballs.,all,0,,3,4.865883333333334,19
+,50,,other,0,,3,4.865883333333334,19
+,75,... most of the gumballs.,most,1,,4,4.865883333333334,19
+,75,... some of the gumballs.,some,0,,4,4.865883333333334,19
+,75,... all of the gumballs.,all,0,,4,4.865883333333334,19
+,75,,other,0,,4,4.865883333333334,19
+,60,... most of the gumballs.,most,1,,5,4.865883333333334,19
+,60,... some of the gumballs.,some,0,,5,4.865883333333334,19
+,60,... all of the gumballs.,all,0,,5,4.865883333333334,19
+,60,,other,0,,5,4.865883333333334,19
+,40,... most of the gumballs.,most,0.29,,6,4.865883333333334,19
+,40,... some of the gumballs.,some,0.71,,6,4.865883333333334,19
+,40,... all of the gumballs.,all,0,,6,4.865883333333334,19
+,40,,other,0,,6,4.865883333333334,19
+,25,... most of the gumballs.,most,0,,7,4.865883333333334,19
+,25,... some of the gumballs.,some,1,,7,4.865883333333334,19
+,25,... all of the gumballs.,all,0,,7,4.865883333333334,19
+,25,,other,0,,7,4.865883333333334,19
+,100,... most of the gumballs.,most,0,,8,4.865883333333334,19
+,100,... some of the gumballs.,some,0,,8,4.865883333333334,19
+,100,... all of the gumballs.,all,1,,8,4.865883333333334,19
+,100,,other,0,,8,4.865883333333334,19
+,90,... most of the gumballs.,most,0.81,,9,4.865883333333334,19
+,90,... some of the gumballs.,some,0,,9,4.865883333333334,19
+,90,... all of the gumballs.,all,0.19000000000000006,,9,4.865883333333334,19
+,90,,other,0,,9,4.865883333333334,19
+,10,... most of the gumballs.,most,0,,10,4.865883333333334,19
+,10,... some of the gumballs.,some,0.49,,10,4.865883333333334,19
+,10,... all of the gumballs.,all,0,,10,4.865883333333334,19
+,10,,other,0.5099999999999999,,10,4.865883333333334,19
+,100,... most of the gumballs.,most,0,,11,4.865883333333334,19
+,100,... some of the gumballs.,some,0,,11,4.865883333333334,19
+,100,... all of the gumballs.,all,1,,11,4.865883333333334,19
+,100,,other,0,,11,4.865883333333334,19
+,75,... most of the gumballs.,most,0.7,,12,4.865883333333334,19
+,75,... some of the gumballs.,some,0.30000000000000004,,12,4.865883333333334,19
+,75,... all of the gumballs.,all,0,,12,4.865883333333334,19
+,75,,other,0,,12,4.865883333333334,19
+,90,... most of the gumballs.,most,0.96,,13,4.865883333333334,19
+,90,... some of the gumballs.,some,0.040000000000000036,,13,4.865883333333334,19
+,90,... all of the gumballs.,all,0,,13,4.865883333333334,19
+,90,,other,0,,13,4.865883333333334,19
+,60,... most of the gumballs.,most,0.51,,14,4.865883333333334,19
+,60,... some of the gumballs.,some,0.49,,14,4.865883333333334,19
+,60,... all of the gumballs.,all,0,,14,4.865883333333334,19
+,60,,other,0,,14,4.865883333333334,19
+,25,... most of the gumballs.,most,0.31000000000000005,,15,4.865883333333334,19
+,25,... some of the gumballs.,some,0.69,,15,4.865883333333334,19
+,25,... all of the gumballs.,all,0,,15,4.865883333333334,19
+,25,,other,0,,15,4.865883333333334,19
+,40,... most of the gumballs.,most,0.49,,16,4.865883333333334,19
+,40,... some of the gumballs.,some,0.51,,16,4.865883333333334,19
+,40,... all of the gumballs.,all,0,,16,4.865883333333334,19
+,40,,other,0,,16,4.865883333333334,19
+,60,... most of the gumballs.,most,0.72,,1,2.9503833333333334,20
+,60,... all of the gumballs.,all,0,,1,2.9503833333333334,20
+,60,... some of the gumballs.,some,0.28,,1,2.9503833333333334,20
+,60,,other,0,,1,2.9503833333333334,20
+,40,... most of the gumballs.,most,0.3,,2,2.9503833333333334,20
+,40,... all of the gumballs.,all,0,,2,2.9503833333333334,20
+,40,... some of the gumballs.,some,0.7,,2,2.9503833333333334,20
+,40,,other,0,,2,2.9503833333333334,20
+,100,... most of the gumballs.,most,0,,3,2.9503833333333334,20
+,100,... all of the gumballs.,all,1,,3,2.9503833333333334,20
+,100,... some of the gumballs.,some,0,,3,2.9503833333333334,20
+,100,,other,0,,3,2.9503833333333334,20
+,40,... most of the gumballs.,most,0.33,,4,2.9503833333333334,20
+,40,... all of the gumballs.,all,0,,4,2.9503833333333334,20
+,40,... some of the gumballs.,some,0.67,,4,2.9503833333333334,20
+,40,,other,0,,4,2.9503833333333334,20
+,90,... most of the gumballs.,most,1,,5,2.9503833333333334,20
+,90,... all of the gumballs.,all,0,,5,2.9503833333333334,20
+,90,... some of the gumballs.,some,0,,5,2.9503833333333334,20
+,90,,other,0,,5,2.9503833333333334,20
+,75,... most of the gumballs.,most,1,,6,2.9503833333333334,20
+,75,... all of the gumballs.,all,0,,6,2.9503833333333334,20
+,75,... some of the gumballs.,some,0,,6,2.9503833333333334,20
+,75,,other,0,,6,2.9503833333333334,20
+,75,... most of the gumballs.,most,1,,7,2.9503833333333334,20
+,75,... all of the gumballs.,all,0,,7,2.9503833333333334,20
+,75,... some of the gumballs.,some,0,,7,2.9503833333333334,20
+,75,,other,0,,7,2.9503833333333334,20
+,10,... most of the gumballs.,most,0,,8,2.9503833333333334,20
+,10,... all of the gumballs.,all,0,,8,2.9503833333333334,20
+,10,... some of the gumballs.,some,0.19999999999999996,,8,2.9503833333333334,20
+,10,,other,0.8,,8,2.9503833333333334,20
+,10,... most of the gumballs.,most,0,,9,2.9503833333333334,20
+,10,... all of the gumballs.,all,0,,9,2.9503833333333334,20
+,10,... some of the gumballs.,some,0.16999999999999993,,9,2.9503833333333334,20
+,10,,other,0.83,,9,2.9503833333333334,20
+,50,... most of the gumballs.,most,0,,10,2.9503833333333334,20
+,50,... all of the gumballs.,all,0,,10,2.9503833333333334,20
+,50,... some of the gumballs.,some,0.68,,10,2.9503833333333334,20
+,50,,other,0.31999999999999995,,10,2.9503833333333334,20
+,25,... most of the gumballs.,most,0,,11,2.9503833333333334,20
+,25,... all of the gumballs.,all,0,,11,2.9503833333333334,20
+,25,... some of the gumballs.,some,0.73,,11,2.9503833333333334,20
+,25,,other,0.27000000000000013,,11,2.9503833333333334,20
+,100,... most of the gumballs.,most,0,,12,2.9503833333333334,20
+,100,... all of the gumballs.,all,1,,12,2.9503833333333334,20
+,100,... some of the gumballs.,some,0,,12,2.9503833333333334,20
+,100,,other,0,,12,2.9503833333333334,20
+,60,... most of the gumballs.,most,1,,13,2.9503833333333334,20
+,60,... all of the gumballs.,all,0,,13,2.9503833333333334,20
+,60,... some of the gumballs.,some,0,,13,2.9503833333333334,20
+,60,,other,0,,13,2.9503833333333334,20
+,25,... most of the gumballs.,most,0,,14,2.9503833333333334,20
+,25,... all of the gumballs.,all,0,,14,2.9503833333333334,20
+,25,... some of the gumballs.,some,0.8,,14,2.9503833333333334,20
+,25,,other,0.19999999999999984,,14,2.9503833333333334,20
+,50,... most of the gumballs.,most,0,,15,2.9503833333333334,20
+,50,... all of the gumballs.,all,0,,15,2.9503833333333334,20
+,50,... some of the gumballs.,some,0,,15,2.9503833333333334,20
+,50,,other,1,,15,2.9503833333333334,20
+,90,... most of the gumballs.,most,1,,16,2.9503833333333334,20
+,90,... all of the gumballs.,all,0,,16,2.9503833333333334,20
+,90,... some of the gumballs.,some,0,,16,2.9503833333333334,20
+,90,,other,0,,16,2.9503833333333334,20
+,40,... all of the gumballs.,all,0.1,,1,5.8501,21
+,40,... some of the gumballs.,some,0.5,,1,5.8501,21
+,40,... most of the gumballs.,most,0.3999999999999999,,1,5.8501,21
+,40,,other,0,,1,5.8501,21
+,50,... all of the gumballs.,all,0,,2,5.8501,21
+,50,... some of the gumballs.,some,0.7799999999999999,,2,5.8501,21
+,50,... most of the gumballs.,most,0.22,,2,5.8501,21
+,50,,other,0,,2,5.8501,21
+,90,... all of the gumballs.,all,1,,3,5.8501,21
+,90,... some of the gumballs.,some,0,,3,5.8501,21
+,90,... most of the gumballs.,most,0,,3,5.8501,21
+,90,,other,0,,3,5.8501,21
+,50,... all of the gumballs.,all,0,,4,5.8501,21
+,50,... some of the gumballs.,some,0.47999999999999987,,4,5.8501,21
+,50,... most of the gumballs.,most,0.52,,4,5.8501,21
+,50,,other,0,,4,5.8501,21
+,100,... all of the gumballs.,all,1,,5,5.8501,21
+,100,... some of the gumballs.,some,0,,5,5.8501,21
+,100,... most of the gumballs.,most,0,,5,5.8501,21
+,100,,other,0,,5,5.8501,21
+,60,... all of the gumballs.,all,0,,6,5.8501,21
+,60,... some of the gumballs.,some,0,,6,5.8501,21
+,60,... most of the gumballs.,most,1,,6,5.8501,21
+,60,,other,0,,6,5.8501,21
+,60,... all of the gumballs.,all,0,,7,5.8501,21
+,60,... some of the gumballs.,some,0.29000000000000004,,7,5.8501,21
+,60,... most of the gumballs.,most,0.71,,7,5.8501,21
+,60,,other,0,,7,5.8501,21
+,10,... all of the gumballs.,all,0,,8,5.8501,21
+,10,... some of the gumballs.,some,1,,8,5.8501,21
+,10,... most of the gumballs.,most,0,,8,5.8501,21
+,10,,other,0,,8,5.8501,21
+,75,... all of the gumballs.,all,0,,9,5.8501,21
+,75,... some of the gumballs.,some,0,,9,5.8501,21
+,75,... most of the gumballs.,most,1,,9,5.8501,21
+,75,,other,0,,9,5.8501,21
+,75,... all of the gumballs.,all,0,,10,5.8501,21
+,75,... some of the gumballs.,some,0,,10,5.8501,21
+,75,... most of the gumballs.,most,1,,10,5.8501,21
+,75,,other,0,,10,5.8501,21
+,10,... all of the gumballs.,all,0,,11,5.8501,21
+,10,... some of the gumballs.,some,1,,11,5.8501,21
+,10,... most of the gumballs.,most,0,,11,5.8501,21
+,10,,other,0,,11,5.8501,21
+,25,... all of the gumballs.,all,0,,12,5.8501,21
+,25,... some of the gumballs.,some,1,,12,5.8501,21
+,25,... most of the gumballs.,most,0,,12,5.8501,21
+,25,,other,0,,12,5.8501,21
+,40,... all of the gumballs.,all,0,,13,5.8501,21
+,40,... some of the gumballs.,some,1,,13,5.8501,21
+,40,... most of the gumballs.,most,0,,13,5.8501,21
+,40,,other,0,,13,5.8501,21
+,25,... all of the gumballs.,all,0,,14,5.8501,21
+,25,... some of the gumballs.,some,1,,14,5.8501,21
+,25,... most of the gumballs.,most,0,,14,5.8501,21
+,25,,other,0,,14,5.8501,21
+,100,... all of the gumballs.,all,1,,15,5.8501,21
+,100,... some of the gumballs.,some,0,,15,5.8501,21
+,100,... most of the gumballs.,most,0,,15,5.8501,21
+,100,,other,0,,15,5.8501,21
+,90,... all of the gumballs.,all,0,,16,5.8501,21
+,90,... some of the gumballs.,some,0,,16,5.8501,21
+,90,... most of the gumballs.,most,1,,16,5.8501,21
+,90,,other,0,,16,5.8501,21
+,40,... some of the gumballs.,some,0.43999999999999995,,1,4.146133333333333,22
+,40,... all of the gumballs.,all,0.08,,1,4.146133333333333,22
+,40,... most of the gumballs.,most,0.19,,1,4.146133333333333,22
+,40,,other,0.29000000000000004,,1,4.146133333333333,22
+,60,... some of the gumballs.,some,0.26,,2,4.146133333333333,22
+,60,... all of the gumballs.,all,0.08,,2,4.146133333333333,22
+,60,... most of the gumballs.,most,0.66,,2,4.146133333333333,22
+,60,,other,0,,2,4.146133333333333,22
+,90,... some of the gumballs.,some,-2.220446049250313e-16,,3,4.146133333333333,22
+,90,... all of the gumballs.,all,0.28000000000000014,,3,4.146133333333333,22
+,90,... most of the gumballs.,most,0.72,,3,4.146133333333333,22
+,90,,other,2.220446049250313e-16,,3,4.146133333333333,22
+,25,... some of the gumballs.,some,0.69,,4,4.146133333333333,22
+,25,... all of the gumballs.,all,0,,4,4.146133333333333,22
+,25,... most of the gumballs.,most,0,,4,4.146133333333333,22
+,25,,other,0.31000000000000005,,4,4.146133333333333,22
+,90,... some of the gumballs.,some,1.1102230246251565e-16,,5,4.146133333333333,22
+,90,... all of the gumballs.,all,0.79,,5,4.146133333333333,22
+,90,... most of the gumballs.,most,0,,5,4.146133333333333,22
+,90,,other,0.20999999999999985,,5,4.146133333333333,22
+,50,... some of the gumballs.,some,0.27,,6,4.146133333333333,22
+,50,... all of the gumballs.,all,0.14,,6,4.146133333333333,22
+,50,... most of the gumballs.,most,0.19,,6,4.146133333333333,22
+,50,,other,0.4,,6,4.146133333333333,22
+,40,... some of the gumballs.,some,0.73,,7,4.146133333333333,22
+,40,... all of the gumballs.,all,0,,7,4.146133333333333,22
+,40,... most of the gumballs.,most,0,,7,4.146133333333333,22
+,40,,other,0.27,,7,4.146133333333333,22
+,10,... some of the gumballs.,some,0.15,,8,4.146133333333333,22
+,10,... all of the gumballs.,all,-2.220446049250313e-16,,8,4.146133333333333,22
+,10,... most of the gumballs.,most,0.07000000000000006,,8,4.146133333333333,22
+,10,,other,0.78,,8,4.146133333333333,22
+,100,... some of the gumballs.,some,0.04999999999999993,,9,4.146133333333333,22
+,100,... all of the gumballs.,all,0.95,,9,4.146133333333333,22
+,100,... most of the gumballs.,most,1.1102230246251565e-16,,9,4.146133333333333,22
+,100,,other,0,,9,4.146133333333333,22
+,25,... some of the gumballs.,some,0.49,,10,4.146133333333333,22
+,25,... all of the gumballs.,all,0,,10,4.146133333333333,22
+,25,... most of the gumballs.,most,0,,10,4.146133333333333,22
+,25,,other,0.51,,10,4.146133333333333,22
+,75,... some of the gumballs.,some,0.18999999999999995,,11,4.146133333333333,22
+,75,... all of the gumballs.,all,0,,11,4.146133333333333,22
+,75,... most of the gumballs.,most,0.56,,11,4.146133333333333,22
+,75,,other,0.25,,11,4.146133333333333,22
+,100,... some of the gumballs.,some,0,,12,4.146133333333333,22
+,100,... all of the gumballs.,all,0.3500000000000001,,12,4.146133333333333,22
+,100,... most of the gumballs.,most,-2.220446049250313e-16,,12,4.146133333333333,22
+,100,,other,0.6499999999999999,,12,4.146133333333333,22
+,75,... some of the gumballs.,some,1.1102230246251565e-16,,13,4.146133333333333,22
+,75,... all of the gumballs.,all,0,,13,4.146133333333333,22
+,75,... most of the gumballs.,most,0.47,,13,4.146133333333333,22
+,75,,other,0.53,,13,4.146133333333333,22
+,60,... some of the gumballs.,some,0.45999999999999985,,14,4.146133333333333,22
+,60,... all of the gumballs.,all,0.05,,14,4.146133333333333,22
+,60,... most of the gumballs.,most,0.11,,14,4.146133333333333,22
+,60,,other,0.38,,14,4.146133333333333,22
+,50,... some of the gumballs.,some,0.22,,15,4.146133333333333,22
+,50,... all of the gumballs.,all,0.07,,15,4.146133333333333,22
+,50,... most of the gumballs.,most,0.12,,15,4.146133333333333,22
+,50,,other,0.59,,15,4.146133333333333,22
+,10,... some of the gumballs.,some,0.33,,16,4.146133333333333,22
+,10,... all of the gumballs.,all,0.01,,16,4.146133333333333,22
+,10,... most of the gumballs.,most,0,,16,4.146133333333333,22
+,10,,other,0.6599999999999999,,16,4.146133333333333,22
+,40,... some of the gumballs.,some,1,,1,6.8925,23
+,40,... most of the gumballs.,most,0,,1,6.8925,23
+,40,... all of the gumballs.,all,0,,1,6.8925,23
+,40,,other,0,,1,6.8925,23
+,25,... some of the gumballs.,some,1,,2,6.8925,23
+,25,... most of the gumballs.,most,0,,2,6.8925,23
+,25,... all of the gumballs.,all,0,,2,6.8925,23
+,25,,other,0,,2,6.8925,23
+,60,... some of the gumballs.,some,0.39,,3,6.8925,23
+,60,... most of the gumballs.,most,0.61,,3,6.8925,23
+,60,... all of the gumballs.,all,0,,3,6.8925,23
+,60,,other,0,,3,6.8925,23
+,50,... some of the gumballs.,some,0.44,,4,6.8925,23
+,50,... most of the gumballs.,most,0.5599999999999999,,4,6.8925,23
+,50,... all of the gumballs.,all,0,,4,6.8925,23
+,50,,other,0,,4,6.8925,23
+,100,... some of the gumballs.,some,0,,5,6.8925,23
+,100,... most of the gumballs.,most,0,,5,6.8925,23
+,100,... all of the gumballs.,all,1,,5,6.8925,23
+,100,,other,0,,5,6.8925,23
+,50,... some of the gumballs.,some,0.66,,6,6.8925,23
+,50,... most of the gumballs.,most,0.33999999999999997,,6,6.8925,23
+,50,... all of the gumballs.,all,0,,6,6.8925,23
+,50,,other,0,,6,6.8925,23
+,60,... some of the gumballs.,some,0.47,,7,6.8925,23
+,60,... most of the gumballs.,most,0.5300000000000001,,7,6.8925,23
+,60,... all of the gumballs.,all,0,,7,6.8925,23
+,60,,other,0,,7,6.8925,23
+,90,... some of the gumballs.,some,0.21999999999999997,,8,6.8925,23
+,90,... most of the gumballs.,most,0.7,,8,6.8925,23
+,90,... all of the gumballs.,all,0.08,,8,6.8925,23
+,90,,other,0,,8,6.8925,23
+,75,... some of the gumballs.,some,0.17,,9,6.8925,23
+,75,... most of the gumballs.,most,0.8300000000000001,,9,6.8925,23
+,75,... all of the gumballs.,all,0,,9,6.8925,23
+,75,,other,0,,9,6.8925,23
+,10,... some of the gumballs.,some,1,,10,6.8925,23
+,10,... most of the gumballs.,most,0,,10,6.8925,23
+,10,... all of the gumballs.,all,0,,10,6.8925,23
+,10,,other,0,,10,6.8925,23
+,40,... some of the gumballs.,some,0.75,,11,6.8925,23
+,40,... most of the gumballs.,most,0.2499999999999999,,11,6.8925,23
+,40,... all of the gumballs.,all,0,,11,6.8925,23
+,40,,other,0,,11,6.8925,23
+,75,... some of the gumballs.,some,0.21,,12,6.8925,23
+,75,... most of the gumballs.,most,0.79,,12,6.8925,23
+,75,... all of the gumballs.,all,0,,12,6.8925,23
+,75,,other,0,,12,6.8925,23
+,90,... some of the gumballs.,some,0.1299999999999999,,13,6.8925,23
+,90,... most of the gumballs.,most,0.82,,13,6.8925,23
+,90,... all of the gumballs.,all,0.05,,13,6.8925,23
+,90,,other,0,,13,6.8925,23
+,100,... some of the gumballs.,some,0,,14,6.8925,23
+,100,... most of the gumballs.,most,0,,14,6.8925,23
+,100,... all of the gumballs.,all,1,,14,6.8925,23
+,100,,other,0,,14,6.8925,23
+,10,... some of the gumballs.,some,1,,15,6.8925,23
+,10,... most of the gumballs.,most,0,,15,6.8925,23
+,10,... all of the gumballs.,all,0,,15,6.8925,23
+,10,,other,0,,15,6.8925,23
+,25,... some of the gumballs.,some,1,,16,6.8925,23
+,25,... most of the gumballs.,most,0,,16,6.8925,23
+,25,... all of the gumballs.,all,0,,16,6.8925,23
+,25,,other,0,,16,6.8925,23
+,100,... most of the gumballs.,most,0,,1,3.94425,24
+,100,... some of the gumballs.,some,0,,1,3.94425,24
+,100,... all of the gumballs.,all,0.99,,1,3.94425,24
+,100,,other,0,,1,3.94425,24
+,50,... most of the gumballs.,most,0,,2,3.94425,24
+,50,... some of the gumballs.,some,1,,2,3.94425,24
+,50,... all of the gumballs.,all,0,,2,3.94425,24
+,50,,other,0,,2,3.94425,24
+,60,... most of the gumballs.,most,1,,3,3.94425,24
+,60,... some of the gumballs.,some,0,,3,3.94425,24
+,60,... all of the gumballs.,all,0,,3,3.94425,24
+,60,,other,0,,3,3.94425,24
+,25,... most of the gumballs.,most,0.3899999999999999,,4,3.94425,24
+,25,... some of the gumballs.,some,0.6100000000000001,,4,3.94425,24
+,25,... all of the gumballs.,all,0,,4,3.94425,24
+,25,,other,0,,4,3.94425,24
+,50,... most of the gumballs.,most,0.4899999999999999,,5,3.94425,24
+,50,... some of the gumballs.,some,0.51,,5,3.94425,24
+,50,... all of the gumballs.,all,0,,5,3.94425,24
+,50,,other,0,,5,3.94425,24
+,90,... most of the gumballs.,most,1,,6,3.94425,24
+,90,... some of the gumballs.,some,0,,6,3.94425,24
+,90,... all of the gumballs.,all,0,,6,3.94425,24
+,90,,other,0,,6,3.94425,24
+,100,... most of the gumballs.,most,0,,7,3.94425,24
+,100,... some of the gumballs.,some,0,,7,3.94425,24
+,100,... all of the gumballs.,all,1,,7,3.94425,24
+,100,,other,0,,7,3.94425,24
+,75,... most of the gumballs.,most,0.6399999999999999,,8,3.94425,24
+,75,... some of the gumballs.,some,0.36,,8,3.94425,24
+,75,... all of the gumballs.,all,0,,8,3.94425,24
+,75,,other,0,,8,3.94425,24
+,10,... most of the gumballs.,most,0,,9,3.94425,24
+,10,... some of the gumballs.,some,0.3500000000000001,,9,3.94425,24
+,10,... all of the gumballs.,all,0,,9,3.94425,24
+,10,,other,0.65,,9,3.94425,24
+,40,... most of the gumballs.,most,0.21999999999999997,,10,3.94425,24
+,40,... some of the gumballs.,some,0.78,,10,3.94425,24
+,40,... all of the gumballs.,all,0,,10,3.94425,24
+,40,,other,0,,10,3.94425,24
+,40,... most of the gumballs.,most,0.27,,11,3.94425,24
+,40,... some of the gumballs.,some,0.73,,11,3.94425,24
+,40,... all of the gumballs.,all,0,,11,3.94425,24
+,40,,other,0,,11,3.94425,24
+,90,... most of the gumballs.,most,1,,12,3.94425,24
+,90,... some of the gumballs.,some,0,,12,3.94425,24
+,90,... all of the gumballs.,all,0,,12,3.94425,24
+,90,,other,0,,12,3.94425,24
+,10,... most of the gumballs.,most,0,,13,3.94425,24
+,10,... some of the gumballs.,some,0.27,,13,3.94425,24
+,10,... all of the gumballs.,all,0,,13,3.94425,24
+,10,,other,0.73,,13,3.94425,24
+,25,... most of the gumballs.,most,0,,14,3.94425,24
+,25,... some of the gumballs.,some,0.94,,14,3.94425,24
+,25,... all of the gumballs.,all,0,,14,3.94425,24
+,25,,other,0.06000000000000005,,14,3.94425,24
+,60,... most of the gumballs.,most,0.78,,15,3.94425,24
+,60,... some of the gumballs.,some,0.21999999999999997,,15,3.94425,24
+,60,... all of the gumballs.,all,0,,15,3.94425,24
+,60,,other,0,,15,3.94425,24
+,75,... most of the gumballs.,most,0.94,,16,3.94425,24
+,75,... some of the gumballs.,some,0.06000000000000005,,16,3.94425,24
+,75,... all of the gumballs.,all,0,,16,3.94425,24
+,75,,other,0,,16,3.94425,24
+,60,... most of the gumballs.,most,0.46,,1,3.4951666666666665,25
+,60,... some of the gumballs.,some,0.5399999999999999,,1,3.4951666666666665,25
+,60,... all of the gumballs.,all,0,,1,3.4951666666666665,25
+,60,,other,0,,1,3.4951666666666665,25
+,10,... most of the gumballs.,most,0,,2,3.4951666666666665,25
+,10,... some of the gumballs.,some,0.96,,2,3.4951666666666665,25
+,10,... all of the gumballs.,all,0,,2,3.4951666666666665,25
+,10,,other,0.04,,2,3.4951666666666665,25
+,75,... most of the gumballs.,most,0.95,,3,3.4951666666666665,25
+,75,... some of the gumballs.,some,0,,3,3.4951666666666665,25
+,75,... all of the gumballs.,all,0.05,,3,3.4951666666666665,25
+,75,,other,0,,3,3.4951666666666665,25
+,100,... most of the gumballs.,most,1,,4,3.4951666666666665,25
+,100,... some of the gumballs.,some,0,,4,3.4951666666666665,25
+,100,... all of the gumballs.,all,0,,4,3.4951666666666665,25
+,100,,other,0,,4,3.4951666666666665,25
+,50,... most of the gumballs.,most,0.61,,5,3.4951666666666665,25
+,50,... some of the gumballs.,some,0.3899999999999999,,5,3.4951666666666665,25
+,50,... all of the gumballs.,all,0,,5,3.4951666666666665,25
+,50,,other,0,,5,3.4951666666666665,25
+,40,... most of the gumballs.,most,0,,6,3.4951666666666665,25
+,40,... some of the gumballs.,some,0.79,,6,3.4951666666666665,25
+,40,... all of the gumballs.,all,0.21000000000000008,,6,3.4951666666666665,25
+,40,,other,0,,6,3.4951666666666665,25
+,25,... most of the gumballs.,most,1,,7,3.4951666666666665,25
+,25,... some of the gumballs.,some,0,,7,3.4951666666666665,25
+,25,... all of the gumballs.,all,0,,7,3.4951666666666665,25
+,25,,other,0,,7,3.4951666666666665,25
+,50,... most of the gumballs.,most,0.63,,8,3.4951666666666665,25
+,50,... some of the gumballs.,some,0.37,,8,3.4951666666666665,25
+,50,... all of the gumballs.,all,0,,8,3.4951666666666665,25
+,50,,other,0,,8,3.4951666666666665,25
+,75,... most of the gumballs.,most,0.79,,9,3.4951666666666665,25
+,75,... some of the gumballs.,some,0.20999999999999985,,9,3.4951666666666665,25
+,75,... all of the gumballs.,all,0,,9,3.4951666666666665,25
+,75,,other,0,,9,3.4951666666666665,25
+,40,... most of the gumballs.,most,0.63,,10,3.4951666666666665,25
+,40,... some of the gumballs.,some,0.37,,10,3.4951666666666665,25
+,40,... all of the gumballs.,all,0,,10,3.4951666666666665,25
+,40,,other,0,,10,3.4951666666666665,25
+,90,... most of the gumballs.,most,1,,11,3.4951666666666665,25
+,90,... some of the gumballs.,some,0,,11,3.4951666666666665,25
+,90,... all of the gumballs.,all,0,,11,3.4951666666666665,25
+,90,,other,0,,11,3.4951666666666665,25
+,100,... most of the gumballs.,most,1,,12,3.4951666666666665,25
+,100,... some of the gumballs.,some,0,,12,3.4951666666666665,25
+,100,... all of the gumballs.,all,0,,12,3.4951666666666665,25
+,100,,other,0,,12,3.4951666666666665,25
+,10,... most of the gumballs.,most,0,,13,3.4951666666666665,25
+,10,... some of the gumballs.,some,1,,13,3.4951666666666665,25
+,10,... all of the gumballs.,all,0,,13,3.4951666666666665,25
+,10,,other,0,,13,3.4951666666666665,25
+,90,... most of the gumballs.,most,1,,14,3.4951666666666665,25
+,90,... some of the gumballs.,some,0,,14,3.4951666666666665,25
+,90,... all of the gumballs.,all,0,,14,3.4951666666666665,25
+,90,,other,0,,14,3.4951666666666665,25
+,25,... most of the gumballs.,most,0,,15,3.4951666666666665,25
+,25,... some of the gumballs.,some,1,,15,3.4951666666666665,25
+,25,... all of the gumballs.,all,0,,15,3.4951666666666665,25
+,25,,other,0,,15,3.4951666666666665,25
+,60,... most of the gumballs.,most,1,,16,3.4951666666666665,25
+,60,... some of the gumballs.,some,0,,16,3.4951666666666665,25
+,60,... all of the gumballs.,all,0,,16,3.4951666666666665,25
+,60,,other,0,,16,3.4951666666666665,25
+,40,... all of the gumballs.,all,0.15,,1,12.5956,26
+,40,... most of the gumballs.,most,0.35,,1,12.5956,26
+,40,... some of the gumballs.,some,0.25,,1,12.5956,26
+,40,,other,0.25,,1,12.5956,26
+,25,... all of the gumballs.,all,0.15,,2,12.5956,26
+,25,... most of the gumballs.,most,0.35,,2,12.5956,26
+,25,... some of the gumballs.,some,0.27,,2,12.5956,26
+,25,,other,0.22999999999999998,,2,12.5956,26
+,60,... all of the gumballs.,all,0.23,,3,12.5956,26
+,60,... most of the gumballs.,most,0.26,,3,12.5956,26
+,60,... some of the gumballs.,some,0.15,,3,12.5956,26
+,60,,other,0.36,,3,12.5956,26
+,10,... all of the gumballs.,all,0.31,,4,12.5956,26
+,10,... most of the gumballs.,most,0.21,,4,12.5956,26
+,10,... some of the gumballs.,some,0.32,,4,12.5956,26
+,10,,other,0.15999999999999992,,4,12.5956,26
+,90,... all of the gumballs.,all,0.27,,5,12.5956,26
+,90,... most of the gumballs.,most,0.43,,5,12.5956,26
+,90,... some of the gumballs.,some,0.24,,5,12.5956,26
+,90,,other,0.06000000000000005,,5,12.5956,26
+,10,... all of the gumballs.,all,0.17,,6,12.5956,26
+,10,... most of the gumballs.,most,0.42,,6,12.5956,26
+,10,... some of the gumballs.,some,0.29,,6,12.5956,26
+,10,,other,0.1200000000000001,,6,12.5956,26
+,40,... all of the gumballs.,all,0.26,,7,12.5956,26
+,40,... most of the gumballs.,most,0.22999999999999998,,7,12.5956,26
+,40,... some of the gumballs.,some,0.22999999999999998,,7,12.5956,26
+,40,,other,0.28,,7,12.5956,26
+,60,... all of the gumballs.,all,0.22,,8,12.5956,26
+,60,... most of the gumballs.,most,0.29000000000000004,,8,12.5956,26
+,60,... some of the gumballs.,some,0.24,,8,12.5956,26
+,60,,other,0.25,,8,12.5956,26
+,100,... all of the gumballs.,all,0.25,,9,12.5956,26
+,100,... most of the gumballs.,most,0.26,,9,12.5956,26
+,100,... some of the gumballs.,some,0.22999999999999998,,9,12.5956,26
+,100,,other,0.26,,9,12.5956,26
+,75,... all of the gumballs.,all,0.24,,10,12.5956,26
+,75,... most of the gumballs.,most,0.32,,10,12.5956,26
+,75,... some of the gumballs.,some,0.22,,10,12.5956,26
+,75,,other,0.21999999999999997,,10,12.5956,26
+,50,... all of the gumballs.,all,0.32,,11,12.5956,26
+,50,... most of the gumballs.,most,0.23,,11,12.5956,26
+,50,... some of the gumballs.,some,0.38,,11,12.5956,26
+,50,,other,0.06999999999999984,,11,12.5956,26
+,90,... all of the gumballs.,all,0.37,,12,12.5956,26
+,90,... most of the gumballs.,most,0.24,,12,12.5956,26
+,90,... some of the gumballs.,some,0.39,,12,12.5956,26
+,90,,other,0,,12,12.5956,26
+,25,... all of the gumballs.,all,0.29,,13,12.5956,26
+,25,... most of the gumballs.,most,0.17,,13,12.5956,26
+,25,... some of the gumballs.,some,0.33,,13,12.5956,26
+,25,,other,0.20999999999999996,,13,12.5956,26
+,100,... all of the gumballs.,all,0.22,,14,12.5956,26
+,100,... most of the gumballs.,most,0.26,,14,12.5956,26
+,100,... some of the gumballs.,some,0.26,,14,12.5956,26
+,100,,other,0.25,,14,12.5956,26
+,50,... all of the gumballs.,all,0.39,,15,12.5956,26
+,50,... most of the gumballs.,most,0.2,,15,12.5956,26
+,50,... some of the gumballs.,some,0.38,,15,12.5956,26
+,50,,other,0.029999999999999805,,15,12.5956,26
+,75,... all of the gumballs.,all,0.39,,16,12.5956,26
+,75,... most of the gumballs.,most,0.21,,16,12.5956,26
+,75,... some of the gumballs.,some,0.38,,16,12.5956,26
+,75,,other,0.020000000000000018,,16,12.5956,26
+,60,... most of the gumballs.,most,0.8400000000000001,,1,2.24135,27
+,60,... some of the gumballs.,some,0.16,,1,2.24135,27
+,60,... all of the gumballs.,all,0,,1,2.24135,27
+,60,,other,0,,1,2.24135,27
+,100,... most of the gumballs.,most,0,,2,2.24135,27
+,100,... some of the gumballs.,some,0,,2,2.24135,27
+,100,... all of the gumballs.,all,1,,2,2.24135,27
+,100,,other,0,,2,2.24135,27
+,75,... most of the gumballs.,most,1,,3,2.24135,27
+,75,... some of the gumballs.,some,0,,3,2.24135,27
+,75,... all of the gumballs.,all,0,,3,2.24135,27
+,75,,other,0,,3,2.24135,27
+,50,... most of the gumballs.,most,0.26,,4,2.24135,27
+,50,... some of the gumballs.,some,0.74,,4,2.24135,27
+,50,... all of the gumballs.,all,0,,4,2.24135,27
+,50,,other,0,,4,2.24135,27
+,40,... most of the gumballs.,most,0,,5,2.24135,27
+,40,... some of the gumballs.,some,1,,5,2.24135,27
+,40,... all of the gumballs.,all,0,,5,2.24135,27
+,40,,other,0,,5,2.24135,27
+,60,... most of the gumballs.,most,1,,6,2.24135,27
+,60,... some of the gumballs.,some,0,,6,2.24135,27
+,60,... all of the gumballs.,all,0,,6,2.24135,27
+,60,,other,0,,6,2.24135,27
+,40,... most of the gumballs.,most,0,,7,2.24135,27
+,40,... some of the gumballs.,some,1,,7,2.24135,27
+,40,... all of the gumballs.,all,0,,7,2.24135,27
+,40,,other,0,,7,2.24135,27
+,90,... most of the gumballs.,most,0.82,,8,2.24135,27
+,90,... some of the gumballs.,some,0,,8,2.24135,27
+,90,... all of the gumballs.,all,0.17999999999999994,,8,2.24135,27
+,90,,other,0,,8,2.24135,27
+,10,... most of the gumballs.,most,0,,9,2.24135,27
+,10,... some of the gumballs.,some,0.18,,9,2.24135,27
+,10,... all of the gumballs.,all,0,,9,2.24135,27
+,10,,other,0.8200000000000001,,9,2.24135,27
+,25,... most of the gumballs.,most,0,,10,2.24135,27
+,25,... some of the gumballs.,some,1,,10,2.24135,27
+,25,... all of the gumballs.,all,0,,10,2.24135,27
+,25,,other,0,,10,2.24135,27
+,10,... most of the gumballs.,most,0,,11,2.24135,27
+,10,... some of the gumballs.,some,0.27,,11,2.24135,27
+,10,... all of the gumballs.,all,0,,11,2.24135,27
+,10,,other,0.73,,11,2.24135,27
+,25,... most of the gumballs.,most,0,,12,2.24135,27
+,25,... some of the gumballs.,some,0.22,,12,2.24135,27
+,25,... all of the gumballs.,all,0,,12,2.24135,27
+,25,,other,0.78,,12,2.24135,27
+,90,... most of the gumballs.,most,0.85,,13,2.24135,27
+,90,... some of the gumballs.,some,0,,13,2.24135,27
+,90,... all of the gumballs.,all,0.1499999999999999,,13,2.24135,27
+,90,,other,0,,13,2.24135,27
+,75,... most of the gumballs.,most,1,,14,2.24135,27
+,75,... some of the gumballs.,some,0,,14,2.24135,27
+,75,... all of the gumballs.,all,0,,14,2.24135,27
+,75,,other,0,,14,2.24135,27
+,50,... most of the gumballs.,most,0.75,,15,2.24135,27
+,50,... some of the gumballs.,some,0,,15,2.24135,27
+,50,... all of the gumballs.,all,0,,15,2.24135,27
+,50,,other,0.25,,15,2.24135,27
+,100,... most of the gumballs.,most,0,,16,2.24135,27
+,100,... some of the gumballs.,some,0,,16,2.24135,27
+,100,... all of the gumballs.,all,1,,16,2.24135,27
+,100,,other,0,,16,2.24135,27
+,25,... all of the gumballs.,all,0.04,,1,11.196233333333334,28
+,25,... some of the gumballs.,some,0.81,,1,11.196233333333334,28
+,25,... most of the gumballs.,most,0.11,,1,11.196233333333334,28
+,25,,other,0.039999999999999925,,1,11.196233333333334,28
+,50,... all of the gumballs.,all,0.06,,2,11.196233333333334,28
+,50,... some of the gumballs.,some,0.59,,2,11.196233333333334,28
+,50,... most of the gumballs.,most,0.11,,2,11.196233333333334,28
+,50,,other,0.2400000000000001,,2,11.196233333333334,28
+,10,... all of the gumballs.,all,0.05,,3,11.196233333333334,28
+,10,... some of the gumballs.,some,0.12,,3,11.196233333333334,28
+,10,... most of the gumballs.,most,0.040000000000000036,,3,11.196233333333334,28
+,10,,other,0.79,,3,11.196233333333334,28
+,60,... all of the gumballs.,all,0.01,,4,11.196233333333334,28
+,60,... some of the gumballs.,some,0.03,,4,11.196233333333334,28
+,60,... most of the gumballs.,most,0.79,,4,11.196233333333334,28
+,60,,other,0.16999999999999993,,4,11.196233333333334,28
+,100,... all of the gumballs.,all,0.76,,5,11.196233333333334,28
+,100,... some of the gumballs.,some,0,,5,11.196233333333334,28
+,100,... most of the gumballs.,most,0,,5,11.196233333333334,28
+,100,,other,0.2400000000000001,,5,11.196233333333334,28
+,50,... all of the gumballs.,all,0,,6,11.196233333333334,28
+,50,... some of the gumballs.,some,0.74,,6,11.196233333333334,28
+,50,... most of the gumballs.,most,0,,6,11.196233333333334,28
+,50,,other,0.26,,6,11.196233333333334,28
+,25,... all of the gumballs.,all,0,,7,11.196233333333334,28
+,25,... some of the gumballs.,some,0.71,,7,11.196233333333334,28
+,25,... most of the gumballs.,most,0,,7,11.196233333333334,28
+,25,,other,0.29000000000000015,,7,11.196233333333334,28
+,100,... all of the gumballs.,all,0.9,,8,11.196233333333334,28
+,100,... some of the gumballs.,some,2.220446049250313e-16,,8,11.196233333333334,28
+,100,... most of the gumballs.,most,-2.220446049250313e-16,,8,11.196233333333334,28
+,100,,other,0.1,,8,11.196233333333334,28
+,10,... all of the gumballs.,all,2.220446049250313e-16,,9,11.196233333333334,28
+,10,... some of the gumballs.,some,0.29000000000000015,,9,11.196233333333334,28
+,10,... most of the gumballs.,most,-2.220446049250313e-16,,9,11.196233333333334,28
+,10,,other,0.71,,9,11.196233333333334,28
+,75,... all of the gumballs.,all,0,,10,11.196233333333334,28
+,75,... some of the gumballs.,some,0,,10,11.196233333333334,28
+,75,... most of the gumballs.,most,0.8,,10,11.196233333333334,28
+,75,,other,0.19999999999999996,,10,11.196233333333334,28
+,75,... all of the gumballs.,all,0,,11,11.196233333333334,28
+,75,... some of the gumballs.,some,0,,11,11.196233333333334,28
+,75,... most of the gumballs.,most,0.65,,11,11.196233333333334,28
+,75,,other,0.35,,11,11.196233333333334,28
+,60,... all of the gumballs.,all,0,,12,11.196233333333334,28
+,60,... some of the gumballs.,some,0.63,,12,11.196233333333334,28
+,60,... most of the gumballs.,most,2.220446049250313e-16,,12,11.196233333333334,28
+,60,,other,0.3699999999999999,,12,11.196233333333334,28
+,90,... all of the gumballs.,all,0,,13,11.196233333333334,28
+,90,... some of the gumballs.,some,0,,13,11.196233333333334,28
+,90,... most of the gumballs.,most,0.81,,13,11.196233333333334,28
+,90,,other,0.18999999999999995,,13,11.196233333333334,28
+,90,... all of the gumballs.,all,0,,14,11.196233333333334,28
+,90,... some of the gumballs.,some,0,,14,11.196233333333334,28
+,90,... most of the gumballs.,most,0.62,,14,11.196233333333334,28
+,90,,other,0.38,,14,11.196233333333334,28
+,40,... all of the gumballs.,all,0,,15,11.196233333333334,28
+,40,... some of the gumballs.,some,0.65,,15,11.196233333333334,28
+,40,... most of the gumballs.,most,0,,15,11.196233333333334,28
+,40,,other,0.35,,15,11.196233333333334,28
+,40,... all of the gumballs.,all,0,,16,11.196233333333334,28
+,40,... some of the gumballs.,some,0.54,,16,11.196233333333334,28
+,40,... most of the gumballs.,most,0,,16,11.196233333333334,28
+,40,,other,0.45999999999999996,,16,11.196233333333334,28
+,40,... all of the gumballs.,all,0,,1,3.3202666666666665,29
+,40,... most of the gumballs.,most,0,,1,3.3202666666666665,29
+,40,... some of the gumballs.,some,0.58,,1,3.3202666666666665,29
+,40,,other,0.42000000000000015,,1,3.3202666666666665,29
+,40,... all of the gumballs.,all,0,,2,3.3202666666666665,29
+,40,... most of the gumballs.,most,0,,2,3.3202666666666665,29
+,40,... some of the gumballs.,some,0.9099999999999999,,2,3.3202666666666665,29
+,40,,other,0.09,,2,3.3202666666666665,29
+,10,... all of the gumballs.,all,0,,3,3.3202666666666665,29
+,10,... most of the gumballs.,most,0,,3,3.3202666666666665,29
+,10,... some of the gumballs.,some,0.45000000000000007,,3,3.3202666666666665,29
+,10,,other,0.55,,3,3.3202666666666665,29
+,10,... all of the gumballs.,all,0,,4,3.3202666666666665,29
+,10,... most of the gumballs.,most,0,,4,3.3202666666666665,29
+,10,... some of the gumballs.,some,0.42999999999999994,,4,3.3202666666666665,29
+,10,,other,0.57,,4,3.3202666666666665,29
+,75,... all of the gumballs.,all,0,,5,3.3202666666666665,29
+,75,... most of the gumballs.,most,1,,5,3.3202666666666665,29
+,75,... some of the gumballs.,some,0,,5,3.3202666666666665,29
+,75,,other,0,,5,3.3202666666666665,29
+,60,... all of the gumballs.,all,0,,6,3.3202666666666665,29
+,60,... most of the gumballs.,most,1,,6,3.3202666666666665,29
+,60,... some of the gumballs.,some,0,,6,3.3202666666666665,29
+,60,,other,0,,6,3.3202666666666665,29
+,100,... all of the gumballs.,all,1,,7,3.3202666666666665,29
+,100,... most of the gumballs.,most,0,,7,3.3202666666666665,29
+,100,... some of the gumballs.,some,0,,7,3.3202666666666665,29
+,100,,other,0,,7,3.3202666666666665,29
+,60,... all of the gumballs.,all,0,,8,3.3202666666666665,29
+,60,... most of the gumballs.,most,1,,8,3.3202666666666665,29
+,60,... some of the gumballs.,some,0,,8,3.3202666666666665,29
+,60,,other,0,,8,3.3202666666666665,29
+,25,... all of the gumballs.,all,0,,9,3.3202666666666665,29
+,25,... most of the gumballs.,most,0,,9,3.3202666666666665,29
+,25,... some of the gumballs.,some,1,,9,3.3202666666666665,29
+,25,,other,0,,9,3.3202666666666665,29
+,90,... all of the gumballs.,all,0,,10,3.3202666666666665,29
+,90,... most of the gumballs.,most,1,,10,3.3202666666666665,29
+,90,... some of the gumballs.,some,0,,10,3.3202666666666665,29
+,90,,other,0,,10,3.3202666666666665,29
+,25,... all of the gumballs.,all,0,,11,3.3202666666666665,29
+,25,... most of the gumballs.,most,0,,11,3.3202666666666665,29
+,25,... some of the gumballs.,some,1,,11,3.3202666666666665,29
+,25,,other,0,,11,3.3202666666666665,29
+,75,... all of the gumballs.,all,0,,12,3.3202666666666665,29
+,75,... most of the gumballs.,most,1,,12,3.3202666666666665,29
+,75,... some of the gumballs.,some,0,,12,3.3202666666666665,29
+,75,,other,0,,12,3.3202666666666665,29
+,50,... all of the gumballs.,all,0,,13,3.3202666666666665,29
+,50,... most of the gumballs.,most,1,,13,3.3202666666666665,29
+,50,... some of the gumballs.,some,0,,13,3.3202666666666665,29
+,50,,other,0,,13,3.3202666666666665,29
+,100,... all of the gumballs.,all,1,,14,3.3202666666666665,29
+,100,... most of the gumballs.,most,0,,14,3.3202666666666665,29
+,100,... some of the gumballs.,some,0,,14,3.3202666666666665,29
+,100,,other,0,,14,3.3202666666666665,29
+,90,... all of the gumballs.,all,0,,15,3.3202666666666665,29
+,90,... most of the gumballs.,most,1,,15,3.3202666666666665,29
+,90,... some of the gumballs.,some,0,,15,3.3202666666666665,29
+,90,,other,0,,15,3.3202666666666665,29
+,50,... all of the gumballs.,all,0,,16,3.3202666666666665,29
+,50,... most of the gumballs.,most,0,,16,3.3202666666666665,29
+,50,... some of the gumballs.,some,0,,16,3.3202666666666665,29
+,50,,other,1,,16,3.3202666666666665,29
+,50,... most of the gumballs.,most,0.88,,1,7.513883333333333,30
+,50,... some of the gumballs.,some,0.12,,1,7.513883333333333,30
+,50,... all of the gumballs.,all,0,,1,7.513883333333333,30
+,50,,other,0,,1,7.513883333333333,30
+,90,... most of the gumballs.,most,0.94,,2,7.513883333333333,30
+,90,... some of the gumballs.,some,0.060000000000000164,,2,7.513883333333333,30
+,90,... all of the gumballs.,all,0,,2,7.513883333333333,30
+,90,,other,0,,2,7.513883333333333,30
+,60,... most of the gumballs.,most,0.66,,3,7.513883333333333,30
+,60,... some of the gumballs.,some,0.33999999999999986,,3,7.513883333333333,30
+,60,... all of the gumballs.,all,0,,3,7.513883333333333,30
+,60,,other,2.220446049250313e-16,,3,7.513883333333333,30
+,10,... most of the gumballs.,most,0.79,,4,7.513883333333333,30
+,10,... some of the gumballs.,some,0.20999999999999985,,4,7.513883333333333,30
+,10,... all of the gumballs.,all,1.1102230246251565e-16,,4,7.513883333333333,30
+,10,,other,1.1102230246251565e-16,,4,7.513883333333333,30
+,60,... most of the gumballs.,most,0.31,,5,7.513883333333333,30
+,60,... some of the gumballs.,some,0.67,,5,7.513883333333333,30
+,60,... all of the gumballs.,all,0.02000000000000013,,5,7.513883333333333,30
+,60,,other,0,,5,7.513883333333333,30
+,75,... most of the gumballs.,most,0.47,,6,7.513883333333333,30
+,75,... some of the gumballs.,some,0.53,,6,7.513883333333333,30
+,75,... all of the gumballs.,all,0,,6,7.513883333333333,30
+,75,,other,0,,6,7.513883333333333,30
+,75,... most of the gumballs.,most,0.16,,7,7.513883333333333,30
+,75,... some of the gumballs.,some,0.48,,7,7.513883333333333,30
+,75,... all of the gumballs.,all,0.3600000000000001,,7,7.513883333333333,30
+,75,,other,0,,7,7.513883333333333,30
+,25,... most of the gumballs.,most,0.35,,8,7.513883333333333,30
+,25,... some of the gumballs.,some,0.58,,8,7.513883333333333,30
+,25,... all of the gumballs.,all,0.07000000000000006,,8,7.513883333333333,30
+,25,,other,0,,8,7.513883333333333,30
+,25,... most of the gumballs.,most,0.28,,9,7.513883333333333,30
+,25,... some of the gumballs.,some,0.57,,9,7.513883333333333,30
+,25,... all of the gumballs.,all,0.15000000000000013,,9,7.513883333333333,30
+,25,,other,0,,9,7.513883333333333,30
+,100,... most of the gumballs.,most,0.7,,10,7.513883333333333,30
+,100,... some of the gumballs.,some,0.30000000000000004,,10,7.513883333333333,30
+,100,... all of the gumballs.,all,1.1102230246251565e-16,,10,7.513883333333333,30
+,100,,other,0,,10,7.513883333333333,30
+,40,... most of the gumballs.,most,0.5,,11,7.513883333333333,30
+,40,... some of the gumballs.,some,0.5,,11,7.513883333333333,30
+,40,... all of the gumballs.,all,0,,11,7.513883333333333,30
+,40,,other,0,,11,7.513883333333333,30
+,90,... most of the gumballs.,most,0.35,,12,7.513883333333333,30
+,90,... some of the gumballs.,some,0.65,,12,7.513883333333333,30
+,90,... all of the gumballs.,all,0,,12,7.513883333333333,30
+,90,,other,0,,12,7.513883333333333,30
+,10,... most of the gumballs.,most,0.45,,13,7.513883333333333,30
+,10,... some of the gumballs.,some,0.55,,13,7.513883333333333,30
+,10,... all of the gumballs.,all,0,,13,7.513883333333333,30
+,10,,other,0,,13,7.513883333333333,30
+,50,... most of the gumballs.,most,0.43,,14,7.513883333333333,30
+,50,... some of the gumballs.,some,0.5700000000000001,,14,7.513883333333333,30
+,50,... all of the gumballs.,all,0,,14,7.513883333333333,30
+,50,,other,0,,14,7.513883333333333,30
+,100,... most of the gumballs.,most,0.46,,15,7.513883333333333,30
+,100,... some of the gumballs.,some,0.54,,15,7.513883333333333,30
+,100,... all of the gumballs.,all,0,,15,7.513883333333333,30
+,100,,other,0,,15,7.513883333333333,30
+,40,... most of the gumballs.,most,0.53,,16,7.513883333333333,30
+,40,... some of the gumballs.,some,0.47,,16,7.513883333333333,30
+,40,... all of the gumballs.,all,0,,16,7.513883333333333,30
+,40,,other,0,,16,7.513883333333333,30
+,40,... most of the gumballs.,most,0.37,,1,3.3180666666666667,31
+,40,... all of the gumballs.,all,0.54,,1,3.3180666666666667,31
+,40,... some of the gumballs.,some,0.08999999999999986,,1,3.3180666666666667,31
+,40,,other,2.220446049250313e-16,,1,3.3180666666666667,31
+,10,... most of the gumballs.,most,1.1102230246251565e-16,,2,3.3180666666666667,31
+,10,... all of the gumballs.,all,0.48,,2,3.3180666666666667,31
+,10,... some of the gumballs.,some,0.3,,2,3.3180666666666667,31
+,10,,other,0.22,,2,3.3180666666666667,31
+,100,... most of the gumballs.,most,0.41,,3,3.3180666666666667,31
+,100,... all of the gumballs.,all,0.59,,3,3.3180666666666667,31
+,100,... some of the gumballs.,some,0,,3,3.3180666666666667,31
+,100,,other,0,,3,3.3180666666666667,31
+,60,... most of the gumballs.,most,0.1100000000000001,,4,3.3180666666666667,31
+,60,... all of the gumballs.,all,0.43,,4,3.3180666666666667,31
+,60,... some of the gumballs.,some,0.29,,4,3.3180666666666667,31
+,60,,other,0.17,,4,3.3180666666666667,31
+,25,... most of the gumballs.,most,0.39,,5,3.3180666666666667,31
+,25,... all of the gumballs.,all,0.47,,5,3.3180666666666667,31
+,25,... some of the gumballs.,some,0.14,,5,3.3180666666666667,31
+,25,,other,0,,5,3.3180666666666667,31
+,75,... most of the gumballs.,most,0.18000000000000005,,6,3.3180666666666667,31
+,75,... all of the gumballs.,all,0.33,,6,3.3180666666666667,31
+,75,... some of the gumballs.,some,0.28,,6,3.3180666666666667,31
+,75,,other,0.21,,6,3.3180666666666667,31
+,75,... most of the gumballs.,most,0,,7,3.3180666666666667,31
+,75,... all of the gumballs.,all,0.35,,7,3.3180666666666667,31
+,75,... some of the gumballs.,some,0.52,,7,3.3180666666666667,31
+,75,,other,0.13,,7,3.3180666666666667,31
+,50,... most of the gumballs.,most,0.53,,8,3.3180666666666667,31
+,50,... all of the gumballs.,all,0.46999999999999986,,8,3.3180666666666667,31
+,50,... some of the gumballs.,some,0,,8,3.3180666666666667,31
+,50,,other,1.1102230246251565e-16,,8,3.3180666666666667,31
+,60,... most of the gumballs.,most,0.3899999999999999,,9,3.3180666666666667,31
+,60,... all of the gumballs.,all,0.61,,9,3.3180666666666667,31
+,60,... some of the gumballs.,some,0,,9,3.3180666666666667,31
+,60,,other,1.1102230246251565e-16,,9,3.3180666666666667,31
+,10,... most of the gumballs.,most,0.2,,10,3.3180666666666667,31
+,10,... all of the gumballs.,all,0.1,,10,3.3180666666666667,31
+,10,... some of the gumballs.,some,0.57,,10,3.3180666666666667,31
+,10,,other,0.1299999999999999,,10,3.3180666666666667,31
+,100,... most of the gumballs.,most,0.42,,11,3.3180666666666667,31
+,100,... all of the gumballs.,all,0.48,,11,3.3180666666666667,31
+,100,... some of the gumballs.,some,0.1000000000000002,,11,3.3180666666666667,31
+,100,,other,0,,11,3.3180666666666667,31
+,40,... most of the gumballs.,most,0.44,,12,3.3180666666666667,31
+,40,... all of the gumballs.,all,0.41,,12,3.3180666666666667,31
+,40,... some of the gumballs.,some,0.1499999999999999,,12,3.3180666666666667,31
+,40,,other,1.1102230246251565e-16,,12,3.3180666666666667,31
+,25,... most of the gumballs.,most,0.27,,13,3.3180666666666667,31
+,25,... all of the gumballs.,all,0.34,,13,3.3180666666666667,31
+,25,... some of the gumballs.,some,0.3899999999999999,,13,3.3180666666666667,31
+,25,,other,0,,13,3.3180666666666667,31
+,90,... most of the gumballs.,most,0.43999999999999995,,14,3.3180666666666667,31
+,90,... all of the gumballs.,all,0.56,,14,3.3180666666666667,31
+,90,... some of the gumballs.,some,0,,14,3.3180666666666667,31
+,90,,other,0,,14,3.3180666666666667,31
+,90,... most of the gumballs.,most,0.31,,15,3.3180666666666667,31
+,90,... all of the gumballs.,all,0.67,,15,3.3180666666666667,31
+,90,... some of the gumballs.,some,0.02000000000000013,,15,3.3180666666666667,31
+,90,,other,1.1102230246251565e-16,,15,3.3180666666666667,31
+,50,... most of the gumballs.,most,0.41,,16,3.3180666666666667,31
+,50,... all of the gumballs.,all,0.59,,16,3.3180666666666667,31
+,50,... some of the gumballs.,some,1.1102230246251565e-16,,16,3.3180666666666667,31
+,50,,other,0,,16,3.3180666666666667,31
+,100,... some of the gumballs.,some,0,,1,12.51075,32
+,100,... most of the gumballs.,most,0,,1,12.51075,32
+,100,... all of the gumballs.,all,1,,1,12.51075,32
+,100,,other,0,,1,12.51075,32
+,75,... some of the gumballs.,some,0.19,,2,12.51075,32
+,75,... most of the gumballs.,most,0.81,,2,12.51075,32
+,75,... all of the gumballs.,all,0,,2,12.51075,32
+,75,,other,0,,2,12.51075,32
+,50,... some of the gumballs.,some,0.8899999999999999,,3,12.51075,32
+,50,... most of the gumballs.,most,0.11,,3,12.51075,32
+,50,... all of the gumballs.,all,0,,3,12.51075,32
+,50,,other,0,,3,12.51075,32
+,60,... some of the gumballs.,some,1,,4,12.51075,32
+,60,... most of the gumballs.,most,0,,4,12.51075,32
+,60,... all of the gumballs.,all,0,,4,12.51075,32
+,60,,other,0,,4,12.51075,32
+,10,... some of the gumballs.,some,0.2400000000000001,,5,12.51075,32
+,10,... most of the gumballs.,most,0,,5,12.51075,32
+,10,... all of the gumballs.,all,0,,5,12.51075,32
+,10,,other,0.76,,5,12.51075,32
+,25,... some of the gumballs.,some,1,,6,12.51075,32
+,25,... most of the gumballs.,most,0,,6,12.51075,32
+,25,... all of the gumballs.,all,0,,6,12.51075,32
+,25,,other,0,,6,12.51075,32
+,100,... some of the gumballs.,some,0,,7,12.51075,32
+,100,... most of the gumballs.,most,0,,7,12.51075,32
+,100,... all of the gumballs.,all,1,,7,12.51075,32
+,100,,other,0,,7,12.51075,32
+,25,... some of the gumballs.,some,1,,8,12.51075,32
+,25,... most of the gumballs.,most,0,,8,12.51075,32
+,25,... all of the gumballs.,all,0,,8,12.51075,32
+,25,,other,0,,8,12.51075,32
+,60,... some of the gumballs.,some,0.30000000000000004,,9,12.51075,32
+,60,... most of the gumballs.,most,0.7,,9,12.51075,32
+,60,... all of the gumballs.,all,0,,9,12.51075,32
+,60,,other,0,,9,12.51075,32
+,40,... some of the gumballs.,some,0.52,,10,12.51075,32
+,40,... most of the gumballs.,most,0,,10,12.51075,32
+,40,... all of the gumballs.,all,0,,10,12.51075,32
+,40,,other,0.48,,10,12.51075,32
+,90,... some of the gumballs.,some,0,,11,12.51075,32
+,90,... most of the gumballs.,most,1,,11,12.51075,32
+,90,... all of the gumballs.,all,0,,11,12.51075,32
+,90,,other,0,,11,12.51075,32
+,90,... some of the gumballs.,some,0,,12,12.51075,32
+,90,... most of the gumballs.,most,1,,12,12.51075,32
+,90,... all of the gumballs.,all,0,,12,12.51075,32
+,90,,other,0,,12,12.51075,32
+,50,... some of the gumballs.,some,0.13,,13,12.51075,32
+,50,... most of the gumballs.,most,0.18,,13,12.51075,32
+,50,... all of the gumballs.,all,0,,13,12.51075,32
+,50,,other,0.69,,13,12.51075,32
+,10,... some of the gumballs.,some,0.18,,14,12.51075,32
+,10,... most of the gumballs.,most,0,,14,12.51075,32
+,10,... all of the gumballs.,all,0,,14,12.51075,32
+,10,,other,0.8200000000000001,,14,12.51075,32
+,75,... some of the gumballs.,some,0.19999999999999984,,15,12.51075,32
+,75,... most of the gumballs.,most,0.8,,15,12.51075,32
+,75,... all of the gumballs.,all,0,,15,12.51075,32
+,75,,other,0,,15,12.51075,32
+,40,... some of the gumballs.,some,0.8,,16,12.51075,32
+,40,... most of the gumballs.,most,0,,16,12.51075,32
+,40,... all of the gumballs.,all,0,,16,12.51075,32
+,40,,other,0.19999999999999996,,16,12.51075,32
+,100,... all of the gumballs.,all,1,,1,5.038216666666667,33
+,100,... most of the gumballs.,most,0,,1,5.038216666666667,33
+,100,... some of the gumballs.,some,0,,1,5.038216666666667,33
+,100,,other,0,,1,5.038216666666667,33
+,40,... all of the gumballs.,all,0,,2,5.038216666666667,33
+,40,... most of the gumballs.,most,0,,2,5.038216666666667,33
+,40,... some of the gumballs.,some,1,,2,5.038216666666667,33
+,40,,other,0,,2,5.038216666666667,33
+,10,... all of the gumballs.,all,0,,3,5.038216666666667,33
+,10,... most of the gumballs.,most,0,,3,5.038216666666667,33
+,10,... some of the gumballs.,some,1,,3,5.038216666666667,33
+,10,,other,0,,3,5.038216666666667,33
+,90,... all of the gumballs.,all,0,,4,5.038216666666667,33
+,90,... most of the gumballs.,most,1,,4,5.038216666666667,33
+,90,... some of the gumballs.,some,0,,4,5.038216666666667,33
+,90,,other,0,,4,5.038216666666667,33
+,75,... all of the gumballs.,all,0,,5,5.038216666666667,33
+,75,... most of the gumballs.,most,1,,5,5.038216666666667,33
+,75,... some of the gumballs.,some,0,,5,5.038216666666667,33
+,75,,other,0,,5,5.038216666666667,33
+,40,... all of the gumballs.,all,0,,6,5.038216666666667,33
+,40,... most of the gumballs.,most,0,,6,5.038216666666667,33
+,40,... some of the gumballs.,some,1,,6,5.038216666666667,33
+,40,,other,0,,6,5.038216666666667,33
+,60,... all of the gumballs.,all,0,,7,5.038216666666667,33
+,60,... most of the gumballs.,most,1,,7,5.038216666666667,33
+,60,... some of the gumballs.,some,0,,7,5.038216666666667,33
+,60,,other,0,,7,5.038216666666667,33
+,75,... all of the gumballs.,all,0,,8,5.038216666666667,33
+,75,... most of the gumballs.,most,1,,8,5.038216666666667,33
+,75,... some of the gumballs.,some,0,,8,5.038216666666667,33
+,75,,other,0,,8,5.038216666666667,33
+,60,... all of the gumballs.,all,0,,9,5.038216666666667,33
+,60,... most of the gumballs.,most,1,,9,5.038216666666667,33
+,60,... some of the gumballs.,some,0,,9,5.038216666666667,33
+,60,,other,0,,9,5.038216666666667,33
+,10,... all of the gumballs.,all,0,,10,5.038216666666667,33
+,10,... most of the gumballs.,most,0,,10,5.038216666666667,33
+,10,... some of the gumballs.,some,1,,10,5.038216666666667,33
+,10,,other,0,,10,5.038216666666667,33
+,25,... all of the gumballs.,all,0,,11,5.038216666666667,33
+,25,... most of the gumballs.,most,0,,11,5.038216666666667,33
+,25,... some of the gumballs.,some,1,,11,5.038216666666667,33
+,25,,other,0,,11,5.038216666666667,33
+,100,... all of the gumballs.,all,1,,12,5.038216666666667,33
+,100,... most of the gumballs.,most,0,,12,5.038216666666667,33
+,100,... some of the gumballs.,some,0,,12,5.038216666666667,33
+,100,,other,0,,12,5.038216666666667,33
+,25,... all of the gumballs.,all,0,,13,5.038216666666667,33
+,25,... most of the gumballs.,most,0,,13,5.038216666666667,33
+,25,... some of the gumballs.,some,1,,13,5.038216666666667,33
+,25,,other,0,,13,5.038216666666667,33
+,50,... all of the gumballs.,all,0,,14,5.038216666666667,33
+,50,... most of the gumballs.,most,0,,14,5.038216666666667,33
+,50,... some of the gumballs.,some,1,,14,5.038216666666667,33
+,50,,other,0,,14,5.038216666666667,33
+,90,... all of the gumballs.,all,0,,15,5.038216666666667,33
+,90,... most of the gumballs.,most,1,,15,5.038216666666667,33
+,90,... some of the gumballs.,some,0,,15,5.038216666666667,33
+,90,,other,0,,15,5.038216666666667,33
+,50,... all of the gumballs.,all,0,,16,5.038216666666667,33
+,50,... most of the gumballs.,most,0,,16,5.038216666666667,33
+,50,... some of the gumballs.,some,1,,16,5.038216666666667,33
+,50,,other,0,,16,5.038216666666667,33
+,75,... some of the gumballs.,some,0.34999999999999987,,1,4.220066666666667,34
+,75,... most of the gumballs.,most,0.65,,1,4.220066666666667,34
+,75,... all of the gumballs.,all,0,,1,4.220066666666667,34
+,75,,other,0,,1,4.220066666666667,34
+,50,... some of the gumballs.,some,0.8099999999999999,,2,4.220066666666667,34
+,50,... most of the gumballs.,most,0.19,,2,4.220066666666667,34
+,50,... all of the gumballs.,all,0,,2,4.220066666666667,34
+,50,,other,0,,2,4.220066666666667,34
+,40,... some of the gumballs.,some,1,,3,4.220066666666667,34
+,40,... most of the gumballs.,most,0,,3,4.220066666666667,34
+,40,... all of the gumballs.,all,0,,3,4.220066666666667,34
+,40,,other,0,,3,4.220066666666667,34
+,10,... some of the gumballs.,some,0.37,,4,4.220066666666667,34
+,10,... most of the gumballs.,most,0,,4,4.220066666666667,34
+,10,... all of the gumballs.,all,0,,4,4.220066666666667,34
+,10,,other,0.63,,4,4.220066666666667,34
+,60,... some of the gumballs.,some,0.41,,5,4.220066666666667,34
+,60,... most of the gumballs.,most,0.5900000000000001,,5,4.220066666666667,34
+,60,... all of the gumballs.,all,0,,5,4.220066666666667,34
+,60,,other,0,,5,4.220066666666667,34
+,100,... some of the gumballs.,some,0,,6,4.220066666666667,34
+,100,... most of the gumballs.,most,0,,6,4.220066666666667,34
+,100,... all of the gumballs.,all,0,,6,4.220066666666667,34
+,100,,other,1,,6,4.220066666666667,34
+,25,... some of the gumballs.,some,0.79,,7,4.220066666666667,34
+,25,... most of the gumballs.,most,0,,7,4.220066666666667,34
+,25,... all of the gumballs.,all,0,,7,4.220066666666667,34
+,25,,other,0.20999999999999996,,7,4.220066666666667,34
+,75,... some of the gumballs.,some,0.14000000000000012,,8,4.220066666666667,34
+,75,... most of the gumballs.,most,0.86,,8,4.220066666666667,34
+,75,... all of the gumballs.,all,0,,8,4.220066666666667,34
+,75,,other,0,,8,4.220066666666667,34
+,60,... some of the gumballs.,some,0.37,,9,4.220066666666667,34
+,60,... most of the gumballs.,most,0.6300000000000001,,9,4.220066666666667,34
+,60,... all of the gumballs.,all,0,,9,4.220066666666667,34
+,60,,other,0,,9,4.220066666666667,34
+,25,... some of the gumballs.,some,0.55,,10,4.220066666666667,34
+,25,... most of the gumballs.,most,0,,10,4.220066666666667,34
+,25,... all of the gumballs.,all,0,,10,4.220066666666667,34
+,25,,other,0.44999999999999984,,10,4.220066666666667,34
+,90,... some of the gumballs.,some,0.01,,11,4.220066666666667,34
+,90,... most of the gumballs.,most,0.8599999999999999,,11,4.220066666666667,34
+,90,... all of the gumballs.,all,0.13,,11,4.220066666666667,34
+,90,,other,0,,11,4.220066666666667,34
+,90,... some of the gumballs.,some,0,,12,4.220066666666667,34
+,90,... most of the gumballs.,most,0.88,,12,4.220066666666667,34
+,90,... all of the gumballs.,all,0.1200000000000001,,12,4.220066666666667,34
+,90,,other,0,,12,4.220066666666667,34
+,50,... some of the gumballs.,some,0.42,,13,4.220066666666667,34
+,50,... most of the gumballs.,most,0.41,,13,4.220066666666667,34
+,50,... all of the gumballs.,all,0,,13,4.220066666666667,34
+,50,,other,0.16999999999999993,,13,4.220066666666667,34
+,100,... some of the gumballs.,some,0,,14,4.220066666666667,34
+,100,... most of the gumballs.,most,0,,14,4.220066666666667,34
+,100,... all of the gumballs.,all,1,,14,4.220066666666667,34
+,100,,other,0,,14,4.220066666666667,34
+,10,... some of the gumballs.,some,0.18,,15,4.220066666666667,34
+,10,... most of the gumballs.,most,0,,15,4.220066666666667,34
+,10,... all of the gumballs.,all,0,,15,4.220066666666667,34
+,10,,other,0.8200000000000001,,15,4.220066666666667,34
+,40,... some of the gumballs.,some,0.8,,16,4.220066666666667,34
+,40,... most of the gumballs.,most,0,,16,4.220066666666667,34
+,40,... all of the gumballs.,all,0,,16,4.220066666666667,34
+,40,,other,0.19999999999999996,,16,4.220066666666667,34
+,75,... all of the gumballs.,all,0,,1,5.0377833333333335,35
+,75,... most of the gumballs.,most,0.93,,1,5.0377833333333335,35
+,75,... some of the gumballs.,some,0.06999999999999995,,1,5.0377833333333335,35
+,75,,other,0,,1,5.0377833333333335,35
+,90,... all of the gumballs.,all,0,,2,5.0377833333333335,35
+,90,... most of the gumballs.,most,0.99,,2,5.0377833333333335,35
+,90,... some of the gumballs.,some,0.010000000000000009,,2,5.0377833333333335,35
+,90,,other,0,,2,5.0377833333333335,35
+,50,... all of the gumballs.,all,0,,3,5.0377833333333335,35
+,50,... most of the gumballs.,most,0,,3,5.0377833333333335,35
+,50,... some of the gumballs.,some,1,,3,5.0377833333333335,35
+,50,,other,0,,3,5.0377833333333335,35
+,75,... all of the gumballs.,all,0,,4,5.0377833333333335,35
+,75,... most of the gumballs.,most,1,,4,5.0377833333333335,35
+,75,... some of the gumballs.,some,0,,4,5.0377833333333335,35
+,75,,other,0,,4,5.0377833333333335,35
+,40,... all of the gumballs.,all,0,,5,5.0377833333333335,35
+,40,... most of the gumballs.,most,0,,5,5.0377833333333335,35
+,40,... some of the gumballs.,some,0.9,,5,5.0377833333333335,35
+,40,,other,0.09999999999999987,,5,5.0377833333333335,35
+,100,... all of the gumballs.,all,1,,6,5.0377833333333335,35
+,100,... most of the gumballs.,most,0,,6,5.0377833333333335,35
+,100,... some of the gumballs.,some,0,,6,5.0377833333333335,35
+,100,,other,0,,6,5.0377833333333335,35
+,50,... all of the gumballs.,all,0,,7,5.0377833333333335,35
+,50,... most of the gumballs.,most,0,,7,5.0377833333333335,35
+,50,... some of the gumballs.,some,0.53,,7,5.0377833333333335,35
+,50,,other,0.47,,7,5.0377833333333335,35
+,25,... all of the gumballs.,all,0,,8,5.0377833333333335,35
+,25,... most of the gumballs.,most,0,,8,5.0377833333333335,35
+,25,... some of the gumballs.,some,0.87,,8,5.0377833333333335,35
+,25,,other,0.13,,8,5.0377833333333335,35
+,25,... all of the gumballs.,all,0,,9,5.0377833333333335,35
+,25,... most of the gumballs.,most,0,,9,5.0377833333333335,35
+,25,... some of the gumballs.,some,1,,9,5.0377833333333335,35
+,25,,other,0,,9,5.0377833333333335,35
+,100,... all of the gumballs.,all,1,,10,5.0377833333333335,35
+,100,... most of the gumballs.,most,0,,10,5.0377833333333335,35
+,100,... some of the gumballs.,some,0,,10,5.0377833333333335,35
+,100,,other,0,,10,5.0377833333333335,35
+,10,... all of the gumballs.,all,0,,11,5.0377833333333335,35
+,10,... most of the gumballs.,most,0,,11,5.0377833333333335,35
+,10,... some of the gumballs.,some,0.17,,11,5.0377833333333335,35
+,10,,other,0.83,,11,5.0377833333333335,35
+,90,... all of the gumballs.,all,0,,12,5.0377833333333335,35
+,90,... most of the gumballs.,most,1,,12,5.0377833333333335,35
+,90,... some of the gumballs.,some,0,,12,5.0377833333333335,35
+,90,,other,0,,12,5.0377833333333335,35
+,40,... all of the gumballs.,all,0,,13,5.0377833333333335,35
+,40,... most of the gumballs.,most,0,,13,5.0377833333333335,35
+,40,... some of the gumballs.,some,0.92,,13,5.0377833333333335,35
+,40,,other,0.07999999999999996,,13,5.0377833333333335,35
+,60,... all of the gumballs.,all,0,,14,5.0377833333333335,35
+,60,... most of the gumballs.,most,0,,14,5.0377833333333335,35
+,60,... some of the gumballs.,some,0.73,,14,5.0377833333333335,35
+,60,,other,0.27,,14,5.0377833333333335,35
+,60,... all of the gumballs.,all,0,,15,5.0377833333333335,35
+,60,... most of the gumballs.,most,0,,15,5.0377833333333335,35
+,60,... some of the gumballs.,some,0.93,,15,5.0377833333333335,35
+,60,,other,0.07,,15,5.0377833333333335,35
+,10,... all of the gumballs.,all,0,,16,5.0377833333333335,35
+,10,... most of the gumballs.,most,0,,16,5.0377833333333335,35
+,10,... some of the gumballs.,some,0.09999999999999998,,16,5.0377833333333335,35
+,10,,other,0.9,,16,5.0377833333333335,35
+,10,... most of the gumballs.,most,0.79,,1,5.306066666666666,36
+,10,... some of the gumballs.,some,0.19999999999999996,,1,5.306066666666666,36
+,10,... all of the gumballs.,all,0.01,,1,5.306066666666666,36
+,10,,other,0,,1,5.306066666666666,36
+,100,... most of the gumballs.,most,0.02,,2,5.306066666666666,36
+,100,... some of the gumballs.,some,0.03,,2,5.306066666666666,36
+,100,... all of the gumballs.,all,0.95,,2,5.306066666666666,36
+,100,,other,0,,2,5.306066666666666,36
+,60,... most of the gumballs.,most,0.5,,3,5.306066666666666,36
+,60,... some of the gumballs.,some,0.5,,3,5.306066666666666,36
+,60,... all of the gumballs.,all,0,,3,5.306066666666666,36
+,60,,other,0,,3,5.306066666666666,36
+,40,... most of the gumballs.,most,0.08999999999999997,,4,5.306066666666666,36
+,40,... some of the gumballs.,some,0.91,,4,5.306066666666666,36
+,40,... all of the gumballs.,all,0,,4,5.306066666666666,36
+,40,,other,0,,4,5.306066666666666,36
+,90,... most of the gumballs.,most,0.94,,5,5.306066666666666,36
+,90,... some of the gumballs.,some,0.06000000000000005,,5,5.306066666666666,36
+,90,... all of the gumballs.,all,0,,5,5.306066666666666,36
+,90,,other,0,,5,5.306066666666666,36
+,60,... most of the gumballs.,most,0.63,,6,5.306066666666666,36
+,60,... some of the gumballs.,some,0.3700000000000001,,6,5.306066666666666,36
+,60,... all of the gumballs.,all,0,,6,5.306066666666666,36
+,60,,other,0,,6,5.306066666666666,36
+,40,... most of the gumballs.,most,0.20000000000000007,,7,5.306066666666666,36
+,40,... some of the gumballs.,some,0.8,,7,5.306066666666666,36
+,40,... all of the gumballs.,all,0,,7,5.306066666666666,36
+,40,,other,0,,7,5.306066666666666,36
+,75,... most of the gumballs.,most,0.87,,8,5.306066666666666,36
+,75,... some of the gumballs.,some,0.13000000000000012,,8,5.306066666666666,36
+,75,... all of the gumballs.,all,0,,8,5.306066666666666,36
+,75,,other,0,,8,5.306066666666666,36
+,90,... most of the gumballs.,most,0.93,,9,5.306066666666666,36
+,90,... some of the gumballs.,some,0.06999999999999995,,9,5.306066666666666,36
+,90,... all of the gumballs.,all,0,,9,5.306066666666666,36
+,90,,other,0,,9,5.306066666666666,36
+,100,... most of the gumballs.,most,0.01,,10,5.306066666666666,36
+,100,... some of the gumballs.,some,0.029999999999999916,,10,5.306066666666666,36
+,100,... all of the gumballs.,all,0.96,,10,5.306066666666666,36
+,100,,other,0,,10,5.306066666666666,36
+,10,... most of the gumballs.,most,0,,11,5.306066666666666,36
+,10,... some of the gumballs.,some,1,,11,5.306066666666666,36
+,10,... all of the gumballs.,all,0,,11,5.306066666666666,36
+,10,,other,0,,11,5.306066666666666,36
+,25,... most of the gumballs.,most,0,,12,5.306066666666666,36
+,25,... some of the gumballs.,some,1,,12,5.306066666666666,36
+,25,... all of the gumballs.,all,0,,12,5.306066666666666,36
+,25,,other,0,,12,5.306066666666666,36
+,25,... most of the gumballs.,most,0,,13,5.306066666666666,36
+,25,... some of the gumballs.,some,1,,13,5.306066666666666,36
+,25,... all of the gumballs.,all,0,,13,5.306066666666666,36
+,25,,other,0,,13,5.306066666666666,36
+,75,... most of the gumballs.,most,0.91,,14,5.306066666666666,36
+,75,... some of the gumballs.,some,0.08999999999999997,,14,5.306066666666666,36
+,75,... all of the gumballs.,all,0,,14,5.306066666666666,36
+,75,,other,0,,14,5.306066666666666,36
+,50,... most of the gumballs.,most,0.43000000000000005,,15,5.306066666666666,36
+,50,... some of the gumballs.,some,0.57,,15,5.306066666666666,36
+,50,... all of the gumballs.,all,0,,15,5.306066666666666,36
+,50,,other,0,,15,5.306066666666666,36
+,50,... most of the gumballs.,most,0.51,,16,5.306066666666666,36
+,50,... some of the gumballs.,some,0.49,,16,5.306066666666666,36
+,50,... all of the gumballs.,all,0,,16,5.306066666666666,36
+,50,,other,0,,16,5.306066666666666,36
+,90,... all of the gumballs.,all,0,,1,3.4275333333333333,37
+,90,... most of the gumballs.,most,0.96,,1,3.4275333333333333,37
+,90,... some of the gumballs.,some,0.04,,1,3.4275333333333333,37
+,90,,other,0,,1,3.4275333333333333,37
+,40,... all of the gumballs.,all,0,,2,3.4275333333333333,37
+,40,... most of the gumballs.,most,0.06,,2,3.4275333333333333,37
+,40,... some of the gumballs.,some,0.94,,2,3.4275333333333333,37
+,40,,other,0,,2,3.4275333333333333,37
+,60,... all of the gumballs.,all,0,,3,3.4275333333333333,37
+,60,... most of the gumballs.,most,0.67,,3,3.4275333333333333,37
+,60,... some of the gumballs.,some,0.32999999999999996,,3,3.4275333333333333,37
+,60,,other,0,,3,3.4275333333333333,37
+,25,... all of the gumballs.,all,0,,4,3.4275333333333333,37
+,25,... most of the gumballs.,most,0,,4,3.4275333333333333,37
+,25,... some of the gumballs.,some,0.76,,4,3.4275333333333333,37
+,25,,other,0.24,,4,3.4275333333333333,37
+,50,... all of the gumballs.,all,0,,5,3.4275333333333333,37
+,50,... most of the gumballs.,most,0,,5,3.4275333333333333,37
+,50,... some of the gumballs.,some,0.85,,5,3.4275333333333333,37
+,50,,other,0.15000000000000013,,5,3.4275333333333333,37
+,100,... all of the gumballs.,all,1,,6,3.4275333333333333,37
+,100,... most of the gumballs.,most,0,,6,3.4275333333333333,37
+,100,... some of the gumballs.,some,0,,6,3.4275333333333333,37
+,100,,other,0,,6,3.4275333333333333,37
+,90,... all of the gumballs.,all,0,,7,3.4275333333333333,37
+,90,... most of the gumballs.,most,0.92,,7,3.4275333333333333,37
+,90,... some of the gumballs.,some,0.07999999999999996,,7,3.4275333333333333,37
+,90,,other,0,,7,3.4275333333333333,37
+,75,... all of the gumballs.,all,0,,8,3.4275333333333333,37
+,75,... most of the gumballs.,most,0.8999999999999999,,8,3.4275333333333333,37
+,75,... some of the gumballs.,some,0.1,,8,3.4275333333333333,37
+,75,,other,0,,8,3.4275333333333333,37
+,60,... all of the gumballs.,all,0,,9,3.4275333333333333,37
+,60,... most of the gumballs.,most,0.6,,9,3.4275333333333333,37
+,60,... some of the gumballs.,some,0.3999999999999999,,9,3.4275333333333333,37
+,60,,other,0,,9,3.4275333333333333,37
+,75,... all of the gumballs.,all,0,,10,3.4275333333333333,37
+,75,... most of the gumballs.,most,0.76,,10,3.4275333333333333,37
+,75,... some of the gumballs.,some,0.24,,10,3.4275333333333333,37
+,75,,other,0,,10,3.4275333333333333,37
+,100,... all of the gumballs.,all,0,,11,3.4275333333333333,37
+,100,... most of the gumballs.,most,1,,11,3.4275333333333333,37
+,100,... some of the gumballs.,some,0,,11,3.4275333333333333,37
+,100,,other,0,,11,3.4275333333333333,37
+,10,... all of the gumballs.,all,0,,12,3.4275333333333333,37
+,10,... most of the gumballs.,most,0,,12,3.4275333333333333,37
+,10,... some of the gumballs.,some,0.16000000000000014,,12,3.4275333333333333,37
+,10,,other,0.84,,12,3.4275333333333333,37
+,50,... all of the gumballs.,all,0,,13,3.4275333333333333,37
+,50,... most of the gumballs.,most,0.48,,13,3.4275333333333333,37
+,50,... some of the gumballs.,some,0.52,,13,3.4275333333333333,37
+,50,,other,0,,13,3.4275333333333333,37
+,40,... all of the gumballs.,all,0,,14,3.4275333333333333,37
+,40,... most of the gumballs.,most,0.25,,14,3.4275333333333333,37
+,40,... some of the gumballs.,some,0.75,,14,3.4275333333333333,37
+,40,,other,0,,14,3.4275333333333333,37
+,25,... all of the gumballs.,all,0,,15,3.4275333333333333,37
+,25,... most of the gumballs.,most,0.08000000000000007,,15,3.4275333333333333,37
+,25,... some of the gumballs.,some,0.76,,15,3.4275333333333333,37
+,25,,other,0.16,,15,3.4275333333333333,37
+,10,... all of the gumballs.,all,0,,16,3.4275333333333333,37
+,10,... most of the gumballs.,most,0,,16,3.4275333333333333,37
+,10,... some of the gumballs.,some,0.52,,16,3.4275333333333333,37
+,10,,other,0.48,,16,3.4275333333333333,37
+,60,... some of the gumballs.,some,0,,1,2.3490166666666665,38
+,60,... most of the gumballs.,most,1,,1,2.3490166666666665,38
+,60,... all of the gumballs.,all,0,,1,2.3490166666666665,38
+,60,,other,0,,1,2.3490166666666665,38
+,50,... some of the gumballs.,some,1,,2,2.3490166666666665,38
+,50,... most of the gumballs.,most,0,,2,2.3490166666666665,38
+,50,... all of the gumballs.,all,0,,2,2.3490166666666665,38
+,50,,other,0,,2,2.3490166666666665,38
+,40,... some of the gumballs.,some,1,,3,2.3490166666666665,38
+,40,... most of the gumballs.,most,0,,3,2.3490166666666665,38
+,40,... all of the gumballs.,all,0,,3,2.3490166666666665,38
+,40,,other,0,,3,2.3490166666666665,38
+,100,... some of the gumballs.,some,0,,4,2.3490166666666665,38
+,100,... most of the gumballs.,most,0,,4,2.3490166666666665,38
+,100,... all of the gumballs.,all,1,,4,2.3490166666666665,38
+,100,,other,0,,4,2.3490166666666665,38
+,25,... some of the gumballs.,some,1,,5,2.3490166666666665,38
+,25,... most of the gumballs.,most,0,,5,2.3490166666666665,38
+,25,... all of the gumballs.,all,0,,5,2.3490166666666665,38
+,25,,other,0,,5,2.3490166666666665,38
+,10,... some of the gumballs.,some,0,,6,2.3490166666666665,38
+,10,... most of the gumballs.,most,0,,6,2.3490166666666665,38
+,10,... all of the gumballs.,all,0,,6,2.3490166666666665,38
+,10,,other,1,,6,2.3490166666666665,38
+,90,... some of the gumballs.,some,0,,7,2.3490166666666665,38
+,90,... most of the gumballs.,most,1,,7,2.3490166666666665,38
+,90,... all of the gumballs.,all,0,,7,2.3490166666666665,38
+,90,,other,0,,7,2.3490166666666665,38
+,40,... some of the gumballs.,some,1,,8,2.3490166666666665,38
+,40,... most of the gumballs.,most,0,,8,2.3490166666666665,38
+,40,... all of the gumballs.,all,0,,8,2.3490166666666665,38
+,40,,other,0,,8,2.3490166666666665,38
+,90,... some of the gumballs.,some,0,,9,2.3490166666666665,38
+,90,... most of the gumballs.,most,1,,9,2.3490166666666665,38
+,90,... all of the gumballs.,all,0,,9,2.3490166666666665,38
+,90,,other,0,,9,2.3490166666666665,38
+,25,... some of the gumballs.,some,1,,10,2.3490166666666665,38
+,25,... most of the gumballs.,most,0,,10,2.3490166666666665,38
+,25,... all of the gumballs.,all,0,,10,2.3490166666666665,38
+,25,,other,0,,10,2.3490166666666665,38
+,75,... some of the gumballs.,some,0,,11,2.3490166666666665,38
+,75,... most of the gumballs.,most,1,,11,2.3490166666666665,38
+,75,... all of the gumballs.,all,0,,11,2.3490166666666665,38
+,75,,other,0,,11,2.3490166666666665,38
+,75,... some of the gumballs.,some,0,,12,2.3490166666666665,38
+,75,... most of the gumballs.,most,1,,12,2.3490166666666665,38
+,75,... all of the gumballs.,all,0,,12,2.3490166666666665,38
+,75,,other,0,,12,2.3490166666666665,38
+,50,... some of the gumballs.,some,1,,13,2.3490166666666665,38
+,50,... most of the gumballs.,most,0,,13,2.3490166666666665,38
+,50,... all of the gumballs.,all,0,,13,2.3490166666666665,38
+,50,,other,0,,13,2.3490166666666665,38
+,60,... some of the gumballs.,some,0,,14,2.3490166666666665,38
+,60,... most of the gumballs.,most,1,,14,2.3490166666666665,38
+,60,... all of the gumballs.,all,0,,14,2.3490166666666665,38
+,60,,other,0,,14,2.3490166666666665,38
+,10,... some of the gumballs.,some,1,,15,2.3490166666666665,38
+,10,... most of the gumballs.,most,0,,15,2.3490166666666665,38
+,10,... all of the gumballs.,all,0,,15,2.3490166666666665,38
+,10,,other,0,,15,2.3490166666666665,38
+,100,... some of the gumballs.,some,0,,16,2.3490166666666665,38
+,100,... most of the gumballs.,most,0,,16,2.3490166666666665,38
+,100,... all of the gumballs.,all,1,,16,2.3490166666666665,38
+,100,,other,0,,16,2.3490166666666665,38
+,40,... all of the gumballs.,all,0.03,,1,3.8524833333333333,39
+,40,... some of the gumballs.,some,0.8,,1,3.8524833333333333,39
+,40,... most of the gumballs.,most,0.16999999999999993,,1,3.8524833333333333,39
+,40,,other,0,,1,3.8524833333333333,39
+,90,... all of the gumballs.,all,0.49,,2,3.8524833333333333,39
+,90,... some of the gumballs.,some,0.12,,2,3.8524833333333333,39
+,90,... most of the gumballs.,most,0.3899999999999999,,2,3.8524833333333333,39
+,90,,other,0,,2,3.8524833333333333,39
+,100,... all of the gumballs.,all,1,,3,3.8524833333333333,39
+,100,... some of the gumballs.,some,0,,3,3.8524833333333333,39
+,100,... most of the gumballs.,most,0,,3,3.8524833333333333,39
+,100,,other,0,,3,3.8524833333333333,39
+,25,... all of the gumballs.,all,0,,4,3.8524833333333333,39
+,25,... some of the gumballs.,some,0.88,,4,3.8524833333333333,39
+,25,... most of the gumballs.,most,0.11999999999999988,,4,3.8524833333333333,39
+,25,,other,0,,4,3.8524833333333333,39
+,90,... all of the gumballs.,all,0.23,,5,3.8524833333333333,39
+,90,... some of the gumballs.,some,0,,5,3.8524833333333333,39
+,90,... most of the gumballs.,most,0.77,,5,3.8524833333333333,39
+,90,,other,0,,5,3.8524833333333333,39
+,60,... all of the gumballs.,all,0,,6,3.8524833333333333,39
+,60,... some of the gumballs.,some,0.32,,6,3.8524833333333333,39
+,60,... most of the gumballs.,most,0.68,,6,3.8524833333333333,39
+,60,,other,0,,6,3.8524833333333333,39
+,10,... all of the gumballs.,all,0,,7,3.8524833333333333,39
+,10,... some of the gumballs.,some,1,,7,3.8524833333333333,39
+,10,... most of the gumballs.,most,0,,7,3.8524833333333333,39
+,10,,other,0,,7,3.8524833333333333,39
+,40,... all of the gumballs.,all,0,,8,3.8524833333333333,39
+,40,... some of the gumballs.,some,0.84,,8,3.8524833333333333,39
+,40,... most of the gumballs.,most,0.15999999999999992,,8,3.8524833333333333,39
+,40,,other,0,,8,3.8524833333333333,39
+,50,... all of the gumballs.,all,0,,9,3.8524833333333333,39
+,50,... some of the gumballs.,some,0.5,,9,3.8524833333333333,39
+,50,... most of the gumballs.,most,0.5,,9,3.8524833333333333,39
+,50,,other,0,,9,3.8524833333333333,39
+,100,... all of the gumballs.,all,1,,10,3.8524833333333333,39
+,100,... some of the gumballs.,some,0,,10,3.8524833333333333,39
+,100,... most of the gumballs.,most,0,,10,3.8524833333333333,39
+,100,,other,0,,10,3.8524833333333333,39
+,25,... all of the gumballs.,all,0,,11,3.8524833333333333,39
+,25,... some of the gumballs.,some,1,,11,3.8524833333333333,39
+,25,... most of the gumballs.,most,0,,11,3.8524833333333333,39
+,25,,other,0,,11,3.8524833333333333,39
+,60,... all of the gumballs.,all,0,,12,3.8524833333333333,39
+,60,... some of the gumballs.,some,0.67,,12,3.8524833333333333,39
+,60,... most of the gumballs.,most,0.32999999999999996,,12,3.8524833333333333,39
+,60,,other,0,,12,3.8524833333333333,39
+,50,... all of the gumballs.,all,0,,13,3.8524833333333333,39
+,50,... some of the gumballs.,some,0.71,,13,3.8524833333333333,39
+,50,... most of the gumballs.,most,0.29000000000000004,,13,3.8524833333333333,39
+,50,,other,0,,13,3.8524833333333333,39
+,75,... all of the gumballs.,all,0,,14,3.8524833333333333,39
+,75,... some of the gumballs.,some,0.25,,14,3.8524833333333333,39
+,75,... most of the gumballs.,most,0.75,,14,3.8524833333333333,39
+,75,,other,0,,14,3.8524833333333333,39
+,10,... all of the gumballs.,all,0,,15,3.8524833333333333,39
+,10,... some of the gumballs.,some,1,,15,3.8524833333333333,39
+,10,... most of the gumballs.,most,0,,15,3.8524833333333333,39
+,10,,other,0,,15,3.8524833333333333,39
+,75,... all of the gumballs.,all,0,,16,3.8524833333333333,39
+,75,... some of the gumballs.,some,0.27000000000000013,,16,3.8524833333333333,39
+,75,... most of the gumballs.,most,0.73,,16,3.8524833333333333,39
+,75,,other,0,,16,3.8524833333333333,39

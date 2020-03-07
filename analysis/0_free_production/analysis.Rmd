@@ -1,0 +1,64 @@
+---
+title: "Free production analysis"
+author: "Sebastian Schuster"
+date: "1/13/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+theme_set(theme_bw())
+```
+
+```{r load_data}
+
+d = read.csv("../../data/0_free_production/0_free_production-trials.csv")
+desc_map = read.csv("desc_map.csv") %>% dplyr::rename(description = from, description_norm=to)
+d = d %>% mutate(pos = factor(rep(c("left", "right"), nrow(d) / 2)))
+d = d %>% mutate(trial = rep(1:(nrow(d) / 2), each=2))
+d = d %>% merge(desc_map, by=c("description"))
+
+frequent_terms = d %>% group_by(description_norm) %>% dplyr::summarize(n = n()) %>% filter(n > 5) %>% select(description_norm) %>% .$description_norm
+
+d.freq = d %>% filter(description_norm %in% frequent_terms)
+d.other = d %>% filter(!(description_norm %in% frequent_terms)) %>% mutate(description_norm ="other")
+d = rbind(d.freq, d.other)
+
+d %>% ggplot(aes(x=factor(proportion))) + geom_histogram(stat="count") + facet_wrap(~description_norm, scales="free_y")
+
+
+d %>% ggplot(aes(x=factor(proportion))) + geom_histogram(stat="count") + facet_wrap(~description_norm)
+
+
+# plot some and most as a function of pairs
+d.left = d %>% 
+  filter(pos == "left") %>% 
+  dplyr::rename(color.left = color, proportion.left = proportion, description_norm.left = description_norm)
+d.right = d %>% filter(pos == "right")  %>% 
+  dplyr::rename(color.right = color, proportion.right = proportion, description_norm.right = description_norm)
+
+
+
+d.pairs = merge(d.left, d.right, by=c("trial", "workerid"))
+
+d.pairs = d.pairs %>% filter(proportion.left != proportion.right)
+
+d.left = d %>% 
+  filter(pos == "right") %>% 
+  dplyr::rename(color.left = color, proportion.left = proportion, description_norm.left = description_norm)
+d.right = d %>% filter(pos == "left")  %>% 
+  dplyr::rename(color.right = color, proportion.right = proportion, description_norm.right = description_norm)
+
+d.pairs = rbind(d.pairs, merge(d.left, d.right, by=c("trial", "workerid")))
+
+d.pairs = d.pairs %>% group_by(proportion.left, proportion.right, description_norm.left) %>% dplyr::summarize(n = n()) %>% group_by(proportion.left, proportion.right) %>% dplyr::mutate(p = n/sum(n))
+  
+  
+d.pairs %>% filter(description_norm.left == "some") %>% ggplot(aes(x=factor(proportion.right), y=p)) + facet_wrap(~proportion.left) + geom_bar(stat="identity") + ggtitle("Responses of some") + xlab("Competitor proportion") 
+
+
+d.pairs %>% filter(description_norm.left == "most") %>% ggplot(aes(x=factor(proportion.right), y=p)) + facet_wrap(~proportion.left) + geom_bar(stat="identity") + ggtitle("Responses of most") + xlab("Competitor proportion") 
+
+
+
+```

@@ -1,0 +1,41 @@
+---
+title: "Analysis of norming experiment (some-many condition)"
+author: "Sebastian Schuster"
+date: "3/3/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+theme_set(theme_bw())
+```
+
+```{r load_data}
+
+d = read.csv("../../data/3_norming_some_many//3_norming_some_many-trials.csv")
+
+exclude_workerids = c(5,13,14,17,20,22,23,24,25,37,38)
+
+d = d %>% filter(!(workerid %in% exclude_workerids))
+
+d.avg = d %>% 
+  group_by(proportion, quantifier) %>% 
+  dplyr::summarize(mu = mean(rating), ci.lower = ci.low(rating), ci.upper=ci.high(rating))
+
+d.avg %>% ggplot(aes(x=proportion, col=quantifier, y=mu)) + geom_line() + geom_point() + geom_errorbar(aes(ymin=mu-ci.lower, ymax=ci.upper+mu)) + xlim(1,100)
+
+
+d.part = d %>% 
+  group_by(proportion, quantifier, workerid) %>% 
+  dplyr::summarize(mu = mean(rating), ci.lower = ci.low(rating), ci.upper=ci.high(rating))
+
+
+```
+
+```{r part_plot, fig.width=10, fig.height=15}
+
+d.part %>% ggplot(aes(x=proportion, col=quantifier, y=mu)) + geom_line() + geom_point() + geom_errorbar(aes(ymin=mu-ci.lower, ymax=ci.upper+mu)) + xlim(1,100) + facet_wrap(~workerid, nrow=8) +theme(legend.position = "bottom")
+
+
+
+```

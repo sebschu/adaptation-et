@@ -1,0 +1,36 @@
+---
+title: "Analysis of norming experiment"
+author: "Sebastian Schuster"
+date: "1/16/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r load_data}
+
+d = read.csv("../../data/1_norming/1_norming-trials.csv")
+
+d.avg = d %>% 
+  group_by(proportion, quantifier) %>% 
+  dplyr::summarize(mu = mean(rating), ci.lower = ci.low(rating), ci.upper=ci.high(rating))
+
+d.avg %>% ggplot(aes(x=proportion, col=quantifier, y=mu)) + geom_line() + geom_point() + geom_errorbar(aes(ymin=mu-ci.lower, ymax=ci.upper+mu)) + xlim(1,100)
+
+
+d.part = d %>% 
+  group_by(proportion, quantifier, workerid) %>% 
+  dplyr::summarize(mu = mean(rating), ci.lower = ci.low(rating), ci.upper=ci.high(rating))
+
+
+```
+
+```{r part_plot, fig.width=10, fig.height=15}
+
+d.part %>% ggplot(aes(x=proportion, col=quantifier, y=mu)) + geom_line() + geom_point() + geom_errorbar(aes(ymin=mu-ci.lower, ymax=ci.upper+mu)) + xlim(1,100) + facet_wrap(~workerid, nrow=8) +theme(legend.position = "bottom")
+
+
+
+```
